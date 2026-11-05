@@ -1,0 +1,46 @@
+name: 매주 새 영단어 공개
+
+on:
+  schedule:
+    # 매주 월요일 한국시간 오전 9시 17분 (UTC 0시 17분)
+    - cron: "17 0 * * 1"
+  workflow_dispatch: # Actions 탭에서 바로 실행 가능
+    inputs:
+      count:
+        description: "공개할 단어 수"
+        default: "50"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: words
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install cmudict
+
+      - name: 대기열에서 새 단어 공개
+        id: rel
+        env:
+          RELEASE_COUNT: ${{ github.event.inputs.count || '50' }}
+        run: python scripts/release_weekly.py
+
+      - name: 커밋하고 올리기
+        run: |
+          if git diff --quiet; then echo "변경 없음"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add words.json queue.json
+          git commit -m "${{ steps.rel.outputs.level }}단계 새 단어 ${{ steps.rel.outputs.count }}개 공개 (대기 ${{ steps.rel.outputs.left }}개)"
+          git push
