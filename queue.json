@@ -1,1 +1,2002 @@
-[]
+[
+{
+"c": "공항·항공",
+"w": "gate change",
+"ipa": "/geɪt tʃeɪndʒ/",
+"h": "게잇 체인지",
+"p": "n.",
+"m": "게이트 변경",
+"e": "There's been a gate change for our flight.",
+"k": "저희 비행편 게이트가 변경됐어요."
+},
+{
+"c": "공항·항공",
+"w": "priority boarding",
+"ipa": "/praɪˈɔrəti ˈbɔrdɪŋ/",
+"h": "프라이오러티 보딩",
+"p": "n.",
+"m": "우선 탑승",
+"e": "Business class passengers have priority boarding.",
+"k": "비즈니스석 승객은 우선 탑승합니다."
+},
+{
+"c": "공항·항공",
+"w": "seat assignment",
+"ipa": "/sit əˈsaɪnmənt/",
+"h": "씻 어사인먼트",
+"p": "n.",
+"m": "좌석 배정",
+"e": "I haven't received my seat assignment yet.",
+"k": "아직 좌석 배정을 못 받았어요."
+},
+{
+"c": "공항·항공",
+"w": "final call",
+"ipa": "/ˈfaɪnəl kɔl/",
+"h": "파이널 콜",
+"p": "n.",
+"m": "마지막 탑승 안내",
+"e": "This is the final call for flight KE017.",
+"k": "KE017편 마지막 탑승 안내입니다."
+},
+{
+"c": "공항·항공",
+"w": "jet bridge",
+"ipa": "/dʒɛt brɪdʒ/",
+"h": "젯 브리지",
+"p": "n.",
+"m": "탑승교",
+"e": "We'll board through the jet bridge at gate 5.",
+"k": "5번 게이트 탑승교로 탑승합니다."
+},
+{
+"c": "공항·항공",
+"w": "tray table",
+"ipa": "/treɪ ˈteɪbəl/",
+"h": "트레이 테이블",
+"p": "n.",
+"m": "(좌석) 접이식 테이블",
+"e": "Please put your tray table up for landing.",
+"k": "착륙을 위해 테이블을 접어 주세요."
+},
+{
+"c": "공항·항공",
+"w": "landing card",
+"ipa": "/ˈlændɪŋ kɑrd/",
+"h": "랜딩 카드",
+"p": "n.",
+"m": "입국 신고서",
+"e": "Please fill out this landing card before arrival.",
+"k": "도착 전에 입국 신고서를 작성해 주세요."
+},
+{
+"c": "공항·항공",
+"w": "transit",
+"ipa": "/ˈtrænzɪt/",
+"h": "트랜짓",
+"p": "n.",
+"m": "환승, 통과",
+"e": "Do I need a visa for transit?",
+"k": "환승할 때도 비자가 필요한가요?"
+},
+{
+"c": "공항·항공",
+"w": "baggage allowance",
+"ipa": "/ˈbægədʒ əˈlaʊəns/",
+"h": "배기지 얼라우언스",
+"p": "n.",
+"m": "수하물 허용량",
+"e": "What's the baggage allowance for economy?",
+"k": "이코노미석 수하물 허용량이 어떻게 되나요?"
+},
+{
+"c": "공항·항공",
+"w": "arrival time",
+"ipa": "/əˈraɪvəl taɪm/",
+"h": "어라이벌 타임",
+"p": "n.",
+"m": "도착 시간",
+"e": "Our arrival time is 7:40 in the morning.",
+"k": "도착 시간은 오전 7시 40분이에요."
+},
+{
+"c": "공항·항공",
+"w": "passport control",
+"ipa": "/ˈpæspɔrt kənˈtroʊl/",
+"h": "패스포트 컨트롤",
+"p": "n.",
+"m": "여권 심사대",
+"e": "Follow the signs to passport control.",
+"k": "여권 심사대 표지판을 따라가세요."
+},
+{
+"c": "공항·항공",
+"w": "customs declaration",
+"ipa": "/ˈkʌstəmz ˌdɛkləˈreɪʃən/",
+"h": "커스텀즈 데클러레이션",
+"p": "n.",
+"m": "세관 신고서",
+"e": "Do I need to fill out a customs declaration?",
+"k": "세관 신고서를 써야 하나요?"
+},
+{
+"c": "공항·항공",
+"w": "boarding gate",
+"ipa": "/ˈbɔrdɪŋ geɪt/",
+"h": "보딩 게잇",
+"p": "n.",
+"m": "탑승구",
+"e": "Please proceed to boarding gate 23.",
+"k": "23번 탑승구로 가 주세요."
+},
+{
+"c": "공항·항공",
+"w": "airline",
+"ipa": "/ˈɛrˌlaɪn/",
+"h": "에어라인",
+"p": "n.",
+"m": "항공사",
+"e": "Which airline are you flying with?",
+"k": "어느 항공사 타세요?"
+},
+{
+"c": "공항·항공",
+"w": "flight attendant",
+"ipa": "/flaɪt əˈtɛndənt/",
+"h": "플라이트 어텐던트",
+"p": "n.",
+"m": "승무원",
+"e": "I asked the flight attendant for a blanket.",
+"k": "승무원에게 담요를 달라고 했어요."
+},
+{
+"c": "공항·항공",
+"w": "exit row",
+"ipa": "/ˈɛgzɪt roʊ/",
+"h": "엑싯 로우",
+"p": "n.",
+"m": "비상구 좌석 열",
+"e": "Seats in the exit row have more legroom.",
+"k": "비상구 좌석은 다리 공간이 더 넓어요."
+},
+{
+"c": "공항·항공",
+"w": "connecting gate",
+"ipa": "/kəˈnɛktɪŋ geɪt/",
+"h": "커넥팅 게잇",
+"p": "n.",
+"m": "환승 게이트",
+"e": "How do I get to my connecting gate?",
+"k": "환승 게이트까지 어떻게 가나요?"
+},
+{
+"c": "공항·항공",
+"w": "airport shuttle",
+"ipa": "/ˈɛrˌpɔrt ˈʃʌtəl/",
+"h": "에어포트 셔틀",
+"p": "n.",
+"m": "공항 셔틀",
+"e": "The airport shuttle leaves every 20 minutes.",
+"k": "공항 셔틀은 20분마다 출발해요."
+},
+{
+"c": "공항·항공",
+"w": "departures board",
+"ipa": "/dɪˈpɑrtʃərz bɔrd/",
+"h": "디파처즈 보드",
+"p": "n.",
+"m": "출발 안내판",
+"e": "Check the departures board for your gate.",
+"k": "출발 안내판에서 게이트를 확인하세요."
+},
+{
+"c": "공항·항공",
+"w": "time difference",
+"ipa": "/taɪm ˈdɪfərəns/",
+"h": "타임 디퍼런스",
+"p": "n.",
+"m": "시차",
+"e": "The time difference between Seoul and London is eight hours.",
+"k": "서울과 런던의 시차는 8시간이에요."
+},
+{
+"c": "호텔·숙박",
+"w": "turndown service",
+"ipa": "/ˈtɜrnˌdaʊn ˈsɜrvəs/",
+"h": "턴다운 서비스",
+"p": "n.",
+"m": "저녁 객실 정리 서비스",
+"e": "Turndown service is offered every evening.",
+"k": "매일 저녁 객실 정리 서비스가 있어요."
+},
+{
+"c": "호텔·숙박",
+"w": "twin room",
+"ipa": "/twɪn rum/",
+"h": "트윈 룸",
+"p": "n.",
+"m": "트윈룸 (침대 두 개)",
+"e": "We booked a twin room for two colleagues.",
+"k": "동료 두 명을 위해 트윈룸을 예약했어요."
+},
+{
+"c": "호텔·숙박",
+"w": "king-size bed",
+"ipa": "/ˈkɪŋ ˌsaɪz bɛd/",
+"h": "킹사이즈 베드",
+"p": "n.",
+"m": "킹사이즈 침대",
+"e": "I'd like a room with a king-size bed.",
+"k": "킹사이즈 침대 방으로 주세요."
+},
+{
+"c": "호텔·숙박",
+"w": "spare key",
+"ipa": "/spɛr ki/",
+"h": "스페어 키",
+"p": "n.",
+"m": "여분 열쇠",
+"e": "Could I get a spare key for my room?",
+"k": "방 여분 키를 받을 수 있을까요?"
+},
+{
+"c": "호텔·숙박",
+"w": "hair dryer",
+"ipa": "/hɛr ˈdraɪər/",
+"h": "헤어 드라이어",
+"p": "n.",
+"m": "헤어드라이어",
+"e": "Is there a hair dryer in the room?",
+"k": "방에 헤어드라이어가 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "blackout curtains",
+"ipa": "/ˈblækˌaʊt ˈkɜrtənz/",
+"h": "블랙아웃 커튼즈",
+"p": "n.",
+"m": "암막 커튼",
+"e": "The blackout curtains helped me sleep.",
+"k": "암막 커튼 덕분에 잘 잤어요."
+},
+{
+"c": "호텔·숙박",
+"w": "quiet room",
+"ipa": "/ˈkwaɪət rum/",
+"h": "콰이엇 룸",
+"p": "n.",
+"m": "조용한 방",
+"e": "Could I have a quiet room away from the elevator?",
+"k": "엘리베이터에서 먼 조용한 방으로 주실 수 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "room number",
+"ipa": "/rum ˈnʌmbər/",
+"h": "룸 넘버",
+"p": "n.",
+"m": "방 번호",
+"e": "Please charge it to my room number.",
+"k": "제 방 번호로 청구해 주세요."
+},
+{
+"c": "호텔·숙박",
+"w": "pillow",
+"ipa": "/ˈpɪloʊ/",
+"h": "필로우",
+"p": "n.",
+"m": "베개",
+"e": "Could I get an extra pillow?",
+"k": "베개 하나 더 받을 수 있을까요?"
+},
+{
+"c": "호텔·숙박",
+"w": "check-out time",
+"ipa": "/ˈtʃɛk ˌaʊt taɪm/",
+"h": "체크아웃 타임",
+"p": "n.",
+"m": "체크아웃 시간",
+"e": "What's the check-out time?",
+"k": "체크아웃 시간이 언제예요?"
+},
+{
+"c": "호텔·숙박",
+"w": "booking reference",
+"ipa": "/ˈbʊkɪŋ ˈrɛfərəns/",
+"h": "부킹 레퍼런스",
+"p": "n.",
+"m": "예약 번호",
+"e": "Can I have your booking reference?",
+"k": "예약 번호를 알려주시겠어요?"
+},
+{
+"c": "호텔·숙박",
+"w": "smoking area",
+"ipa": "/ˈsmoʊkɪŋ ˈɛriə/",
+"h": "스모킹 에리어",
+"p": "n.",
+"m": "흡연 구역",
+"e": "Is there a smoking area outside?",
+"k": "밖에 흡연 구역이 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "elevator",
+"ipa": "/ˈɛləˌveɪtər/",
+"h": "엘러베이터",
+"p": "n.",
+"m": "엘리베이터",
+"e": "The elevator is on your left.",
+"k": "엘리베이터는 왼쪽에 있어요."
+},
+{
+"c": "호텔·숙박",
+"w": "ice machine",
+"ipa": "/aɪs məˈʃin/",
+"h": "아이스 머신",
+"p": "n.",
+"m": "제빙기",
+"e": "Is there an ice machine on this floor?",
+"k": "이 층에 제빙기가 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "breakfast included",
+"ipa": "/ˈbrɛkfəst ɪnˈkludɪd/",
+"h": "브렉퍼스트 인클루디드",
+"p": "phr.",
+"m": "조식 포함",
+"e": "Is breakfast included in the price?",
+"k": "가격에 조식이 포함되어 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "room upgrade",
+"ipa": "/rum ˌʌpˈgreɪd/",
+"h": "룸 업그레이드",
+"p": "n.",
+"m": "객실 업그레이드",
+"e": "Is a room upgrade available tonight?",
+"k": "오늘 밤 객실 업그레이드 가능한가요?"
+},
+{
+"c": "호텔·숙박",
+"w": "noise complaint",
+"ipa": "/nɔɪz kəmˈpleɪnt/",
+"h": "노이즈 컴플레인트",
+"p": "n.",
+"m": "소음 항의",
+"e": "I'd like to make a noise complaint.",
+"k": "소음 때문에 항의하고 싶어요."
+},
+{
+"c": "호텔·숙박",
+"w": "air conditioning",
+"ipa": "/ɛr kənˈdɪʃənɪŋ/",
+"h": "에어 컨디셔닝",
+"p": "n.",
+"m": "에어컨",
+"e": "How do I turn on the air conditioning?",
+"k": "에어컨은 어떻게 켜나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "socket",
+"ipa": "/ˈsɑkət/",
+"h": "사킷",
+"p": "n.",
+"m": "콘센트",
+"e": "Where's the socket near the desk?",
+"k": "책상 근처 콘센트가 어디 있나요?"
+},
+{
+"c": "호텔·숙박",
+"w": "folio",
+"ipa": "/ˈfoʊlioʊ/",
+"h": "폴리오",
+"p": "n.",
+"m": "숙박 명세서",
+"e": "Could you email me the folio?",
+"k": "숙박 명세서를 이메일로 보내주시겠어요?"
+},
+{
+"c": "교통·이동",
+"w": "bus stop",
+"ipa": "/bʌs stɑp/",
+"h": "버스 스탑",
+"p": "n.",
+"m": "버스 정류장",
+"e": "Where's the nearest bus stop?",
+"k": "가장 가까운 버스 정류장이 어디예요?"
+},
+{
+"c": "교통·이동",
+"w": "train station",
+"ipa": "/treɪn ˈsteɪʃən/",
+"h": "트레인 스테이션",
+"p": "n.",
+"m": "기차역",
+"e": "How far is the train station from here?",
+"k": "여기서 기차역까지 얼마나 먼가요?"
+},
+{
+"c": "교통·이동",
+"w": "ticket machine",
+"ipa": "/ˈtɪkət məˈʃin/",
+"h": "티킷 머신",
+"p": "n.",
+"m": "발권기",
+"e": "You can buy a ticket from the ticket machine.",
+"k": "발권기에서 표를 살 수 있어요."
+},
+{
+"c": "교통·이동",
+"w": "transit card",
+"ipa": "/ˈtrænzɪt kɑrd/",
+"h": "트랜짓 카드",
+"p": "n.",
+"m": "교통카드",
+"e": "Where can I buy a transit card?",
+"k": "교통카드는 어디서 사나요?"
+},
+{
+"c": "교통·이동",
+"w": "top up",
+"ipa": "/tɑp ʌp/",
+"h": "탑 업",
+"p": "v.",
+"m": "(카드를) 충전하다",
+"e": "I need to top up my transit card.",
+"k": "교통카드를 충전해야 해요."
+},
+{
+"c": "교통·이동",
+"w": "next stop",
+"ipa": "/nɛkst stɑp/",
+"h": "넥스트 스탑",
+"p": "n.",
+"m": "다음 정류장",
+"e": "The next stop is City Hall.",
+"k": "다음 정류장은 시청입니다."
+},
+{
+"c": "교통·이동",
+"w": "take a cab",
+"ipa": "/teɪk ə kæb/",
+"h": "테이크 어 캡",
+"p": "phr.",
+"m": "택시를 타다",
+"e": "Let's take a cab to save time.",
+"k": "시간 아끼게 택시 타요."
+},
+{
+"c": "교통·이동",
+"w": "hail a taxi",
+"ipa": "/heɪl ə ˈtæksi/",
+"h": "헤일 어 택시",
+"p": "phr.",
+"m": "택시를 잡다",
+"e": "It's hard to hail a taxi in the rain.",
+"k": "비 올 때는 택시 잡기가 어려워요."
+},
+{
+"c": "교통·이동",
+"w": "straight ahead",
+"ipa": "/streɪt əˈhɛd/",
+"h": "스트레잇 어헤드",
+"p": "phr.",
+"m": "곧장 앞으로",
+"e": "Go straight ahead for two blocks.",
+"k": "두 블록 곧장 가세요."
+},
+{
+"c": "교통·이동",
+"w": "turn right",
+"ipa": "/tɜrn raɪt/",
+"h": "턴 라이트",
+"p": "phr.",
+"m": "우회전하다",
+"e": "Turn right at the traffic light.",
+"k": "신호등에서 우회전하세요."
+},
+{
+"c": "교통·이동",
+"w": "car rental desk",
+"ipa": "/kɑr ˈrɛntəl dɛsk/",
+"h": "카 렌털 데스크",
+"p": "n.",
+"m": "렌터카 데스크",
+"e": "The car rental desk is on the first floor.",
+"k": "렌터카 데스크는 1층에 있어요."
+},
+{
+"c": "교통·이동",
+"w": "driver's license",
+"ipa": "/ˈdraɪvərz ˈlaɪsəns/",
+"h": "드라이버즈 라이선스",
+"p": "n.",
+"m": "운전면허증",
+"e": "Do I need an international driver's license?",
+"k": "국제 운전면허증이 필요한가요?"
+},
+{
+"c": "교통·이동",
+"w": "fill up",
+"ipa": "/fɪl ʌp/",
+"h": "필 업",
+"p": "v.",
+"m": "(기름을) 가득 채우다",
+"e": "Please fill up the tank before returning the car.",
+"k": "차 반납 전에 기름을 가득 채워 주세요."
+},
+{
+"c": "교통·이동",
+"w": "one-way street",
+"ipa": "/ˌwʌn ˈweɪ strit/",
+"h": "원웨이 스트릿",
+"p": "n.",
+"m": "일방통행로",
+"e": "This is a one-way street.",
+"k": "여긴 일방통행로예요."
+},
+{
+"c": "교통·이동",
+"w": "crosswalk",
+"ipa": "/ˈkrɔsˌwɔk/",
+"h": "크로스워크",
+"p": "n.",
+"m": "횡단보도",
+"e": "Please cross at the crosswalk.",
+"k": "횡단보도에서 건너세요."
+},
+{
+"c": "교통·이동",
+"w": "around the corner",
+"ipa": "/əˈraʊnd ðə ˈkɔrnər/",
+"h": "어라운드 더 코너",
+"p": "phr.",
+"m": "모퉁이를 돌면 바로",
+"e": "The café is just around the corner.",
+"k": "카페는 모퉁이를 돌면 바로 있어요."
+},
+{
+"c": "교통·이동",
+"w": "ferry",
+"ipa": "/ˈfɛri/",
+"h": "페리",
+"p": "n.",
+"m": "여객선, 페리",
+"e": "We took the ferry to the island.",
+"k": "페리를 타고 섬에 갔어요."
+},
+{
+"c": "교통·이동",
+"w": "bike sharing",
+"ipa": "/baɪk ˈʃɛrɪŋ/",
+"h": "바이크 셰어링",
+"p": "n.",
+"m": "공유 자전거",
+"e": "The city has a bike sharing system.",
+"k": "그 도시에는 공유 자전거가 있어요."
+},
+{
+"c": "교통·이동",
+"w": "travel time",
+"ipa": "/ˈtrævəl taɪm/",
+"h": "트래블 타임",
+"p": "n.",
+"m": "이동 시간",
+"e": "What's the travel time to the factory?",
+"k": "공장까지 이동 시간이 얼마나 되나요?"
+},
+{
+"c": "교통·이동",
+"w": "pick-up point",
+"ipa": "/ˈpɪk ˌʌp pɔɪnt/",
+"h": "픽업 포인트",
+"p": "n.",
+"m": "탑승 장소, 픽업 장소",
+"e": "Where's the pick-up point for the shuttle?",
+"k": "셔틀 타는 곳이 어디예요?"
+},
+{
+"c": "식당·접대",
+"w": "order",
+"ipa": "/ˈɔrdər/",
+"h": "오더",
+"p": "v.",
+"m": "주문하다",
+"e": "Are you ready to order?",
+"k": "주문하시겠어요?"
+},
+{
+"c": "식당·접대",
+"w": "side dish",
+"ipa": "/saɪd dɪʃ/",
+"h": "사이드 디시",
+"p": "n.",
+"m": "곁들이는 요리, 반찬",
+"e": "This comes with two side dishes.",
+"k": "이건 반찬 두 개가 같이 나와요."
+},
+{
+"c": "식당·접대",
+"w": "well-done",
+"ipa": "/ˌwɛl ˈdʌn/",
+"h": "웰던",
+"p": "adj.",
+"m": "(고기) 바싹 익힌",
+"e": "I'd like my steak well-done.",
+"k": "스테이크는 바싹 익혀 주세요."
+},
+{
+"c": "식당·접대",
+"w": "sparkling water",
+"ipa": "/ˈspɑrklɪŋ ˈwɔtər/",
+"h": "스파클링 워터",
+"p": "n.",
+"m": "탄산수",
+"e": "Would you like still or sparkling water?",
+"k": "일반 물로 드릴까요, 탄산수로 드릴까요?"
+},
+{
+"c": "식당·접대",
+"w": "tap water",
+"ipa": "/tæp ˈwɔtər/",
+"h": "탭 워터",
+"p": "n.",
+"m": "수돗물 (무료 물)",
+"e": "Could we just have tap water, please?",
+"k": "그냥 수돗물로 주시겠어요?"
+},
+{
+"c": "식당·접대",
+"w": "house wine",
+"ipa": "/haʊs waɪn/",
+"h": "하우스 와인",
+"p": "n.",
+"m": "하우스 와인",
+"e": "We'll have a bottle of the house wine.",
+"k": "하우스 와인 한 병 주세요."
+},
+{
+"c": "식당·접대",
+"w": "local specialty",
+"ipa": "/ˈloʊkəl ˈspɛʃəlti/",
+"h": "로컬 스페셜티",
+"p": "n.",
+"m": "지역 특산 요리",
+"e": "What's the local specialty here?",
+"k": "이 지역 특산 요리가 뭔가요?"
+},
+{
+"c": "식당·접대",
+"w": "reservation under",
+"ipa": "/ˌrɛzərˈveɪʃən ˈʌndər/",
+"h": "레저베이션 언더",
+"p": "phr.",
+"m": "~의 이름으로 된 예약",
+"e": "We have a reservation under Park.",
+"k": "박이라는 이름으로 예약했어요."
+},
+{
+"c": "식당·접대",
+"w": "dress code",
+"ipa": "/drɛs koʊd/",
+"h": "드레스 코드",
+"p": "n.",
+"m": "복장 규정",
+"e": "Is there a dress code for the dinner?",
+"k": "저녁 식사에 복장 규정이 있나요?"
+},
+{
+"c": "식당·접대",
+"w": "signature dish",
+"ipa": "/ˈsɪgnətʃər dɪʃ/",
+"h": "시그니처 디시",
+"p": "n.",
+"m": "대표 요리",
+"e": "This is the chef's signature dish.",
+"k": "이게 셰프의 대표 요리예요."
+},
+{
+"c": "식당·접대",
+"w": "napkin",
+"ipa": "/ˈnæpkɪn/",
+"h": "냅킨",
+"p": "n.",
+"m": "냅킨",
+"e": "Could I get some more napkins?",
+"k": "냅킨 좀 더 주시겠어요?"
+},
+{
+"c": "식당·접대",
+"w": "rare",
+"ipa": "/rɛr/",
+"h": "레어",
+"p": "adj.",
+"m": "(고기) 살짝 익힌",
+"e": "I prefer my steak rare.",
+"k": "스테이크는 살짝만 익힌 게 좋아요."
+},
+{
+"c": "식당·접대",
+"w": "starter",
+"ipa": "/ˈstɑrtər/",
+"h": "스타터",
+"p": "n.",
+"m": "전채 요리",
+"e": "What would you like as a starter?",
+"k": "전채로 뭘 드시겠어요?"
+},
+{
+"c": "식당·접대",
+"w": "toast to",
+"ipa": "/toʊst tə/",
+"h": "토스트 투",
+"p": "phr.",
+"m": "~을 위해 건배하다",
+"e": "Let's toast to our new partnership.",
+"k": "새로운 협력을 위해 건배합시다."
+},
+{
+"c": "식당·접대",
+"w": "seafood",
+"ipa": "/ˈsiˌfud/",
+"h": "씨푸드",
+"p": "n.",
+"m": "해산물",
+"e": "Do you eat seafood?",
+"k": "해산물 드세요?"
+},
+{
+"c": "식당·접대",
+"w": "vegan",
+"ipa": "/ˈvɛgən/",
+"h": "비건",
+"p": "adj.",
+"m": "완전 채식의",
+"e": "Do you have any vegan dishes?",
+"k": "비건 요리가 있나요?"
+},
+{
+"c": "식당·접대",
+"w": "halal",
+"ipa": "/həˈlɑl/",
+"h": "할랄",
+"p": "adj.",
+"m": "할랄의",
+"e": "Is this restaurant halal?",
+"k": "이 식당은 할랄인가요?"
+},
+{
+"c": "식당·접대",
+"w": "order for the table",
+"ipa": "/ˈɔrdər fər ðə ˈteɪbəl/",
+"h": "오더 포 더 테이블",
+"p": "phr.",
+"m": "(다 같이) 나눠 먹게 주문하다",
+"e": "Shall I order for the table?",
+"k": "다 같이 먹을 걸로 제가 주문할까요?"
+},
+{
+"c": "식당·접대",
+"w": "doggy bag",
+"ipa": "/ˈdɔgi bæg/",
+"h": "도기 백",
+"p": "n.",
+"m": "남은 음식 포장 용기",
+"e": "Could I get a doggy bag?",
+"k": "남은 음식 포장해 주시겠어요?"
+},
+{
+"c": "식당·접대",
+"w": "my compliments to the chef",
+"ipa": "/maɪ ˈkɑmpləmɛnts tə ðə ʃɛf/",
+"h": "마이 캄플러먼츠 투 더 셰프",
+"p": "phr.",
+"m": "셰프에게 칭찬을 전해 주세요",
+"e": "My compliments to the chef.",
+"k": "셰프님께 칭찬 전해 주세요."
+},
+{
+"c": "회의·발표",
+"w": "meeting room",
+"ipa": "/ˈmitɪŋ rum/",
+"h": "미팅 룸",
+"p": "n.",
+"m": "회의실",
+"e": "I've booked a meeting room for 2 p.m.",
+"k": "오후 2시에 회의실을 예약했어요."
+},
+{
+"c": "회의·발표",
+"w": "projector",
+"ipa": "/prəˈdʒɛktər/",
+"h": "프러젝터",
+"p": "n.",
+"m": "프로젝터",
+"e": "Can we connect my laptop to the projector?",
+"k": "제 노트북을 프로젝터에 연결할 수 있을까요?"
+},
+{
+"c": "회의·발표",
+"w": "screen share",
+"ipa": "/skrin ʃɛr/",
+"h": "스크린 셰어",
+"p": "v.",
+"m": "화면을 공유하다",
+"e": "Let me screen share the document.",
+"k": "문서 화면을 공유할게요."
+},
+{
+"c": "회의·발표",
+"w": "mute",
+"ipa": "/mjut/",
+"h": "뮤트",
+"p": "n.",
+"m": "음소거",
+"e": "You're on mute.",
+"k": "음소거 상태세요."
+},
+{
+"c": "회의·발표",
+"w": "take notes",
+"ipa": "/teɪk noʊts/",
+"h": "테이크 노츠",
+"p": "phr.",
+"m": "메모하다",
+"e": "I'll take notes during the meeting.",
+"k": "회의 중에 제가 메모할게요."
+},
+{
+"c": "회의·발표",
+"w": "key takeaway",
+"ipa": "/ki ˈteɪkəˌweɪ/",
+"h": "키 테이커웨이",
+"p": "n.",
+"m": "핵심 요점",
+"e": "The key takeaway is that demand is growing.",
+"k": "핵심 요점은 수요가 늘고 있다는 겁니다."
+},
+{
+"c": "회의·발표",
+"w": "next steps",
+"ipa": "/nɛkst stɛps/",
+"h": "넥스트 스텝스",
+"p": "n.",
+"m": "다음 단계, 향후 계획",
+"e": "Let's agree on the next steps.",
+"k": "다음 단계에 대해 합의합시다."
+},
+{
+"c": "회의·발표",
+"w": "bring up",
+"ipa": "/brɪŋ ʌp/",
+"h": "브링 업",
+"p": "v.",
+"m": "(화제를) 꺼내다",
+"e": "I'd like to bring up one more issue.",
+"k": "한 가지 문제를 더 말씀드리고 싶어요."
+},
+{
+"c": "회의·발표",
+"w": "run late",
+"ipa": "/rʌn leɪt/",
+"h": "런 레이트",
+"p": "v.",
+"m": "(예정보다) 길어지다",
+"e": "Sorry, the last meeting ran late.",
+"k": "죄송해요, 앞 회의가 길어졌어요."
+},
+{
+"c": "회의·발표",
+"w": "hand over",
+"ipa": "/hænd ˈoʊvər/",
+"h": "핸드 오버",
+"p": "v.",
+"m": "넘기다, 인계하다",
+"e": "I'll hand over to my colleague now.",
+"k": "이제 제 동료에게 넘기겠습니다."
+},
+{
+"c": "회의·발표",
+"w": "agenda item",
+"ipa": "/əˈdʒɛndə ˈaɪtəm/",
+"h": "어젠다 아이템",
+"p": "n.",
+"m": "안건 항목",
+"e": "Let's move to the next agenda item.",
+"k": "다음 안건으로 넘어가죠."
+},
+{
+"c": "회의·발표",
+"w": "time's up",
+"ipa": "/taɪmz ʌp/",
+"h": "타임즈 업",
+"p": "phr.",
+"m": "시간이 다 됐어요",
+"e": "I'm afraid time's up for today.",
+"k": "오늘은 시간이 다 된 것 같습니다."
+},
+{
+"c": "회의·발표",
+"w": "any questions",
+"ipa": "/ˈɛni ˈkwɛstʃənz/",
+"h": "애니 퀘스천즈",
+"p": "phr.",
+"m": "질문 있으신가요?",
+"e": "Are there any questions so far?",
+"k": "지금까지 질문 있으신가요?"
+},
+{
+"c": "회의·발표",
+"w": "good point",
+"ipa": "/gʊd pɔɪnt/",
+"h": "굿 포인트",
+"p": "phr.",
+"m": "좋은 지적이에요",
+"e": "That's a good point.",
+"k": "좋은 지적이세요."
+},
+{
+"c": "회의·발표",
+"w": "I see what you mean",
+"ipa": "/aɪ si wʌt ju min/",
+"h": "아이 씨 왓 유 민",
+"p": "phr.",
+"m": "무슨 말씀인지 알겠어요",
+"e": "I see what you mean, but costs are a concern.",
+"k": "무슨 말씀인지 알겠지만 비용이 걱정이에요."
+},
+{
+"c": "회의·발표",
+"w": "to be honest",
+"ipa": "/tə bi ˈɑnəst/",
+"h": "투 비 아니스트",
+"p": "phr.",
+"m": "솔직히 말하면",
+"e": "To be honest, the timeline is too tight.",
+"k": "솔직히 일정이 너무 빠듯해요."
+},
+{
+"c": "회의·발표",
+"w": "deliverable",
+"ipa": "/dɪˈlɪvərəbəl/",
+"h": "딜리버러블",
+"p": "n.",
+"m": "산출물, 결과물",
+"e": "What are the deliverables for phase one?",
+"k": "1단계 산출물이 뭔가요?"
+},
+{
+"c": "회의·발표",
+"w": "benchmark",
+"ipa": "/ˈbɛntʃˌmɑrk/",
+"h": "벤치마크",
+"p": "n.",
+"m": "기준, 비교 지표",
+"e": "We use last year's sales as a benchmark.",
+"k": "작년 매출을 기준으로 삼습니다."
+},
+{
+"c": "회의·발표",
+"w": "roadmap",
+"ipa": "/ˈroʊdˌmæp/",
+"h": "로드맵",
+"p": "n.",
+"m": "로드맵, 계획표",
+"e": "Here's our product roadmap for next year.",
+"k": "내년 제품 로드맵입니다."
+},
+{
+"c": "회의·발표",
+"w": "let me finish",
+"ipa": "/lɛt mi ˈfɪnɪʃ/",
+"h": "렛 미 피니시",
+"p": "phr.",
+"m": "마저 말씀드릴게요",
+"e": "Let me finish this point first.",
+"k": "이 부분부터 마저 말씀드릴게요."
+},
+{
+"c": "협상·계약",
+"w": "negotiable",
+"ipa": "/nəˈgoʊʃəbəl/",
+"h": "니고시어블",
+"p": "adj.",
+"m": "협상 가능한",
+"e": "Is the price negotiable?",
+"k": "가격 협상이 가능한가요?"
+},
+{
+"c": "협상·계약",
+"w": "non-negotiable",
+"ipa": "/ˌnɑnəˈgoʊʃəbəl/",
+"h": "난니고시어블",
+"p": "adj.",
+"m": "협상 불가한",
+"e": "The delivery date is non-negotiable.",
+"k": "납기일은 협상할 수 없습니다."
+},
+{
+"c": "협상·계약",
+"w": "price list",
+"ipa": "/praɪs lɪst/",
+"h": "프라이스 리스트",
+"p": "n.",
+"m": "가격표",
+"e": "Could you send us your latest price list?",
+"k": "최신 가격표를 보내주시겠어요?"
+},
+{
+"c": "협상·계약",
+"w": "bulk order",
+"ipa": "/bʌlk ˈɔrdər/",
+"h": "벌크 오더",
+"p": "n.",
+"m": "대량 주문",
+"e": "Do you offer discounts on bulk orders?",
+"k": "대량 주문 시 할인해 주시나요?"
+},
+{
+"c": "협상·계약",
+"w": "trial period",
+"ipa": "/ˈtraɪəl ˈpɪriəd/",
+"h": "트라이얼 피리어드",
+"p": "n.",
+"m": "시험 기간",
+"e": "We'd like a three-month trial period.",
+"k": "3개월 시험 기간을 두고 싶습니다."
+},
+{
+"c": "협상·계약",
+"w": "due date",
+"ipa": "/du deɪt/",
+"h": "듀 데잇",
+"p": "n.",
+"m": "기한, 만기일",
+"e": "What's the due date for the first payment?",
+"k": "첫 지급 기한이 언제인가요?"
+},
+{
+"c": "협상·계약",
+"w": "sign off on",
+"ipa": "/saɪn ɔf ɑn/",
+"h": "사인 오프 온",
+"p": "phr.",
+"m": "승인하다",
+"e": "My boss needs to sign off on the deal.",
+"k": "상사가 이 거래를 승인해야 합니다."
+},
+{
+"c": "협상·계약",
+"w": "on hold",
+"ipa": "/ɑn hoʊld/",
+"h": "온 홀드",
+"p": "phr.",
+"m": "보류 중인",
+"e": "The project is on hold for now.",
+"k": "프로젝트는 지금 보류 중입니다."
+},
+{
+"c": "협상·계약",
+"w": "close the deal",
+"ipa": "/kloʊs ðə dil/",
+"h": "클로즈 더 딜",
+"p": "phr.",
+"m": "거래를 성사시키다",
+"e": "We hope to close the deal this week.",
+"k": "이번 주에 거래를 성사시키고 싶습니다."
+},
+{
+"c": "협상·계약",
+"w": "take it or leave it",
+"ipa": "/teɪk ɪt ɔr liv ɪt/",
+"h": "테이크 잇 오어 리브 잇",
+"p": "phr.",
+"m": "이게 최종 조건이다",
+"e": "This is our best price, take it or leave it.",
+"k": "이게 저희 최선의 가격이니 결정해 주세요."
+},
+{
+"c": "협상·계약",
+"w": "term sheet",
+"ipa": "/tɜrm ʃit/",
+"h": "텀 시트",
+"p": "n.",
+"m": "주요 조건 요약서",
+"e": "We'll send you a term sheet next week.",
+"k": "다음 주에 주요 조건 요약서를 보내드리겠습니다."
+},
+{
+"c": "협상·계약",
+"w": "MOU",
+"ipa": "/ˌɛmˌoʊˈju/",
+"h": "엠오유",
+"p": "n.",
+"m": "양해각서",
+"e": "Both companies signed an MOU.",
+"k": "두 회사가 양해각서에 서명했습니다."
+},
+{
+"c": "협상·계약",
+"w": "NDA",
+"ipa": "/ˌɛnˌdiˈeɪ/",
+"h": "엔디에이",
+"p": "n.",
+"m": "비밀유지계약",
+"e": "Please sign this NDA before the meeting.",
+"k": "회의 전에 이 비밀유지계약서에 서명해 주세요."
+},
+{
+"c": "협상·계약",
+"w": "margin",
+"ipa": "/ˈmɑrdʒən/",
+"h": "마진",
+"p": "n.",
+"m": "이윤, 마진",
+"e": "Our margin on this product is very thin.",
+"k": "이 제품은 마진이 아주 적습니다."
+},
+{
+"c": "협상·계약",
+"w": "competitive",
+"ipa": "/kəmˈpɛtətɪv/",
+"h": "컴페터티브",
+"p": "adj.",
+"m": "경쟁력 있는",
+"e": "Your price is not very competitive.",
+"k": "가격 경쟁력이 별로 없네요."
+},
+{
+"c": "협상·계약",
+"w": "in writing",
+"ipa": "/ɪn ˈraɪtɪŋ/",
+"h": "인 라이팅",
+"p": "phr.",
+"m": "서면으로",
+"e": "Could you confirm that in writing?",
+"k": "서면으로 확인해 주시겠어요?"
+},
+{
+"c": "협상·계약",
+"w": "binding",
+"ipa": "/ˈbaɪndɪŋ/",
+"h": "바인딩",
+"p": "adj.",
+"m": "구속력 있는",
+"e": "This agreement is legally binding.",
+"k": "이 계약은 법적 구속력이 있습니다."
+},
+{
+"c": "협상·계약",
+"w": "expire",
+"ipa": "/ɪkˈspaɪr/",
+"h": "익스파이어",
+"p": "v.",
+"m": "만료되다",
+"e": "The contract expires at the end of June.",
+"k": "계약은 6월 말에 만료됩니다."
+},
+{
+"c": "협상·계약",
+"w": "amendment",
+"ipa": "/əˈmɛndmənt/",
+"h": "어멘드먼트",
+"p": "n.",
+"m": "수정, 개정",
+"e": "We need an amendment to the contract.",
+"k": "계약 수정이 필요합니다."
+},
+{
+"c": "협상·계약",
+"w": "leverage",
+"ipa": "/ˈlɛvərɪdʒ/",
+"h": "레버리지",
+"p": "n.",
+"m": "협상력, 영향력",
+"e": "We have more leverage with a larger order.",
+"k": "주문량이 많으면 협상력이 커집니다."
+},
+{
+"c": "이메일·일정",
+"w": "noted",
+"ipa": "/ˈnoʊtəd/",
+"h": "노티드",
+"p": "phr.",
+"m": "알겠습니다 (확인했습니다)",
+"e": "Noted, thank you.",
+"k": "확인했습니다, 감사합니다."
+},
+{
+"c": "이메일·일정",
+"w": "kind reminder",
+"ipa": "/kaɪnd rɪˈmaɪndər/",
+"h": "카인드 리마인더",
+"p": "n.",
+"m": "정중한 리마인더",
+"e": "This is a kind reminder about the invoice.",
+"k": "청구서 관련해 정중히 다시 알려드립니다."
+},
+{
+"c": "이메일·일정",
+"w": "get in touch",
+"ipa": "/gɛt ɪn tʌtʃ/",
+"h": "겟 인 터치",
+"p": "phr.",
+"m": "연락하다",
+"e": "I'll get in touch with you next week.",
+"k": "다음 주에 연락드릴게요."
+},
+{
+"c": "이메일·일정",
+"w": "touch base",
+"ipa": "/tʌtʃ beɪs/",
+"h": "터치 베이스",
+"p": "phr.",
+"m": "간단히 연락하다, 상황을 공유하다",
+"e": "Let's touch base on Friday.",
+"k": "금요일에 잠깐 상황 공유해요."
+},
+{
+"c": "이메일·일정",
+"w": "heads-up",
+"ipa": "/ˈhɛdz ˌʌp/",
+"h": "헤즈업",
+"p": "n.",
+"m": "미리 알림, 귀띔",
+"e": "Thanks for the heads-up.",
+"k": "미리 알려줘서 고마워요."
+},
+{
+"c": "이메일·일정",
+"w": "loop in",
+"ipa": "/lup ɪn/",
+"h": "룹 인",
+"p": "v.",
+"m": "(논의에) 포함시키다",
+"e": "I'll loop in our sales manager.",
+"k": "저희 영업 매니저도 포함시킬게요."
+},
+{
+"c": "이메일·일정",
+"w": "bcc",
+"ipa": "/ˌbiˌsiˈsi/",
+"h": "비씨씨",
+"p": "v.",
+"m": "숨은 참조로 넣다",
+"e": "I'll bcc the rest of the team.",
+"k": "나머지 팀원은 숨은 참조로 넣을게요."
+},
+{
+"c": "이메일·일정",
+"w": "sincerely",
+"ipa": "/sɪnˈsɪrli/",
+"h": "신시얼리",
+"p": "adv.",
+"m": "(편지 맺음말) 진심으로",
+"e": "Sincerely, Jiwon Lee",
+"k": "이지원 드림"
+},
+{
+"c": "이메일·일정",
+"w": "on behalf of",
+"ipa": "/ɑn bɪˈhæf əv/",
+"h": "온 비해프 오브",
+"p": "phr.",
+"m": "~을 대신하여, ~을 대표하여",
+"e": "I'm writing on behalf of my manager.",
+"k": "매니저를 대신해 메일 드립니다."
+},
+{
+"c": "이메일·일정",
+"w": "time slot",
+"ipa": "/taɪm slɑt/",
+"h": "타임 슬랏",
+"p": "n.",
+"m": "시간대",
+"e": "Which time slot works best for you?",
+"k": "어느 시간대가 가장 좋으세요?"
+},
+{
+"c": "이메일·일정",
+"w": "out-of-office reply",
+"ipa": "/aʊt əv ˈɔfɪs rɪˈplaɪ/",
+"h": "아웃오브오피스 리플라이",
+"p": "n.",
+"m": "부재중 자동 회신",
+"e": "I set up an out-of-office reply.",
+"k": "부재중 자동 회신을 설정해 두었어요."
+},
+{
+"c": "이메일·일정",
+"w": "EOD",
+"ipa": "/ˌiˌoʊˈdi/",
+"h": "이오디",
+"p": "n.",
+"m": "업무 종료 시각 (end of day)",
+"e": "Please send it by EOD.",
+"k": "오늘 업무 끝나기 전까지 보내주세요."
+},
+{
+"c": "이메일·일정",
+"w": "turnaround time",
+"ipa": "/ˈtɜrnəˌraʊnd taɪm/",
+"h": "턴어라운드 타임",
+"p": "n.",
+"m": "처리 소요 시간",
+"e": "What's the turnaround time for a quote?",
+"k": "견적 나오는 데 얼마나 걸리나요?"
+},
+{
+"c": "이메일·일정",
+"w": "recipient",
+"ipa": "/rəˈsɪpiənt/",
+"h": "리시피언트",
+"p": "n.",
+"m": "수신인",
+"e": "Please check the recipient list.",
+"k": "수신인 목록을 확인해 주세요."
+},
+{
+"c": "이메일·일정",
+"w": "attachment",
+"ipa": "/əˈtætʃmənt/",
+"h": "어태치먼트",
+"p": "n.",
+"m": "첨부 파일",
+"e": "I can't open the attachment.",
+"k": "첨부 파일이 안 열려요."
+},
+{
+"c": "이메일·일정",
+"w": "resend",
+"ipa": "/ˌriˈsɛnd/",
+"h": "리센드",
+"p": "v.",
+"m": "다시 보내다",
+"e": "Could you resend the file?",
+"k": "파일을 다시 보내주시겠어요?"
+},
+{
+"c": "이메일·일정",
+"w": "proofread",
+"ipa": "/ˈpruˌfrid/",
+"h": "프루프리드",
+"p": "v.",
+"m": "교정하다",
+"e": "Could you proofread this email?",
+"k": "이 메일 좀 교정해 주시겠어요?"
+},
+{
+"c": "이메일·일정",
+"w": "time off",
+"ipa": "/taɪm ɔf/",
+"h": "타임 오프",
+"p": "n.",
+"m": "휴가, 쉬는 시간",
+"e": "I'm taking time off next week.",
+"k": "다음 주에 휴가를 냅니다."
+},
+{
+"c": "이메일·일정",
+"w": "bank holiday",
+"ipa": "/bæŋk ˈhɑləˌdeɪ/",
+"h": "뱅크 할러데이",
+"p": "n.",
+"m": "공휴일",
+"e": "Monday is a bank holiday in the UK.",
+"k": "영국은 월요일이 공휴일이에요."
+},
+{
+"c": "이메일·일정",
+"w": "set up a meeting",
+"ipa": "/sɛt ʌp ə ˈmitɪŋ/",
+"h": "셋 업 어 미팅",
+"p": "phr.",
+"m": "회의를 잡다",
+"e": "Could we set up a meeting next week?",
+"k": "다음 주에 회의를 잡을 수 있을까요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "icebreaker",
+"ipa": "/ˈaɪsˌbreɪkər/",
+"h": "아이스브레이커",
+"p": "n.",
+"m": "분위기를 푸는 말",
+"e": "Asking about their trip is a good icebreaker.",
+"k": "여행 얘기를 묻는 건 분위기 풀기에 좋아요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "How's business",
+"ipa": "/haʊz ˈbɪznəs/",
+"h": "하우즈 비즈니스",
+"p": "phr.",
+"m": "요즘 사업은 어떠세요?",
+"e": "How's business these days?",
+"k": "요즘 사업은 어떠세요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "long time no see",
+"ipa": "/lɔŋ taɪm noʊ si/",
+"h": "롱 타임 노 씨",
+"p": "phr.",
+"m": "오랜만이에요",
+"e": "Long time no see! How have you been?",
+"k": "오랜만이에요! 어떻게 지내셨어요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "nice weather",
+"ipa": "/naɪs ˈwɛðər/",
+"h": "나이스 웨더",
+"p": "n.",
+"m": "좋은 날씨",
+"e": "We're lucky to have such nice weather.",
+"k": "날씨가 이렇게 좋아서 다행이에요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "favorite",
+"ipa": "/ˈfeɪvərɪt/",
+"h": "페이버릿",
+"p": "adj.",
+"m": "가장 좋아하는",
+"e": "What's your favorite Korean food?",
+"k": "가장 좋아하는 한국 음식이 뭐예요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "expertise",
+"ipa": "/ˌɛkspərˈtiz/",
+"h": "엑스퍼티즈",
+"p": "n.",
+"m": "전문 지식",
+"e": "Your expertise would really help us.",
+"k": "당신의 전문 지식이 정말 도움이 될 거예요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "career",
+"ipa": "/kəˈrɪr/",
+"h": "커리어",
+"p": "n.",
+"m": "경력, 직업",
+"e": "How did you start your career?",
+"k": "어떻게 이 일을 시작하셨어요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "team building",
+"ipa": "/tim ˈbɪldɪŋ/",
+"h": "팀 빌딩",
+"p": "n.",
+"m": "팀워크 다지기",
+"e": "We had a team building event last month.",
+"k": "지난달 팀워크 행사가 있었어요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "small world",
+"ipa": "/smɔl wɜrld/",
+"h": "스몰 월드",
+"p": "phr.",
+"m": "세상 참 좁네요",
+"e": "You know Mr. Kim too? Small world!",
+"k": "김 선생님도 아세요? 세상 좁네요!"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "keep me posted",
+"ipa": "/kip mi ˈpoʊstɪd/",
+"h": "킵 미 포스티드",
+"p": "phr.",
+"m": "소식 계속 알려주세요",
+"e": "Please keep me posted on the results.",
+"k": "결과 나오면 계속 알려주세요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "nice talking to you",
+"ipa": "/naɪs ˈtɔkɪŋ tə ju/",
+"h": "나이스 토킹 투 유",
+"p": "phr.",
+"m": "얘기 즐거웠어요",
+"e": "It was nice talking to you.",
+"k": "얘기 나눠서 즐거웠어요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "introduce you to",
+"ipa": "/ˌɪntrəˈdus ju tə/",
+"h": "인트러듀스 유 투",
+"p": "phr.",
+"m": "~에게 소개하다",
+"e": "Let me introduce you to our CEO.",
+"k": "저희 대표님께 소개해 드릴게요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "business partner",
+"ipa": "/ˈbɪznəs ˈpɑrtnər/",
+"h": "비즈니스 파트너",
+"p": "n.",
+"m": "사업 파트너",
+"e": "He's been our business partner for years.",
+"k": "그분은 오랫동안 저희 사업 파트너예요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "trade show",
+"ipa": "/treɪd ʃoʊ/",
+"h": "트레이드 쇼",
+"p": "n.",
+"m": "무역 박람회",
+"e": "We met at the trade show in Frankfurt.",
+"k": "프랑크푸르트 박람회에서 만났죠."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "booth",
+"ipa": "/buθ/",
+"h": "부스",
+"p": "n.",
+"m": "(박람회) 부스",
+"e": "Please visit our booth at the exhibition.",
+"k": "전시회에서 저희 부스에 들러 주세요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "exhibitor",
+"ipa": "/ɪgˈzɪbətər/",
+"h": "이그지비터",
+"p": "n.",
+"m": "출품 업체",
+"e": "There are over 500 exhibitors this year.",
+"k": "올해 출품 업체가 500곳이 넘어요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "startup",
+"ipa": "/ˈstɑrtˌʌp/",
+"h": "스타트업",
+"p": "n.",
+"m": "스타트업",
+"e": "I work for a small tech startup.",
+"k": "작은 기술 스타트업에서 일해요."
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "remote work",
+"ipa": "/rɪˈmoʊt wɜrk/",
+"h": "리모트 워크",
+"p": "n.",
+"m": "재택근무, 원격 근무",
+"e": "Does your company allow remote work?",
+"k": "회사에서 재택근무가 되나요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "free time",
+"ipa": "/fri taɪm/",
+"h": "프리 타임",
+"p": "n.",
+"m": "여가 시간",
+"e": "What do you do in your free time?",
+"k": "여가 시간에 뭐 하세요?"
+},
+{
+"c": "네트워킹·스몰토크",
+"w": "enjoy your stay",
+"ipa": "/ɪnˈdʒɔɪ jər steɪ/",
+"h": "엔조이 유어 스테이",
+"p": "phr.",
+"m": "즐거운 시간 보내세요",
+"e": "Enjoy your stay in Seoul!",
+"k": "서울에서 즐거운 시간 보내세요!"
+},
+{
+"c": "비용·결제",
+"w": "credit card",
+"ipa": "/ˈkrɛdət kɑrd/",
+"h": "크레딧 카드",
+"p": "n.",
+"m": "신용카드",
+"e": "Do you take credit cards?",
+"k": "신용카드 받나요?"
+},
+{
+"c": "비용·결제",
+"w": "debit card",
+"ipa": "/ˈdɛbɪt kɑrd/",
+"h": "데빗 카드",
+"p": "n.",
+"m": "체크카드",
+"e": "Can I use a debit card here?",
+"k": "여기서 체크카드 써도 되나요?"
+},
+{
+"c": "비용·결제",
+"w": "card reader",
+"ipa": "/kɑrd ˈridər/",
+"h": "카드 리더",
+"p": "n.",
+"m": "카드 단말기",
+"e": "The card reader isn't working.",
+"k": "카드 단말기가 작동하지 않아요."
+},
+{
+"c": "비용·결제",
+"w": "sign here",
+"ipa": "/saɪn hir/",
+"h": "사인 히어",
+"p": "phr.",
+"m": "여기에 서명하세요",
+"e": "Please sign here.",
+"k": "여기에 서명해 주세요."
+},
+{
+"c": "비용·결제",
+"w": "discount code",
+"ipa": "/ˈdɪsˌkaʊnt koʊd/",
+"h": "디스카운트 코드",
+"p": "n.",
+"m": "할인 코드",
+"e": "Do you have a discount code?",
+"k": "할인 코드 있으세요?"
+},
+{
+"c": "비용·결제",
+"w": "invoice number",
+"ipa": "/ˈɪnvɔɪs ˈnʌmbər/",
+"h": "인보이스 넘버",
+"p": "n.",
+"m": "청구서 번호",
+"e": "Please include the invoice number in the transfer.",
+"k": "송금할 때 청구서 번호를 꼭 적어 주세요."
+},
+{
+"c": "비용·결제",
+"w": "bank transfer",
+"ipa": "/bæŋk trænsˈfɜr/",
+"h": "뱅크 트랜스퍼",
+"p": "n.",
+"m": "계좌 이체",
+"e": "We usually pay by bank transfer.",
+"k": "저희는 보통 계좌 이체로 결제합니다."
+},
+{
+"c": "비용·결제",
+"w": "wire transfer",
+"ipa": "/ˈwaɪər trænsˈfɜr/",
+"h": "와이어 트랜스퍼",
+"p": "n.",
+"m": "해외 송금, 전신 송금",
+"e": "The wire transfer may take three days.",
+"k": "해외 송금은 3일 정도 걸릴 수 있어요."
+},
+{
+"c": "비용·결제",
+"w": "expense policy",
+"ipa": "/ɪkˈspɛns ˈpɑləsi/",
+"h": "익스펜스 팔러시",
+"p": "n.",
+"m": "경비 규정",
+"e": "Check the expense policy before booking.",
+"k": "예약 전에 경비 규정을 확인하세요."
+},
+{
+"c": "비용·결제",
+"w": "cost-effective",
+"ipa": "/ˌkɔst ɪˈfɛktɪv/",
+"h": "코스트이펙티브",
+"p": "adj.",
+"m": "비용 효율적인",
+"e": "The train is more cost-effective than flying.",
+"k": "비행기보다 기차가 더 비용 효율적이에요."
+},
+{
+"c": "비용·결제",
+"w": "exchange office",
+"ipa": "/ɪksˈtʃeɪndʒ ˈɔfɪs/",
+"h": "익스체인지 오피스",
+"p": "n.",
+"m": "환전소",
+"e": "Is there an exchange office at the airport?",
+"k": "공항에 환전소가 있나요?"
+},
+{
+"c": "비용·결제",
+"w": "spending limit",
+"ipa": "/ˈspɛndɪŋ ˈlɪmət/",
+"h": "스펜딩 리밋",
+"p": "n.",
+"m": "사용 한도",
+"e": "My card has a daily spending limit.",
+"k": "제 카드는 하루 사용 한도가 있어요."
+},
+{
+"c": "비용·결제",
+"w": "gratuity",
+"ipa": "/grəˈtuɪti/",
+"h": "그러투어티",
+"p": "n.",
+"m": "팁, 봉사료",
+"e": "Gratuity is included in the bill.",
+"k": "계산서에 팁이 포함되어 있어요."
+},
+{
+"c": "비용·결제",
+"w": "pay separately",
+"ipa": "/peɪ ˈsɛpərətli/",
+"h": "페이 세퍼러틀리",
+"p": "phr.",
+"m": "따로 계산하다",
+"e": "Can we pay separately?",
+"k": "따로 계산해도 될까요?"
+},
+{
+"c": "비용·결제",
+"w": "cashless",
+"ipa": "/ˈkæʃləs/",
+"h": "캐시리스",
+"p": "adj.",
+"m": "현금 없는",
+"e": "This store is cashless.",
+"k": "이 가게는 현금을 받지 않아요."
+},
+{
+"c": "비용·결제",
+"w": "mobile payment",
+"ipa": "/ˈmoʊbəl ˈpeɪmənt/",
+"h": "모빌 페이먼트",
+"p": "n.",
+"m": "모바일 결제",
+"e": "Do you accept mobile payment?",
+"k": "모바일 결제 되나요?"
+},
+{
+"c": "비용·결제",
+"w": "hold",
+"ipa": "/hoʊld/",
+"h": "홀드",
+"p": "n.",
+"m": "(카드 금액) 임시 승인",
+"e": "The hotel put a hold on my card.",
+"k": "호텔이 제 카드에 금액을 임시로 잡아 두었어요."
+},
+{
+"c": "비용·결제",
+"w": "billing address",
+"ipa": "/ˈbɪlɪŋ ˈædrɛs/",
+"h": "빌링 애드레스",
+"p": "n.",
+"m": "청구지 주소",
+"e": "Please enter your billing address.",
+"k": "청구지 주소를 입력해 주세요."
+},
+{
+"c": "비용·결제",
+"w": "expense claim",
+"ipa": "/ɪkˈspɛns kleɪm/",
+"h": "익스펜스 클레임",
+"p": "n.",
+"m": "경비 청구",
+"e": "I submitted my expense claim yesterday.",
+"k": "어제 경비 청구를 제출했어요."
+},
+{
+"c": "비용·결제",
+"w": "mileage",
+"ipa": "/ˈmaɪlədʒ/",
+"h": "마일리지",
+"p": "n.",
+"m": "(항공) 마일리지",
+"e": "Can I earn mileage on this flight?",
+"k": "이 비행편으로 마일리지를 쌓을 수 있나요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "first aid kit",
+"ipa": "/fɜrst eɪd kɪt/",
+"h": "퍼스트 에이드 킷",
+"p": "n.",
+"m": "구급상자",
+"e": "Is there a first aid kit here?",
+"k": "여기 구급상자가 있나요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "ambulance",
+"ipa": "/ˈæmbjələns/",
+"h": "앰뷸런스",
+"p": "n.",
+"m": "구급차",
+"e": "Please call an ambulance right away.",
+"k": "당장 구급차를 불러 주세요."
+},
+{
+"c": "문제·긴급상황",
+"w": "allergy",
+"ipa": "/ˈælərdʒi/",
+"h": "앨러지",
+"p": "n.",
+"m": "알레르기",
+"e": "I have a severe peanut allergy.",
+"k": "땅콩 알레르기가 심해요."
+},
+{
+"c": "문제·긴급상황",
+"w": "dizzy",
+"ipa": "/ˈdɪzi/",
+"h": "디지",
+"p": "adj.",
+"m": "어지러운",
+"e": "I feel a little dizzy.",
+"k": "조금 어지러워요."
+},
+{
+"c": "문제·긴급상황",
+"w": "food poisoning",
+"ipa": "/fud ˈpɔɪzənɪŋ/",
+"h": "푸드 포이즈닝",
+"p": "n.",
+"m": "식중독",
+"e": "I think I have food poisoning.",
+"k": "식중독에 걸린 것 같아요."
+},
+{
+"c": "문제·긴급상황",
+"w": "catch a cold",
+"ipa": "/kætʃ ə koʊld/",
+"h": "캐치 어 콜드",
+"p": "phr.",
+"m": "감기에 걸리다",
+"e": "I think I caught a cold on the plane.",
+"k": "비행기에서 감기에 걸린 것 같아요."
+},
+{
+"c": "문제·긴급상황",
+"w": "sore throat",
+"ipa": "/sɔr θroʊt/",
+"h": "소어 쓰롯",
+"p": "n.",
+"m": "목 아픔, 인후통",
+"e": "I have a sore throat and a cough.",
+"k": "목이 아프고 기침이 나요."
+},
+{
+"c": "문제·긴급상황",
+"w": "medicine",
+"ipa": "/ˈmɛdəsən/",
+"h": "메디슨",
+"p": "n.",
+"m": "약",
+"e": "Do I take this medicine after meals?",
+"k": "이 약은 식후에 먹나요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "lost luggage",
+"ipa": "/lɔst ˈlʌgədʒ/",
+"h": "로스트 러기지",
+"p": "n.",
+"m": "분실 수하물",
+"e": "Where is the lost luggage office?",
+"k": "분실 수하물 사무실이 어디예요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "fire exit",
+"ipa": "/ˈfaɪər ˈɛgzɪt/",
+"h": "파이어 엑싯",
+"p": "n.",
+"m": "비상구",
+"e": "Where is the nearest fire exit?",
+"k": "가장 가까운 비상구가 어디예요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "broken",
+"ipa": "/ˈbroʊkən/",
+"h": "브로큰",
+"p": "adj.",
+"m": "고장 난, 부러진",
+"e": "The lock on my suitcase is broken.",
+"k": "여행가방 자물쇠가 고장 났어요."
+},
+{
+"c": "문제·긴급상황",
+"w": "call for help",
+"ipa": "/kɔl fər hɛlp/",
+"h": "콜 포 헬프",
+"p": "phr.",
+"m": "도움을 요청하다",
+"e": "Can you call for help?",
+"k": "도움 좀 요청해 주시겠어요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "security guard",
+"ipa": "/sɪˈkjʊrəti gɑrd/",
+"h": "시큐리티 가드",
+"p": "n.",
+"m": "경비원",
+"e": "Let's ask the security guard.",
+"k": "경비원에게 물어봐요."
+},
+{
+"c": "문제·긴급상황",
+"w": "spill",
+"ipa": "/spɪl/",
+"h": "스필",
+"p": "v.",
+"m": "쏟다",
+"e": "I spilled coffee on my laptop.",
+"k": "노트북에 커피를 쏟았어요."
+},
+{
+"c": "문제·긴급상황",
+"w": "crash",
+"ipa": "/kræʃ/",
+"h": "크래시",
+"p": "v.",
+"m": "(컴퓨터가) 멈추다",
+"e": "My laptop crashed during the presentation.",
+"k": "발표 중에 노트북이 멈췄어요."
+},
+{
+"c": "문제·긴급상황",
+"w": "backup",
+"ipa": "/ˈbækˌʌp/",
+"h": "백업",
+"p": "n.",
+"m": "백업 (예비 파일)",
+"e": "Do you have a backup of the slides?",
+"k": "슬라이드 백업 있으세요?"
+},
+{
+"c": "문제·긴급상황",
+"w": "wrong change",
+"ipa": "/rɔŋ tʃeɪndʒ/",
+"h": "롱 체인지",
+"p": "n.",
+"m": "잘못 거슬러 준 돈",
+"e": "I think you gave me the wrong change.",
+"k": "거스름돈을 잘못 주신 것 같아요."
+},
+{
+"c": "문제·긴급상황",
+"w": "oversleep",
+"ipa": "/ˌoʊvərˈslip/",
+"h": "오버슬립",
+"p": "v.",
+"m": "늦잠 자다",
+"e": "Sorry, I overslept this morning.",
+"k": "죄송해요, 오늘 아침에 늦잠을 잤어요."
+},
+{
+"c": "문제·긴급상황",
+"w": "traffic accident",
+"ipa": "/ˈtræfɪk ˈæksədənt/",
+"h": "트래픽 액시던트",
+"p": "n.",
+"m": "교통사고",
+"e": "There was a traffic accident on the highway.",
+"k": "고속도로에 교통사고가 났어요."
+},
+{
+"c": "문제·긴급상황",
+"w": "evacuate",
+"ipa": "/ɪˈvækjəˌeɪt/",
+"h": "이배큐에잇",
+"p": "v.",
+"m": "대피하다",
+"e": "Everyone had to evacuate the building.",
+"k": "모두 건물에서 대피해야 했어요."
+}
+]

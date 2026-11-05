@@ -48,10 +48,23 @@ OVERRIDE = {"atm": "ˌeɪtiˈɛm", "cc": "ˌsiˈsi", "linkedin": "ˈlɪŋktɪn",
             "accept": "əkˈsɛpt", "excuse": "ɪkˈskjuz", "ingredient": "ɪnˈgridiənt", "impressive": "ɪmˈprɛsɪv",
             "installment": "ɪnˈstɔlmənt", "hospital": "ˈhɑspɪtəl", "headache": "ˈhɛdˌeɪk", "company": "ˈkʌmpəni",
             "halfway": "ˈhæfˌweɪ", "stopover": "ˈstɑpˌoʊvər", "leftovers": "ˈlɛftˌoʊvərz", "our": "aʊər",
+            "crosswalk": "ˈkrɔsˌwɔk", "blackout": "ˈblækˌaʊt", "pick-up": "ˈpɪk ˌʌp", "heads-up": "ˈhɛdz ˌʌp",
+            "backup": "ˈbækˌʌp", "resend": "ˌriˈsɛnd", "folio": "ˈfoʊlioʊ", "enjoy": "ɪnˈdʒɔɪ",
+            "included": "ɪnˈkludɪd", "well-done": "ˌwɛl ˈdʌn", "king-size": "ˈkɪŋ ˌsaɪz",
+            "cost-effective": "ˌkɔst ɪˈfɛktɪv", "startup": "ˈstɑrtˌʌp", "halal": "həˈlɑl", "check-out": "ˈtʃɛk ˌaʊt",
             "per diem": "pər ˈdiəm"}
 
 
 def syllabify(phones):
+    # 'ER' 바로 뒤에 모음이 오면 r 은 다음 음절의 첫소리 (around: ə-ˈraʊnd, career: kə-ˈrɪr)
+    fixed = []
+    for i, p in enumerate(phones):
+        nxt = phones[i + 1] if i + 1 < len(phones) else ""
+        if p == "ER0" and nxt[:2] in V:
+            fixed += ["AH0", "R"]
+        else:
+            fixed.append(p)
+    phones = fixed
     out = []  # list of IPA segments with stress marks inserted
     segs = []
     for p in phones:
