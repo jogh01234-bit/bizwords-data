@@ -1,7 +1,7 @@
 """새 단어 후보(JSON 배열 파일)를 검사해서 queue.json 뒤에 추가합니다.
 
 사용법: python scripts/add_to_queue.py candidates.json
-후보 항목 형식: {"c": 분류, "w": 단어, "p": 품사, "m": 뜻, "e": 영어 예문, "k": 예문 해석, "h": 한글 발음, "ipa": (선택) IPA}
+후보 항목 형식: {"c": 분류, "w": 단어, "p": 품사, "m": 뜻(여러 뜻은 ; 로 구분), "n": 뜻 설명(쓰임·비슷한 말), "e": 영어 예문, "k": 예문 해석, "h": 한글 발음, "ipa": (선택) IPA}
 - 분류는 words.json 에 있는 10개 중 하나, 품사는 n. v. adj. adv. prep. phr. interj.
 - words.json·queue.json 에 이미 있는 단어는 버림. 발음기호는 CMU 사전으로 자동 계산(없으면 ipa 칸 사용)
 """

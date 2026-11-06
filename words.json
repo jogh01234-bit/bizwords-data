@@ -7,7 +7,8 @@
 "ipa": "/aɪˈtɪnəˌrɛri/",
 "h": "아이티너레리",
 "p": "n.",
-"m": "여행 일정표",
+"m": "여행 일정표, (출장) 세부 일정",
+"n": "항공편·숙소·미팅 시간을 날짜별로 정리한 문서. 출장 전 상대방에게 공유하는 경우가 많음. 비슷한 말: travel plan, schedule",
 "e": "I'll send you my itinerary before the trip.",
 "k": "출장 전에 일정표를 보내드릴게요."
 },
@@ -20,6 +21,7 @@
 "h": "보딩 패스",
 "p": "n.",
 "m": "탑승권",
+"n": "체크인 후 받는 비행기 탑승용 표(모바일 탑승권 포함). 좌석 번호·게이트·탑승 시각이 적혀 있음. ticket(항공권)과 구분",
 "e": "Please have your boarding pass and passport ready.",
 "k": "탑승권과 여권을 준비해 주세요."
 },
@@ -31,7 +33,8 @@
 "ipa": "/ˈleɪˌoʊvər/",
 "h": "레이오버",
 "p": "n.",
-"m": "(비행기) 경유 대기",
+"m": "(비행기) 경유 대기, 환승 대기 시간",
+"n": "갈아탈 비행기를 기다리며 공항에 머무는 시간. 보통 24시간 미만이면 layover, 그 이상 머물면 stopover",
 "e": "I have a three-hour layover in Frankfurt.",
 "k": "프랑크푸르트에서 3시간 경유 대기가 있어요."
 },
@@ -43,7 +46,8 @@
 "ipa": "/kəˈnɛktɪŋ flaɪt/",
 "h": "커넥팅 플라이트",
 "p": "n.",
-"m": "연결 항공편",
+"m": "연결 항공편, 환승편",
+"n": "경유지에서 갈아타는 다음 비행기. 반대: direct flight(직항). miss a connecting flight(환승편을 놓치다)",
 "e": "I'm worried I'll miss my connecting flight.",
 "k": "연결 항공편을 놓칠까 봐 걱정돼요."
 },
@@ -56,6 +60,7 @@
 "h": "아일 씻",
 "p": "n.",
 "m": "통로 쪽 좌석",
+"n": "화장실 가기·짐 꺼내기가 편한 자리. aisle 의 s 는 묵음. 반대: window seat(창가 좌석), 가운데는 middle seat",
 "e": "Could I have an aisle seat, please?",
 "k": "통로 쪽 좌석으로 주시겠어요?"
 },
@@ -67,7 +72,8 @@
 "ipa": "/ˈkæri ˌɑn/",
 "h": "캐리온",
 "p": "n.",
-"m": "기내 휴대 수하물",
+"m": "기내 휴대 수하물; 기내에 들고 타는",
+"n": "비행기 안에 들고 타는 가방. carry-on bag/luggage 로도 씀. 무게·크기 제한이 있음. 반대: checked baggage",
 "e": "Is this bag small enough for a carry-on?",
 "k": "이 가방은 기내에 들고 탈 수 있는 크기인가요?"
 },
@@ -79,7 +85,8 @@
 "ipa": "/tʃɛkt ˈbægədʒ/",
 "h": "첵트 배기지",
 "p": "n.",
-"m": "위탁 수하물",
+"m": "위탁 수하물, 부치는 짐",
+"n": "카운터에서 부쳐서 화물칸으로 가는 짐. check a bag(짐을 부치다). 항공권마다 허용 개수·무게가 다름",
 "e": "How many pieces of checked baggage are allowed?",
 "k": "위탁 수하물은 몇 개까지 허용되나요?"
 },
@@ -92,6 +99,7 @@
 "h": "엑세스 배기지 피",
 "p": "n.",
 "m": "수하물 초과 요금",
+"n": "허용 무게·개수를 넘을 때 내는 추가 요금. overweight fee, excess luggage charge 라고도 함",
 "e": "I had to pay an excess baggage fee for my samples.",
 "k": "샘플 때문에 수하물 초과 요금을 내야 했어요."
 },
@@ -104,6 +112,7 @@
 "h": "배기지 클레임",
 "p": "n.",
 "m": "수하물 찾는 곳",
+"n": "도착 후 컨베이어 벨트에서 짐을 찾는 구역. baggage reclaim(영국식)이라고도 함",
 "e": "Let's meet at baggage claim after we land.",
 "k": "착륙 후 수하물 찾는 곳에서 만나요."
 },
@@ -115,7 +124,8 @@
 "ipa": "/ˈkʌstəmz/",
 "h": "커스텀즈",
 "p": "n.",
-"m": "세관",
+"m": "세관; 세관 검사",
+"n": "입국 시 반입 물품을 검사하는 곳. go through customs(세관을 통과하다). 단수형 custom 은 '관습'이라는 다른 뜻",
 "e": "It took an hour to get through customs.",
 "k": "세관을 통과하는 데 한 시간 걸렸어요."
 },
@@ -127,7 +137,8 @@
 "ipa": "/dɪˈklɛr/",
 "h": "디클레어",
 "p": "v.",
-"m": "(세관에) 신고하다",
+"m": "(세관에) 신고하다; 선언하다, 발표하다",
+"n": "세관에서 Anything to declare?(신고할 것 있나요?)라고 자주 물음. 일반적으로는 공식적으로 선언·발표하다",
 "e": "Do you have anything to declare?",
 "k": "신고할 물품이 있으신가요?"
 },
@@ -139,7 +150,8 @@
 "ipa": "/ˌɪməˈgreɪʃən/",
 "h": "이미그레이션",
 "p": "n.",
-"m": "출입국 심사",
+"m": "출입국 심사(대); 이민",
+"n": "공항에서 여권과 방문 목적을 확인하는 곳. passport control 과 같은 뜻으로 쓰임",
 "e": "The line at immigration was very long.",
 "k": "출입국 심사 줄이 아주 길었어요."
 },
@@ -152,6 +164,7 @@
 "h": "퍼퍼스 오브 비짓",
 "p": "n.",
 "m": "방문 목적",
+"n": "입국 심사 단골 질문. 출장이면 Business(업무), 여행이면 Sightseeing/Vacation 이라고 답함",
 "e": "The purpose of my visit is business.",
 "k": "방문 목적은 업무입니다."
 },
@@ -163,7 +176,8 @@
 "ipa": "/dɪˈleɪd/",
 "h": "딜레이드",
 "p": "adj.",
-"m": "지연된",
+"m": "지연된, 연착된",
+"n": "예정보다 늦어진 상태. be delayed by two hours(두 시간 지연되다). 취소는 canceled",
 "e": "Our flight has been delayed by two hours.",
 "k": "저희 항공편이 두 시간 지연됐어요."
 },
@@ -175,7 +189,8 @@
 "ipa": "/dɪˈpɑrtʃər geɪt/",
 "h": "디파처 게이트",
 "p": "n.",
-"m": "출발 게이트",
+"m": "출발 게이트, 탑승구",
+"n": "비행기에 타러 가는 문. gate 만 써도 됨. 게이트가 바뀌는 것은 gate change",
 "e": "The departure gate has changed to B12.",
 "k": "출발 게이트가 B12로 바뀌었어요."
 },
@@ -187,7 +202,8 @@
 "ipa": "/dʒɛt læg/",
 "h": "젯 랙",
 "p": "n.",
-"m": "시차 피로",
+"m": "시차 피로, 시차증",
+"n": "여러 시간대를 넘어 비행한 뒤 생기는 피로·수면 문제. be jet-lagged(시차 때문에 피곤하다), get over jet lag(시차에 적응하다)",
 "e": "I'm still suffering from jet lag.",
 "k": "아직 시차 적응이 안 돼서 힘들어요."
 },
@@ -199,7 +215,8 @@
 "ipa": "/ˌʌpˈgreɪd/",
 "h": "업그레이드",
 "p": "v.",
-"m": "(좌석 등급을) 올리다",
+"m": "(좌석·객실 등급을) 올리다; 업그레이드",
+"n": "이코노미→비즈니스, 일반실→스위트처럼 등급을 높이는 것. 명사·동사 둘 다 씀",
 "e": "Is it possible to upgrade to business class?",
 "k": "비즈니스석으로 업그레이드할 수 있을까요?"
 },
@@ -212,6 +229,7 @@
 "h": "라운드 트립",
 "p": "adj.",
 "m": "왕복의",
+"n": "갔다가 돌아오는 표. round-trip ticket(왕복표). 영국식은 return ticket. 반대: one-way(편도)",
 "e": "The round-trip ticket was cheaper than two one-way tickets.",
 "k": "왕복표가 편도 두 장보다 쌌어요."
 },
@@ -224,6 +242,7 @@
 "h": "더렉트 플라이트",
 "p": "n.",
 "m": "직항편",
+"n": "중간 경유 없이 목적지까지 가는 비행기. nonstop flight 라고도 함. 반대: connecting flight",
 "e": "Is there a direct flight to Chicago?",
 "k": "시카고행 직항편이 있나요?"
 },
@@ -235,7 +254,8 @@
 "ipa": "/laʊndʒ/",
 "h": "라운지",
 "p": "n.",
-"m": "(공항) 라운지",
+"m": "(공항) 라운지, 휴게실",
+"n": "비즈니스석·회원 등이 쓰는 공항 대기 공간. 호텔 로비의 휴게 공간도 lounge",
 "e": "I'll be working in the lounge until boarding.",
 "k": "탑승 전까지 라운지에서 일하고 있을게요."
 },
@@ -247,7 +267,8 @@
 "ipa": "/ˌriˈskɛdʒul/",
 "h": "리스케줄",
 "p": "v.",
-"m": "일정을 변경하다",
+"m": "일정을 변경하다, 날짜·시간을 다시 잡다",
+"n": "회의·비행편·약속을 다른 때로 옮기는 것. 미루면 postpone, 앞당기면 move up",
 "e": "I need to reschedule my flight to Friday.",
 "k": "비행편을 금요일로 변경해야 해요."
 },
@@ -259,7 +280,8 @@
 "ipa": "/ˌoʊvərˈhɛd bɪn/",
 "h": "오버헤드 빈",
 "p": "n.",
-"m": "머리 위 짐칸",
+"m": "(비행기) 머리 위 짐칸",
+"n": "좌석 위의 기내 수납함. overhead compartment/locker 라고도 함",
 "e": "Could you help me put this in the overhead bin?",
 "k": "이것 좀 머리 위 짐칸에 넣는 걸 도와주시겠어요?"
 },
@@ -271,7 +293,8 @@
 "ipa": "/ˈfrikwənt ˈflaɪər/",
 "h": "프리퀀트 플라이어",
 "p": "n.",
-"m": "항공사 마일리지 회원",
+"m": "항공사 마일리지 회원, 단골 탑승객",
+"n": "비행기를 자주 타는 사람 또는 마일리지 프로그램 회원. frequent flyer number(회원 번호)",
 "e": "Can I add my frequent flyer number to this booking?",
 "k": "이 예약에 마일리지 회원 번호를 추가할 수 있나요?"
 },
@@ -283,7 +306,8 @@
 "ipa": "/ˌrɛzərˈveɪʃən/",
 "h": "레저베이션",
 "p": "n.",
-"m": "예약",
+"m": "예약; (마음의) 의구심",
+"n": "호텔·식당·항공 예약. make a reservation(예약하다). have reservations about~ 는 '~에 대해 의구심이 있다'",
 "e": "I have a reservation under the name Kim.",
 "k": "김이라는 이름으로 예약했습니다."
 },
@@ -296,6 +320,7 @@
 "h": "칸퍼메이션 넘버",
 "p": "n.",
 "m": "예약 확인 번호",
+"n": "예약이 완료되면 받는 번호. booking reference, confirmation code 라고도 함",
 "e": "Here's my confirmation number.",
 "k": "여기 예약 확인 번호입니다."
 },
@@ -308,6 +333,7 @@
 "h": "얼리 체크인",
 "p": "n.",
 "m": "이른 체크인",
+"n": "정해진 체크인 시간보다 일찍 방에 들어가는 것. 가능 여부는 호텔 사정에 따라 다르고 요금이 붙기도 함",
 "e": "Is early check-in available?",
 "k": "얼리 체크인이 가능한가요?"
 },
@@ -319,7 +345,8 @@
 "ipa": "/tʃɛk aʊt/",
 "h": "체크아웃",
 "p": "v.",
-"m": "체크아웃하다",
+"m": "체크아웃하다; 확인하다, 살펴보다",
+"n": "호텔에서 나가며 정산하다. 일상 회화에서는 Check this out(이것 좀 봐)처럼 '살펴보다'라는 뜻도 자주 씀",
 "e": "What time do I need to check out?",
 "k": "몇 시까지 체크아웃해야 하나요?"
 },
@@ -332,6 +359,7 @@
 "h": "레이트 체크아웃",
 "p": "n.",
 "m": "늦은 체크아웃",
+"n": "정해진 시간보다 늦게 방을 비우는 것. 저녁 비행기일 때 요청하면 유용함",
 "e": "Could I get a late checkout? My flight is at 9 p.m.",
 "k": "늦은 체크아웃이 가능할까요? 제 비행기가 저녁 9시예요."
 },
@@ -343,7 +371,8 @@
 "ipa": "/əˈmɛnətiz/",
 "h": "어메니티즈",
 "p": "n.",
-"m": "편의시설",
+"m": "편의시설, 부대시설; (객실) 비품",
+"n": "헬스장·수영장·비즈니스 센터 같은 시설이나 객실의 세면도구 등. 보통 복수형으로 씀",
 "e": "The hotel amenities include a gym and a business center.",
 "k": "호텔 편의시설로 헬스장과 비즈니스 센터가 있어요."
 },
@@ -355,7 +384,8 @@
 "ipa": "/ˌkɑmpləˈmɛntəri/",
 "h": "캄플리멘터리",
 "p": "adj.",
-"m": "무료의",
+"m": "무료의; 칭찬하는",
+"n": "호텔에서 free 대신 정중하게 쓰는 말(complimentary breakfast 무료 조식). compliment(칭찬)에서 나온 말",
 "e": "Is breakfast complimentary?",
 "k": "조식은 무료인가요?"
 },
@@ -367,7 +397,8 @@
 "ipa": "/frʌnt dɛsk/",
 "h": "프런트 데스크",
 "p": "n.",
-"m": "프런트",
+"m": "프런트, 안내 데스크",
+"n": "호텔 체크인·문의를 하는 곳. reception 이라고도 함",
 "e": "Please call the front desk if you need anything.",
 "k": "필요한 게 있으면 프런트로 전화 주세요."
 },
@@ -379,7 +410,8 @@
 "ipa": "/ˈweɪk ˌʌp kɔl/",
 "h": "웨이크업 콜",
 "p": "n.",
-"m": "모닝콜",
+"m": "모닝콜; 경각심을 일깨우는 일",
+"n": "호텔이 정한 시간에 깨워 주는 전화. 비유적으로 '정신이 번쩍 들게 하는 계기'라는 뜻도 있음",
 "e": "Could I get a wake-up call at 6 a.m.?",
 "k": "아침 6시에 모닝콜 해주실 수 있나요?"
 },
@@ -392,6 +424,7 @@
 "h": "룸 서비스",
 "p": "n.",
 "m": "룸서비스",
+"n": "객실로 음식·음료를 가져다주는 서비스. order room service(룸서비스를 시키다)",
 "e": "I ordered room service because the meeting ran late.",
 "k": "회의가 늦게 끝나서 룸서비스를 시켰어요."
 },
@@ -403,7 +436,8 @@
 "ipa": "/ˈhaʊsˌkipɪŋ/",
 "h": "하우스키핑",
 "p": "n.",
-"m": "객실 청소 (서비스)",
+"m": "객실 청소 (서비스), 하우스키핑",
+"n": "객실 청소·수건 교체 등을 담당하는 부서나 서비스",
 "e": "Could you ask housekeeping for extra towels?",
 "k": "객실 청소 담당에게 수건을 더 달라고 해주시겠어요?"
 },
@@ -415,7 +449,8 @@
 "ipa": "/ˈveɪkənsi/",
 "h": "베이컨시",
 "p": "n.",
-"m": "빈 방",
+"m": "빈 방; 공석, 결원",
+"n": "숙소에 남은 방(No vacancy = 만실). 회사에서는 채용할 빈자리라는 뜻",
 "e": "Do you have any vacancies for tomorrow night?",
 "k": "내일 밤 빈 방이 있나요?"
 },
@@ -427,7 +462,8 @@
 "ipa": "/dəˈpɑzɪt/",
 "h": "디파짓",
 "p": "n.",
-"m": "보증금",
+"m": "보증금, 예치금; 입금(하다)",
+"n": "호텔 체크인 때 카드에 잡아 두는 금액. 은행에 돈을 넣는 것도 deposit",
 "e": "A deposit of 100 dollars will be held on your card.",
 "k": "카드에 100달러가 보증금으로 잡힙니다."
 },
@@ -439,7 +475,8 @@
 "ipa": "/ˌɪnsɪˈdɛntəlz/",
 "h": "인시덴털즈",
 "p": "n.",
-"m": "부대 비용",
+"m": "부대 비용, 기타 비용",
+"n": "숙박비 외 미니바·룸서비스·전화 등 추가로 생기는 비용. 출장비 정산에서 자주 나오는 말",
 "e": "The company covers the room, but incidentals are on you.",
 "k": "회사가 숙박비는 내주지만 부대 비용은 본인 부담이에요."
 },
@@ -451,7 +488,8 @@
 "ipa": "/ɪkˈstɛnd/",
 "h": "익스텐드",
 "p": "v.",
-"m": "(숙박을) 연장하다",
+"m": "(숙박·기간을) 연장하다; 늘이다, 베풀다",
+"n": "extend my stay(숙박 연장), extend the deadline(마감 연장). extend an invitation(초대하다)처럼도 씀",
 "e": "I'd like to extend my stay by one night.",
 "k": "숙박을 하루 더 연장하고 싶어요."
 },
@@ -464,6 +502,7 @@
 "h": "난스모킹 룸",
 "p": "n.",
 "m": "금연 객실",
+"n": "담배를 피울 수 없는 방. 요즘 호텔은 대부분 금연이라 smoking room 이 따로 있는지 묻기도 함",
 "e": "I requested a non-smoking room.",
 "k": "금연 객실로 요청했어요."
 },
@@ -475,7 +514,8 @@
 "ipa": "/aʊt əv ˈɔrdər/",
 "h": "아웃 오브 오더",
 "p": "adj.",
-"m": "고장 난",
+"m": "고장 난, 작동하지 않는",
+"n": "기계·시설이 고장 난 상태(엘리베이터, 자판기 등). 회의에서는 '규칙에 어긋나는'이라는 뜻도 있음",
 "e": "The air conditioner in my room is out of order.",
 "k": "제 방 에어컨이 고장 났어요."
 },
@@ -488,6 +528,7 @@
 "h": "노이지",
 "p": "adj.",
 "m": "시끄러운",
+"n": "소음이 많은. 방 바꿀 때 자주 쓰는 말. 명사 noise, 반대: quiet",
 "e": "My room is too noisy. Could I change rooms?",
 "k": "방이 너무 시끄러워요. 방을 바꿀 수 있을까요?"
 },
@@ -499,7 +540,8 @@
 "ipa": "/ˈlʌgədʒ ˈstɔrədʒ/",
 "h": "러기지 스토리지",
 "p": "n.",
-"m": "짐 보관",
+"m": "짐 보관(소)",
+"n": "체크아웃 후나 체크인 전에 짐을 맡겨 두는 서비스. baggage storage, left luggage(영국식)",
 "e": "Can I leave my bags in luggage storage after checkout?",
 "k": "체크아웃 후에 짐을 보관할 수 있나요?"
 },
@@ -511,7 +553,8 @@
 "ipa": "/ˈʃʌtəl/",
 "h": "셔틀",
 "p": "n.",
-"m": "셔틀버스",
+"m": "셔틀버스, 정기 왕복 운행편",
+"n": "공항-호텔처럼 정해진 구간을 오가는 차량. airport shuttle, shuttle bus",
 "e": "Does the hotel have a shuttle to the airport?",
 "k": "호텔에서 공항까지 셔틀이 있나요?"
 },
@@ -523,7 +566,8 @@
 "ipa": "/ˈɪnvɔɪs/",
 "h": "인보이스",
 "p": "n.",
-"m": "청구서, 인보이스",
+"m": "청구서, 송장, 인보이스",
+"n": "거래 대금을 청구하는 문서. 무역에서는 상품 명세가 담긴 송장. receipt(영수증)는 지불 후 받는 것",
 "e": "Could you send the invoice to my company email?",
 "k": "인보이스를 회사 이메일로 보내주시겠어요?"
 },
@@ -535,7 +579,8 @@
 "ipa": "/əˈveɪləbəl/",
 "h": "어베일러블",
 "p": "adj.",
-"m": "이용 가능한, 시간이 되는",
+"m": "이용 가능한; 시간이 되는; 구할 수 있는",
+"n": "물건·시설이 비어 있거나, 사람이 시간이 될 때 모두 씀. Are you available tomorrow?(내일 시간 되세요?)",
 "e": "Is the business center available 24 hours?",
 "k": "비즈니스 센터는 24시간 이용 가능한가요?"
 },
@@ -548,6 +593,7 @@
 "h": "키 카드",
 "p": "n.",
 "m": "객실 카드키",
+"n": "호텔 방문을 여는 카드. 방에 두고 나오면 front desk 에서 다시 받음",
 "e": "My key card isn't working.",
 "k": "제 카드키가 작동하지 않아요."
 },
@@ -559,7 +605,8 @@
 "ipa": "/fɛr/",
 "h": "페어",
 "p": "n.",
-"m": "(교통) 요금",
+"m": "(교통) 요금, 운임",
+"n": "버스·택시·비행기 요금. 입장료는 fee, 물건값은 price 로 구분",
 "e": "How much is the fare to the convention center?",
 "k": "컨벤션 센터까지 요금이 얼마인가요?"
 },
@@ -572,6 +619,7 @@
 "h": "라이드헤일링 앱",
 "p": "n.",
 "m": "차량 호출 앱",
+"n": "우버·그랩처럼 앱으로 차를 부르는 서비스. ride-sharing app 이라고도 함",
 "e": "I'll just book a car with a ride-hailing app.",
 "k": "그냥 차량 호출 앱으로 차를 부를게요."
 },
@@ -583,7 +631,8 @@
 "ipa": "/pɪk ʌp/",
 "h": "픽업",
 "p": "v.",
-"m": "(차로) 데리러 가다",
+"m": "(차로) 데리러 가다; 집어 들다; 익히다",
+"n": "I'll pick you up at 8(8시에 데리러 갈게요). 물건을 찾아오다, 언어를 자연스럽게 익히다라는 뜻도 있음",
 "e": "Our driver will pick you up at the hotel at 8.",
 "k": "기사가 8시에 호텔로 모시러 갈 거예요."
 },
@@ -595,7 +644,8 @@
 "ipa": "/drɑp ɔf/",
 "h": "드랍 오프",
 "p": "v.",
-"m": "내려주다",
+"m": "(차로) 내려주다; (물건을) 갖다 놓다",
+"n": "목적지에 사람을 내려주거나 물건을 맡기다. 반대: pick up",
 "e": "Could you drop me off at the main entrance?",
 "k": "정문 앞에 내려주시겠어요?"
 },
@@ -608,6 +658,7 @@
 "h": "트래픽 잼",
 "p": "n.",
 "m": "교통 체증",
+"n": "차가 막혀 움직이지 못하는 상태. heavy traffic, be stuck in traffic 도 자주 씀",
 "e": "Sorry, I'm stuck in a traffic jam.",
 "k": "죄송해요, 차가 막혀서 꼼짝 못 하고 있어요."
 },
@@ -619,7 +670,8 @@
 "ipa": "/rʌʃ ˈaʊər/",
 "h": "러시 아워",
 "p": "n.",
-"m": "출퇴근 시간",
+"m": "출퇴근 시간, 혼잡 시간",
+"n": "길·지하철이 가장 붐비는 아침·저녁 시간대",
 "e": "Let's leave early to avoid rush hour.",
 "k": "출퇴근 시간을 피하려면 일찍 출발해요."
 },
@@ -631,7 +683,8 @@
 "ipa": "/kəˈmjut/",
 "h": "커뮤트",
 "p": "n.",
-"m": "통근",
+"m": "통근(하다), 출퇴근(하다)",
+"n": "집과 회사를 오가는 것. How long is your commute?(출퇴근 얼마나 걸려요?)는 흔한 스몰토크",
 "e": "How long is your commute?",
 "k": "출퇴근하는 데 얼마나 걸리세요?"
 },
@@ -644,6 +697,7 @@
 "h": "렌털 카",
 "p": "n.",
 "m": "렌터카",
+"n": "빌린 자동차. rent a car(차를 빌리다), car rental(렌터카 업체·서비스)",
 "e": "I picked up a rental car at the airport.",
 "k": "공항에서 렌터카를 받았어요."
 },
@@ -655,7 +709,8 @@
 "ipa": "/ˌwʌn ˈweɪ/",
 "h": "원웨이",
 "p": "adj.",
-"m": "편도의",
+"m": "편도의; 일방통행의",
+"n": "one-way ticket(편도표), one-way street(일방통행로). 반대: round-trip",
 "e": "A one-way ticket to downtown, please.",
 "k": "시내까지 편도 한 장 주세요."
 },
@@ -667,7 +722,8 @@
 "ipa": "/ˈplætˌfɔrm/",
 "h": "플랫폼",
 "p": "n.",
-"m": "승강장",
+"m": "승강장; (발표용) 단; (사업·IT) 플랫폼",
+"n": "기차역 승강장. 여러 뜻이 있으니 문맥으로 구분",
 "e": "Which platform does the train to Osaka leave from?",
 "k": "오사카행 기차는 몇 번 승강장에서 출발하나요?"
 },
@@ -679,7 +735,8 @@
 "ipa": "/trænsˈfɜr/",
 "h": "트랜스퍼",
 "p": "v.",
-"m": "갈아타다",
+"m": "갈아타다, 환승하다; 옮기다, 이체하다",
+"n": "지하철·비행기 환승, 부서 이동(전근), 송금(bank transfer) 모두 transfer",
 "e": "You need to transfer at Central Station.",
 "k": "중앙역에서 갈아타셔야 해요."
 },
@@ -691,7 +748,8 @@
 "ipa": "/dəˈrɛkʃənz/",
 "h": "더렉션즈",
 "p": "n.",
-"m": "길 안내",
+"m": "길 안내; 지시, 사용법",
+"n": "복수형으로 '길 찾는 방법'. ask for directions(길을 묻다). 단수 direction 은 '방향'",
 "e": "Could you give me directions to the office?",
 "k": "사무실까지 가는 길 좀 알려주시겠어요?"
 },
@@ -704,6 +762,7 @@
 "h": "위딘 워킹 디스턴스",
 "p": "phr.",
 "m": "걸어갈 수 있는 거리에",
+"n": "도보로 갈 만큼 가까운. 호텔·식당 위치를 물을 때 유용한 표현",
 "e": "The client's office is within walking distance.",
 "k": "고객사 사무실은 걸어갈 수 있는 거리예요."
 },
@@ -715,7 +774,8 @@
 "ipa": "/rɪˈsit/",
 "h": "리씻",
 "p": "n.",
-"m": "영수증",
+"m": "영수증; 수령, 받음",
+"n": "지불 후 받는 증빙. p 는 묵음(리씻). acknowledge receipt 는 '받았음을 확인하다'",
 "e": "Could I get a receipt, please?",
 "k": "영수증 좀 주시겠어요?"
 },
@@ -728,6 +788,7 @@
 "h": "에스티메이티드 타임 오브 어라이벌",
 "p": "n.",
 "m": "도착 예정 시간 (ETA)",
+"n": "보통 줄여서 ETA 라고 말함. 출발 예정 시간은 ETD(estimated time of departure)",
 "e": "What's your estimated time of arrival?",
 "k": "도착 예정 시간이 언제인가요?"
 },
@@ -739,7 +800,8 @@
 "ipa": "/ˈʃɔrtˌkʌt/",
 "h": "숏컷",
 "p": "n.",
-"m": "지름길",
+"m": "지름길; (컴퓨터) 단축키",
+"n": "더 빨리 가는 길. 비유적으로 '손쉬운 방법'. keyboard shortcut(단축키)",
 "e": "The driver took a shortcut to save time.",
 "k": "기사가 시간을 아끼려고 지름길로 갔어요."
 },
@@ -751,7 +813,8 @@
 "ipa": "/toʊl/",
 "h": "톨",
 "p": "n.",
-"m": "통행료",
+"m": "통행료; 사상자 수, 피해",
+"n": "도로·다리 이용 요금(toll road 유료도로). death toll 은 '사망자 수'",
 "e": "The fare doesn't include tolls.",
 "k": "요금에 통행료는 포함되어 있지 않아요."
 },
@@ -763,7 +826,8 @@
 "ipa": "/ˌdaʊnˈtaʊn/",
 "h": "다운타운",
 "p": "n.",
-"m": "시내, 도심",
+"m": "시내, 도심(에서)",
+"n": "도시의 중심 상업 지역. 명사·부사로 씀(go downtown 시내에 가다)",
 "e": "Most of the meetings are downtown.",
 "k": "회의는 대부분 시내에서 있어요."
 },
@@ -775,7 +839,8 @@
 "ipa": "/hɛd tə/",
 "h": "헤드 투",
 "p": "v.",
-"m": "~로 향하다",
+"m": "~로 향하다, ~로 가다",
+"n": "이동 방향을 말할 때 자주 쓰는 구어 표현. I'm heading to the airport(공항 가는 중이에요)",
 "e": "I'm heading to the airport now.",
 "k": "지금 공항으로 가는 중이에요."
 },
@@ -787,7 +852,8 @@
 "ipa": "/ˈrʌnɪŋ leɪt/",
 "h": "러닝 레이트",
 "p": "phr.",
-"m": "늦어지고 있는",
+"m": "늦어지고 있는, 늦을 것 같은",
+"n": "약속 시간에 늦게 될 때 미리 알리는 정중한 표현. I'm running 10 minutes late",
 "e": "I'm running about ten minutes late.",
 "k": "10분 정도 늦을 것 같아요."
 },
@@ -799,7 +865,8 @@
 "ipa": "/ˈlændˌmɑrk/",
 "h": "랜드마크",
 "p": "n.",
-"m": "주요 건물, 랜드마크",
+"m": "주요 건물, 랜드마크; 획기적인 사건",
+"n": "길 찾을 때 기준이 되는 눈에 띄는 건물. a landmark decision(획기적인 결정)처럼도 씀",
 "e": "Is there a landmark near the building?",
 "k": "건물 근처에 눈에 띄는 랜드마크가 있나요?"
 },
@@ -812,6 +879,7 @@
 "h": "이그잭트 애드레스",
 "p": "n.",
 "m": "정확한 주소",
+"n": "건물명·호수까지 포함한 상세 주소. 택시·차량 호출 때 꼭 필요",
 "e": "Could you text me the exact address?",
 "k": "정확한 주소를 문자로 보내주시겠어요?"
 },
@@ -824,6 +892,7 @@
 "h": "북 어 테이블",
 "p": "phr.",
 "m": "테이블을 예약하다",
+"n": "식당 자리 예약. reserve a table, make a reservation 과 같은 뜻",
 "e": "I'd like to book a table for four at 7.",
 "k": "7시에 4명 자리 예약하고 싶어요."
 },
@@ -835,7 +904,8 @@
 "ipa": "/ˌrɛkəˈmɛnd/",
 "h": "레커멘드",
 "p": "v.",
-"m": "추천하다",
+"m": "추천하다, 권하다",
+"n": "What do you recommend?(뭘 추천하세요?)는 식당에서 아주 많이 씀. 명사 recommendation",
 "e": "What do you recommend here?",
 "k": "여기서 뭘 추천하세요?"
 },
@@ -847,7 +917,8 @@
 "ipa": "/ˈspɛʃəlti/",
 "h": "스페셜티",
 "p": "n.",
-"m": "대표 요리, 특선",
+"m": "대표 요리, 특선; 전문 분야",
+"n": "그 식당이 가장 잘하는 요리(house specialty). 사람의 전문 분야라는 뜻도 있음. 영국식 speciality",
 "e": "What's the house specialty?",
 "k": "이 집 대표 요리가 뭔가요?"
 },
@@ -859,7 +930,8 @@
 "ipa": "/ˈdaɪəˌtɛri rɪˈstrɪkʃən/",
 "h": "다이어테리 리스트릭션",
 "p": "n.",
-"m": "식이 제한 (못 먹는 음식)",
+"m": "식이 제한, 못 먹는 음식",
+"n": "종교·알레르기·채식 등으로 먹지 못하는 음식. 접대 자리 전에 미리 물어보는 것이 매너",
 "e": "Do you have any dietary restrictions?",
 "k": "못 드시는 음식이 있으세요?"
 },
@@ -871,7 +943,8 @@
 "ipa": "/əˈlɜrdʒɪk/",
 "h": "얼러직",
 "p": "adj.",
-"m": "알레르기가 있는",
+"m": "알레르기가 있는; 질색하는",
+"n": "be allergic to~(~에 알레르기가 있다). 명사 allergy. 농담으로 '~를 아주 싫어하다'라는 뜻도",
 "e": "I'm allergic to shellfish.",
 "k": "저는 조개류 알레르기가 있어요."
 },
@@ -883,7 +956,8 @@
 "ipa": "/ˌvɛdʒəˈtɛriən/",
 "h": "베지테리언",
 "p": "adj.",
-"m": "채식(주의)의",
+"m": "채식주의자; 채식(주의)의",
+"n": "고기·생선을 먹지 않는 사람. 유제품·달걀까지 안 먹으면 vegan",
 "e": "Are there any vegetarian options?",
 "k": "채식 메뉴가 있나요?"
 },
@@ -895,7 +969,8 @@
 "ipa": "/ˈæpəˌtaɪzər/",
 "h": "애피타이저",
 "p": "n.",
-"m": "전채 요리",
+"m": "전채 요리, 애피타이저",
+"n": "메인 전에 먹는 가벼운 요리. 영국식은 starter",
 "e": "Shall we order a few appetizers to share?",
 "k": "같이 먹을 전채 요리 몇 개 시킬까요?"
 },
@@ -907,7 +982,8 @@
 "ipa": "/meɪn kɔrs/",
 "h": "메인 코스",
 "p": "n.",
-"m": "주 요리",
+"m": "주 요리, 메인 요리",
+"n": "코스의 중심 요리. entrée(미국식)라고도 함",
 "e": "For the main course, I'll have the steak.",
 "k": "주 요리로는 스테이크로 할게요."
 },
@@ -920,6 +996,7 @@
 "h": "미디엄 레어",
 "p": "adj.",
 "m": "(고기 굽기) 미디엄 레어",
+"n": "겉은 익고 속은 붉은 정도. 굽기 순서: rare < medium-rare < medium < medium-well < well-done",
 "e": "I'd like my steak medium-rare.",
 "k": "스테이크는 미디엄 레어로 주세요."
 },
@@ -931,7 +1008,8 @@
 "ipa": "/tʃɛk/",
 "h": "첵",
 "p": "n.",
-"m": "계산서",
+"m": "계산서; 확인(하다); 수표",
+"n": "식당에서 Check, please(계산서 주세요). 영국식은 bill. 동사로는 '확인하다'",
 "e": "Could we have the check, please?",
 "k": "계산서 좀 주시겠어요?"
 },
@@ -943,7 +1021,8 @@
 "ipa": "/splɪt ðə bɪl/",
 "h": "스플릿 더 빌",
 "p": "phr.",
-"m": "나눠서 계산하다",
+"m": "나눠서 계산하다, 각자 내다",
+"n": "함께 먹은 음식값을 나누어 내다. go Dutch 와 비슷한 뜻",
 "e": "Shall we split the bill?",
 "k": "나눠서 계산할까요?"
 },
@@ -955,7 +1034,8 @@
 "ipa": "/trit/",
 "h": "트릿",
 "p": "n.",
-"m": "대접, 한턱",
+"m": "대접, 한턱; 대접하다; 다루다",
+"n": "It's my treat(제가 살게요). treat A to B(A에게 B를 대접하다). 사람을 대하다/치료하다라는 뜻도 있음",
 "e": "Dinner is my treat tonight.",
 "k": "오늘 저녁은 제가 살게요."
 },
@@ -967,7 +1047,8 @@
 "ipa": "/tɪp/",
 "h": "팁",
 "p": "n.",
-"m": "팁",
+"m": "팁, 봉사료; 조언, 요령",
+"n": "서비스에 대한 감사의 돈. 비슷한 말 gratuity. Any tips?(요령 있어요?)처럼 '조언'이라는 뜻도",
 "e": "Is the tip included in the bill?",
 "k": "계산서에 팁이 포함되어 있나요?"
 },
@@ -980,6 +1061,7 @@
 "h": "프러포즈 어 토스트",
 "p": "phr.",
 "m": "건배를 제안하다",
+"n": "공식 자리에서 건배사를 할 때 쓰는 표현. I'd like to propose a toast to~ (~를 위해 건배합시다)",
 "e": "I'd like to propose a toast to our partnership.",
 "k": "우리의 협력을 위해 건배를 제안합니다."
 },
@@ -991,7 +1073,8 @@
 "ipa": "/kwɪˈzin/",
 "h": "퀴진",
 "p": "n.",
-"m": "요리 (방식)",
+"m": "요리, 요리법",
+"n": "특정 지역·나라의 음식 문화(Korean cuisine). food 보다 격식 있는 말",
 "e": "Have you ever tried Korean cuisine?",
 "k": "한국 요리 드셔본 적 있으세요?"
 },
@@ -1003,7 +1086,8 @@
 "ipa": "/rɪˈsɛpʃən/",
 "h": "리셉션",
 "p": "n.",
-"m": "리셉션, 환영 행사",
+"m": "리셉션, 환영 연회; (호텔) 접수처; 반응; 수신",
+"n": "환영 행사, 호텔 프런트, 전화·전파 수신 상태 등 뜻이 많음",
 "e": "There's a welcome reception after the conference.",
 "k": "컨퍼런스 후에 환영 리셉션이 있어요."
 },
@@ -1015,7 +1099,8 @@
 "ipa": "/hoʊst/",
 "h": "호스트",
 "p": "v.",
-"m": "(행사를) 주최하다, 초대하다",
+"m": "(행사를) 주최하다, 초대하다; 주최자, 진행자",
+"n": "저녁 자리나 행사를 여는 사람. 초대받은 사람은 guest",
 "e": "Thank you for hosting us tonight.",
 "k": "오늘 저녁 초대해 주셔서 감사합니다."
 },
@@ -1027,7 +1112,8 @@
 "ipa": "/ˈrifɪl/",
 "h": "리필",
 "p": "n.",
-"m": "리필",
+"m": "리필, 다시 채움; 다시 채우다",
+"n": "음료를 다시 채우는 것. free refills(무료 리필)",
 "e": "Could I get a refill on my coffee?",
 "k": "커피 리필해 주시겠어요?"
 },
@@ -1040,6 +1126,7 @@
 "h": "투 고",
 "p": "phr.",
 "m": "포장(해서 가져가는)",
+"n": "For here or to go?(드시고 가세요, 포장하세요?) 영국식은 takeaway",
 "e": "Can I get this to go?",
 "k": "이거 포장해 주실 수 있나요?"
 },
@@ -1051,7 +1138,8 @@
 "ipa": "/ˈpraɪvət rum/",
 "h": "프라이빗 룸",
 "p": "n.",
-"m": "별실, 룸",
+"m": "별실, (식당) 룸; 1인실",
+"n": "따로 분리된 방. 접대 자리에서 조용히 대화하고 싶을 때 요청함",
 "e": "Do you have a private room for a business dinner?",
 "k": "비즈니스 저녁 식사를 위한 별실이 있나요?"
 },
@@ -1063,7 +1151,8 @@
 "ipa": "/ˌɛntərˈteɪn/",
 "h": "엔터테인",
 "p": "v.",
-"m": "(고객을) 접대하다",
+"m": "(고객을) 접대하다; 즐겁게 하다; 고려하다",
+"n": "business entertainment(업무 접대). entertain an idea(생각을 고려하다)라는 뜻도",
 "e": "We entertained the clients at a local restaurant.",
 "k": "현지 식당에서 고객을 접대했어요."
 },
@@ -1075,7 +1164,8 @@
 "ipa": "/hɛlp jərˈsɛlf/",
 "h": "헬프 유어셀프",
 "p": "phr.",
-"m": "마음껏 드세요",
+"m": "마음껏 드세요, 편하게 가져가세요",
+"n": "음식·음료를 직접 가져다 먹으라고 권하는 말. help yourself to~(~를 마음껏 드세요)",
 "e": "Please help yourself to the snacks.",
 "k": "간식 마음껏 드세요."
 },
@@ -1087,7 +1177,8 @@
 "ipa": "/əˈdʒɛndə/",
 "h": "어젠다",
 "p": "n.",
-"m": "안건, 의제",
+"m": "안건, 의제; 회의 일정표",
+"n": "회의에서 다룰 항목 목록. hidden agenda 는 '숨은 의도'",
 "e": "Let's go over today's agenda.",
 "k": "오늘 안건을 살펴봅시다."
 },
@@ -1099,7 +1190,8 @@
 "ipa": "/ˈmɪnəts/",
 "h": "미닛츠",
 "p": "n.",
-"m": "회의록",
+"m": "회의록; (시간) 분",
+"n": "회의 내용을 적은 기록(take the minutes 회의록을 쓰다). 항상 복수형",
 "e": "Who's taking the minutes today?",
 "k": "오늘 회의록은 누가 작성하나요?"
 },
@@ -1112,6 +1204,7 @@
 "h": "어텐디",
 "p": "n.",
 "m": "참석자",
+"n": "회의·행사에 참석하는 사람. participant 와 비슷함. 동사 attend",
 "e": "Please share the slides with all attendees.",
 "k": "모든 참석자에게 슬라이드를 공유해 주세요."
 },
@@ -1123,7 +1216,8 @@
 "ipa": "/ˌprɛzənˈteɪʃən/",
 "h": "프레젠테이션",
 "p": "n.",
-"m": "발표",
+"m": "발표, 프레젠테이션; 제출, 제시",
+"n": "give/make a presentation(발표하다). 음식의 모양새(플레이팅)라는 뜻도",
 "e": "I'll give a short presentation on our new product.",
 "k": "저희 신제품에 대해 짧게 발표하겠습니다."
 },
@@ -1135,7 +1229,8 @@
 "ipa": "/ˈhænˌdaʊt/",
 "h": "핸드아웃",
 "p": "n.",
-"m": "유인물",
+"m": "유인물, 배포 자료; 지원금",
+"n": "회의·발표 때 나눠 주는 인쇄물. 무상 지원금이라는 뜻도 있음",
 "e": "I've prepared handouts for everyone.",
 "k": "모두를 위해 유인물을 준비했어요."
 },
@@ -1147,7 +1242,8 @@
 "ipa": "/ˈoʊvərˌvju/",
 "h": "오버뷰",
 "p": "n.",
-"m": "개요",
+"m": "개요, 개관",
+"n": "전체 내용을 간단히 요약한 것. give an overview of~(~의 개요를 설명하다)",
 "e": "Let me start with a brief overview.",
 "k": "간단한 개요부터 말씀드릴게요."
 },
@@ -1159,7 +1255,8 @@
 "ipa": "/əbˈdʒɛktɪv/",
 "h": "업젝티브",
 "p": "n.",
-"m": "목표",
+"m": "목표; 객관적인",
+"n": "이루려는 구체적 목표(goal 보다 구체적). 형용사로는 '객관적인'(반대 subjective)",
 "e": "The main objective of this meeting is to finalize the budget.",
 "k": "이번 회의의 주된 목표는 예산을 확정하는 거예요."
 },
@@ -1171,7 +1268,8 @@
 "ipa": "/ˈklɛrəˌfaɪ/",
 "h": "클래리파이",
 "p": "v.",
-"m": "명확히 하다",
+"m": "명확히 하다, 분명히 설명하다",
+"n": "애매한 점을 다시 설명해 달라고 할 때 씀. 명사 clarification",
 "e": "Could you clarify what you mean by that?",
 "k": "그게 무슨 뜻인지 좀 더 명확히 말씀해 주시겠어요?"
 },
@@ -1183,7 +1281,8 @@
 "ipa": "/ɪˈlæbəˌreɪt/",
 "h": "일래버레이트",
 "p": "v.",
-"m": "자세히 설명하다",
+"m": "자세히 설명하다; 정교한",
+"n": "elaborate on~(~에 대해 더 자세히 말하다). 형용사로는 '공들인, 정교한'",
 "e": "Could you elaborate on that point?",
 "k": "그 부분을 좀 더 자세히 설명해 주시겠어요?"
 },
@@ -1195,7 +1294,8 @@
 "ipa": "/ˈfɑloʊ ʌp/",
 "h": "팔로우 업",
 "p": "v.",
-"m": "후속 조치하다",
+"m": "후속 조치하다, 다시 연락하다",
+"n": "회의·연락 후에 진행 상황을 다시 챙기는 것. 명사 follow-up(follow-up email)",
 "e": "I'll follow up with an email after the meeting.",
 "k": "회의 후에 이메일로 후속 연락 드릴게요."
 },
@@ -1207,7 +1307,8 @@
 "ipa": "/ˈækʃən ˈaɪtəm/",
 "h": "액션 아이템",
 "p": "n.",
-"m": "실행 과제",
+"m": "실행 과제, 해야 할 일",
+"n": "회의 결과로 누가 언제까지 할 일을 정한 항목",
 "e": "Let's review the action items before we finish.",
 "k": "끝내기 전에 실행 과제를 검토해 봅시다."
 },
@@ -1220,6 +1321,7 @@
 "h": "데드라인",
 "p": "n.",
 "m": "마감 기한",
+"n": "일을 끝내야 하는 최종 시점. meet the deadline(기한을 지키다), miss the deadline(기한을 놓치다)",
 "e": "The deadline for the proposal is next Monday.",
 "k": "제안서 마감은 다음 주 월요일이에요."
 },
@@ -1231,7 +1333,8 @@
 "ipa": "/ˈɪnˌpʊt/",
 "h": "인풋",
 "p": "n.",
-"m": "의견",
+"m": "의견, 조언; 투입; 입력",
+"n": "We'd appreciate your input(의견 주시면 감사하겠습니다)처럼 회의에서 '의견'의 뜻으로 많이 씀",
 "e": "We'd appreciate your input on this design.",
 "k": "이 디자인에 대한 의견을 주시면 감사하겠습니다."
 },
@@ -1243,7 +1346,8 @@
 "ipa": "/ɑn ðə seɪm peɪdʒ/",
 "h": "온 더 세임 페이지",
 "p": "phr.",
-"m": "같은 이해를 하고 있는",
+"m": "같은 이해를 하고 있는, 생각이 같은",
+"n": "서로 내용을 똑같이 이해하고 있다는 뜻의 비즈니스 관용 표현",
 "e": "Let's make sure we're all on the same page.",
 "k": "우리 모두 같은 이해를 하고 있는지 확인합시다."
 },
@@ -1255,7 +1359,8 @@
 "ipa": "/ˈbreɪnˌstɔrm/",
 "h": "브레인스톰",
 "p": "v.",
-"m": "아이디어를 모으다",
+"m": "아이디어를 모으다, 브레인스토밍하다",
+"n": "여럿이 자유롭게 아이디어를 내는 것. 명사로도 씀",
 "e": "Let's brainstorm some ideas for the launch.",
 "k": "출시를 위한 아이디어를 함께 모아 봅시다."
 },
@@ -1267,7 +1372,8 @@
 "ipa": "/ræp ʌp/",
 "h": "랩 업",
 "p": "v.",
-"m": "마무리하다",
+"m": "마무리하다, 끝내다; 포장하다",
+"n": "회의·작업을 정리하며 끝낼 때 씀. Let's wrap up(마무리하죠)",
 "e": "Let's wrap up the meeting here.",
 "k": "회의는 여기서 마무리하죠."
 },
@@ -1279,7 +1385,8 @@
 "ipa": "/ˌɪntəˈrʌpt/",
 "h": "인터럽트",
 "p": "v.",
-"m": "(말에) 끼어들다",
+"m": "(말을) 끊다, 끼어들다; 방해하다",
+"n": "Sorry to interrupt(말씀 중에 죄송합니다)는 회의에서 정중하게 끼어드는 표현",
 "e": "Sorry to interrupt, but I have a quick question.",
 "k": "말씀 중에 죄송한데, 짧은 질문이 있어요."
 },
@@ -1291,7 +1398,8 @@
 "ipa": "/ˈfɪgjər/",
 "h": "피겨",
 "p": "n.",
-"m": "수치",
+"m": "수치, 숫자; 인물; 모양; 생각하다",
+"n": "sales figures(매출 수치). figure out 은 '알아내다, 이해하다'",
 "e": "These figures are from the last quarter.",
 "k": "이 수치는 지난 분기 자료예요."
 },
@@ -1303,7 +1411,8 @@
 "ipa": "/ˈkwɔrtər/",
 "h": "쿼터",
 "p": "n.",
-"m": "분기",
+"m": "분기; 4분의 1; 25센트",
+"n": "1년을 넷으로 나눈 3개월(Q1~Q4). 시간에서는 15분(a quarter past three)",
 "e": "Sales rose 10 percent this quarter.",
 "k": "이번 분기 매출이 10% 올랐어요."
 },
@@ -1315,7 +1424,8 @@
 "ipa": "/ˈfɔrˌkæst/",
 "h": "포캐스트",
 "p": "n.",
-"m": "예측, 전망",
+"m": "예측, 전망; 예측하다",
+"n": "매출·수요 등의 미래 추정치. weather forecast(일기예보)",
 "e": "Our forecast for next year is quite positive.",
 "k": "내년 전망은 꽤 긍정적이에요."
 },
@@ -1327,7 +1437,8 @@
 "ipa": "/ˈfidˌbæk/",
 "h": "피드백",
 "p": "n.",
-"m": "피드백, 의견",
+"m": "피드백, 의견, 반응",
+"n": "결과물에 대한 평가·의견. give feedback(피드백을 주다). 셀 수 없는 명사",
 "e": "Thanks for the feedback. It's very helpful.",
 "k": "피드백 감사합니다. 정말 도움이 돼요."
 },
@@ -1339,7 +1450,8 @@
 "ipa": "/poʊstˈpoʊn/",
 "h": "포스트폰",
 "p": "v.",
-"m": "연기하다",
+"m": "연기하다, 미루다",
+"n": "일정을 나중으로 미루다. put off 와 같은 뜻. 반대로 앞당기면 move up/bring forward",
 "e": "We need to postpone the meeting until Thursday.",
 "k": "회의를 목요일로 연기해야 해요."
 },
@@ -1352,6 +1464,7 @@
 "h": "인 퍼슨",
 "p": "phr.",
 "m": "직접, 대면으로",
+"n": "온라인·전화가 아니라 얼굴을 보고. meet in person(직접 만나다)",
 "e": "It's great to finally meet you in person.",
 "k": "드디어 직접 뵙게 되어 반가워요."
 },
@@ -1363,7 +1476,8 @@
 "ipa": "/ˈkɑnfərəns kɔl/",
 "h": "칸퍼런스 콜",
 "p": "n.",
-"m": "전화 회의",
+"m": "전화 회의, 다자간 통화",
+"n": "여러 사람이 동시에 참여하는 전화·화상 회의. 화상이면 video call",
 "e": "Let's set up a conference call with the head office.",
 "k": "본사와 전화 회의를 잡읍시다."
 },
@@ -1375,7 +1489,8 @@
 "ipa": "/nəˈgoʊʃiˌeɪt/",
 "h": "니고시에이트",
 "p": "v.",
-"m": "협상하다",
+"m": "협상하다, 교섭하다",
+"n": "가격·조건을 합의하려고 논의하다. 명사 negotiation, 협상 가능한 것은 negotiable",
 "e": "We'd like to negotiate the price.",
 "k": "가격을 협상하고 싶습니다."
 },
@@ -1387,7 +1502,8 @@
 "ipa": "/prəˈpoʊzəl/",
 "h": "프러포절",
 "p": "n.",
-"m": "제안(서)",
+"m": "제안(서); 청혼",
+"n": "사업 제안 또는 그 문서. submit a proposal(제안서를 제출하다). 동사 propose",
 "e": "We've reviewed your proposal carefully.",
 "k": "제안서를 꼼꼼히 검토했습니다."
 },
@@ -1399,7 +1515,8 @@
 "ipa": "/tɜrmz/",
 "h": "텀즈",
 "p": "n.",
-"m": "(계약) 조건",
+"m": "(계약) 조건; 용어; 관계",
+"n": "payment terms(결제 조건), terms and conditions(약관). on good terms(사이가 좋은)",
 "e": "We need to discuss the payment terms.",
 "k": "결제 조건을 논의해야 합니다."
 },
@@ -1411,7 +1528,8 @@
 "ipa": "/ˈkɑnˌtrækt/",
 "h": "칸트랙트",
 "p": "n.",
-"m": "계약(서)",
+"m": "계약(서); 계약하다; 수축하다",
+"n": "법적 효력이 있는 합의 문서. sign a contract(계약하다)",
 "e": "Could you send us a draft of the contract?",
 "k": "계약서 초안을 보내주시겠어요?"
 },
@@ -1423,7 +1541,8 @@
 "ipa": "/saɪn/",
 "h": "사인",
 "p": "v.",
-"m": "서명하다",
+"m": "서명하다; 표지판, 신호",
+"n": "계약서에 이름을 쓰다. 명사 signature(서명). 유명인 사인은 autograph",
 "e": "We're ready to sign the agreement.",
 "k": "계약에 서명할 준비가 됐습니다."
 },
@@ -1435,7 +1554,8 @@
 "ipa": "/əˈgrimənt/",
 "h": "어그리먼트",
 "p": "n.",
-"m": "합의, 계약",
+"m": "합의, 동의; 계약(서)",
+"n": "reach an agreement(합의에 이르다). contract 보다 넓은 의미의 합의",
 "e": "I think we've reached an agreement.",
 "k": "합의에 이른 것 같네요."
 },
@@ -1447,7 +1567,8 @@
 "ipa": "/ˈkɑmprəˌmaɪz/",
 "h": "캄프러마이즈",
 "p": "n.",
-"m": "타협(점)",
+"m": "타협(하다), 절충(안); 손상시키다",
+"n": "서로 양보해 중간점을 찾는 것. compromise security 는 '보안을 위태롭게 하다'",
 "e": "Let's find a compromise that works for both sides.",
 "k": "양쪽 모두에게 맞는 타협점을 찾아봅시다."
 },
@@ -1459,7 +1580,8 @@
 "ipa": "/ˈkaʊntərˌɔfər/",
 "h": "카운터오퍼",
 "p": "n.",
-"m": "역제안",
+"m": "역제안, 대안 제시",
+"n": "상대 제안을 받고 조건을 바꿔 다시 내는 제안. counterproposal 이라고도 함",
 "e": "We'll get back to you with a counteroffer.",
 "k": "역제안을 가지고 다시 연락드리겠습니다."
 },
@@ -1471,7 +1593,8 @@
 "ipa": "/ˈdɪsˌkaʊnt/",
 "h": "디스카운트",
 "p": "n.",
-"m": "할인",
+"m": "할인(하다)",
+"n": "가격을 깎아 주는 것. give/offer a discount, at a discount(할인된 가격으로)",
 "e": "Can you offer a discount for bulk orders?",
 "k": "대량 주문에 할인을 해주실 수 있나요?"
 },
@@ -1483,7 +1606,8 @@
 "ipa": "/kwoʊt/",
 "h": "쿼트",
 "p": "n.",
-"m": "견적",
+"m": "견적(서); 인용(하다)",
+"n": "가격 견적(quotation). 남의 말을 그대로 옮기는 '인용'이라는 뜻도 있음",
 "e": "Could you send us a quote by Friday?",
 "k": "금요일까지 견적을 보내주시겠어요?"
 },
@@ -1495,7 +1619,8 @@
 "ipa": "/ˈbʌdʒɪt/",
 "h": "버짓",
 "p": "n.",
-"m": "예산",
+"m": "예산; 예산을 세우다; 저렴한",
+"n": "정해진 비용 한도. on/within budget(예산 내에서), over budget(예산 초과). budget hotel(저가 호텔)",
 "e": "That's slightly over our budget.",
 "k": "그건 저희 예산을 조금 넘어요."
 },
@@ -1507,7 +1632,8 @@
 "ipa": "/dil/",
 "h": "딜",
 "p": "n.",
-"m": "거래",
+"m": "거래, 합의; 다루다",
+"n": "It's a deal(그렇게 합시다). deal with~ 는 '~을 처리하다, 다루다'",
 "e": "It's a deal.",
 "k": "그렇게 하죠. (거래 성사)"
 },
@@ -1519,7 +1645,8 @@
 "ipa": "/ˈmjutʃuəli ˌbɛnəˈfɪʃəl/",
 "h": "뮤추얼리 베니피셜",
 "p": "adj.",
-"m": "상호 이익이 되는",
+"m": "상호 이익이 되는, 서로에게 득이 되는",
+"n": "양쪽 모두에게 이익이 되는 관계·거래를 강조할 때 씀. 비슷한 말: win-win",
 "e": "We're looking for a mutually beneficial partnership.",
 "k": "서로에게 이익이 되는 파트너십을 원합니다."
 },
@@ -1531,7 +1658,8 @@
 "ipa": "/kənˈdɪʃən/",
 "h": "컨디션",
 "p": "n.",
-"m": "조건",
+"m": "조건; 상태, 컨디션",
+"n": "on one condition(한 가지 조건으로). 물건·사람의 상태라는 뜻도 있음(in good condition)",
 "e": "We can accept on one condition.",
 "k": "한 가지 조건하에 수락할 수 있습니다."
 },
@@ -1543,7 +1671,8 @@
 "ipa": "/ˈflɛksəbəl/",
 "h": "플렉서블",
 "p": "adj.",
-"m": "유연한",
+"m": "유연한, 융통성 있는; 잘 구부러지는",
+"n": "조건·일정을 조정할 여지가 있을 때. flexible schedule(유연한 일정)",
 "e": "We can be flexible on the delivery date.",
 "k": "납기일은 유연하게 조정할 수 있습니다."
 },
@@ -1555,7 +1684,8 @@
 "ipa": "/ˈlid ˌtaɪm/",
 "h": "리드 타임",
 "p": "n.",
-"m": "리드타임 (주문~납품 기간)",
+"m": "리드타임 (주문~납품 소요 기간), 준비 기간",
+"n": "주문을 받고 물건이 도착하기까지 걸리는 시간. 일을 준비하는 데 필요한 기간에도 씀. lead 는 '리드'로 발음",
 "e": "What's the lead time for this order?",
 "k": "이번 주문의 리드타임은 얼마나 되나요?"
 },
@@ -1567,7 +1697,8 @@
 "ipa": "/dɪˈlɪvəri/",
 "h": "딜리버리",
 "p": "n.",
-"m": "납품, 배송",
+"m": "납품, 배송; 출산; (발표의) 전달력",
+"n": "물건을 보내 주는 것. 발표에서 말하는 방식(전달력)을 delivery 라고도 함",
 "e": "Delivery will take about four weeks.",
 "k": "납품은 약 4주 걸릴 예정입니다."
 },
@@ -1579,7 +1710,8 @@
 "ipa": "/ˈwɔrənti/",
 "h": "워런티",
 "p": "n.",
-"m": "품질 보증",
+"m": "품질 보증(서)",
+"n": "일정 기간 무상 수리·교환을 약속하는 것. under warranty(보증 기간 중인). 비슷한 말: guarantee",
 "e": "The product comes with a two-year warranty.",
 "k": "제품에는 2년 품질 보증이 제공됩니다."
 },
@@ -1591,7 +1723,8 @@
 "ipa": "/klɔz/",
 "h": "클로즈",
 "p": "n.",
-"m": "(계약) 조항",
+"m": "(계약서의) 조항; (문법) 절",
+"n": "계약서의 개별 항목. a penalty clause(위약금 조항)",
 "e": "We'd like to revise this clause.",
 "k": "이 조항을 수정하고 싶습니다."
 },
@@ -1603,7 +1736,8 @@
 "ipa": "/ˈdil ˌbreɪkər/",
 "h": "딜브레이커",
 "p": "n.",
-"m": "결정적 걸림돌",
+"m": "결정적 걸림돌, 거래를 깨는 조건",
+"n": "그것 때문에 거래·합의를 하지 않게 되는 결정적인 문제",
 "e": "The price isn't a deal-breaker for us.",
 "k": "가격이 저희에게 결정적인 걸림돌은 아닙니다."
 },
@@ -1615,7 +1749,8 @@
 "ipa": "/ˈbɑtəm laɪn/",
 "h": "바텀 라인",
 "p": "n.",
-"m": "최저선, 최종 조건",
+"m": "최저선, 최종 조건; 핵심, 결론; 순이익",
+"n": "협상에서 양보할 수 있는 마지노선. The bottom line is~(요점은 ~이다). 손익계산서 맨 아래 줄(순이익)에서 나온 말",
 "e": "What's your bottom line?",
 "k": "최종적으로 어디까지 가능하신가요?"
 },
@@ -1627,7 +1762,8 @@
 "ipa": "/gɛt bæk tə/",
 "h": "겟 백 투",
 "p": "v.",
-"m": "나중에 다시 연락하다",
+"m": "나중에 다시 연락하다; ~로 돌아가다",
+"n": "I'll get back to you(확인하고 다시 연락드릴게요)는 비즈니스에서 매우 자주 씀",
 "e": "Let me check with my team and get back to you.",
 "k": "팀과 확인하고 다시 연락드릴게요."
 },
@@ -1639,7 +1775,8 @@
 "ipa": "/ˌkɑnfəˈdɛnʃəl/",
 "h": "칸피덴셜",
 "p": "adj.",
-"m": "기밀의",
+"m": "기밀의, 비밀의",
+"n": "외부에 알리면 안 되는 정보. strictly confidential(극비). 명사 confidentiality",
 "e": "This information is strictly confidential.",
 "k": "이 정보는 엄격히 기밀입니다."
 },
@@ -1651,7 +1788,8 @@
 "ipa": "/ˌlɔŋ ˈtɜrm/",
 "h": "롱텀",
 "p": "adj.",
-"m": "장기적인",
+"m": "장기적인, 장기의",
+"n": "오랜 기간에 걸친. long-term relationship(장기적 관계). 반대: short-term",
 "e": "We hope to build a long-term relationship.",
 "k": "장기적인 관계를 맺기를 바랍니다."
 },
@@ -1663,7 +1801,8 @@
 "ipa": "/əˈtætʃ/",
 "h": "어태치",
 "p": "v.",
-"m": "첨부하다",
+"m": "첨부하다; 붙이다, 부착하다",
+"n": "이메일에 파일을 붙이다. Please find attached~(~를 첨부합니다). 명사 attachment",
 "e": "Please find the file attached.",
 "k": "첨부된 파일을 확인해 주세요."
 },
@@ -1675,7 +1814,8 @@
 "ipa": "/rɪˈgɑrdɪŋ/",
 "h": "리가딩",
 "p": "prep.",
-"m": "~에 관하여",
+"m": "~에 관하여, ~에 대해",
+"n": "이메일에서 about 보다 격식 있게 쓰는 말. with regard to, concerning 과 비슷",
 "e": "I'm writing regarding our meeting next week.",
 "k": "다음 주 회의와 관련하여 메일 드립니다."
 },
@@ -1687,7 +1827,8 @@
 "ipa": "/kənˈvinjənt/",
 "h": "컨비니언트",
 "p": "adj.",
-"m": "편리한, 편한",
+"m": "편리한, (시간이) 편한",
+"n": "What time is convenient for you?(몇 시가 편하세요?). 사람을 주어로 쓰지 않음(I'm convenient ✕)",
 "e": "What time is convenient for you?",
 "k": "몇 시가 편하세요?"
 },
@@ -1700,6 +1841,7 @@
 "h": "컨펌",
 "p": "v.",
 "m": "확정하다, 확인하다",
+"n": "예약·일정을 확실히 하다. 명사 confirmation(확인). confirmation number(예약 확인 번호)",
 "e": "I'd like to confirm our appointment for tomorrow.",
 "k": "내일 약속을 확인하고 싶습니다."
 },
@@ -1711,7 +1853,8 @@
 "ipa": "/əˈpɔɪntmənt/",
 "h": "어포인트먼트",
 "p": "n.",
-"m": "(만날) 약속",
+"m": "(만날) 약속, 예약; 임명",
+"n": "병원·미팅처럼 시간을 정한 약속. 친구와의 약속은 보통 plans. promise 는 '하겠다는 다짐'",
 "e": "I have an appointment with the CFO at 3.",
 "k": "3시에 재무 이사와 약속이 있어요."
 },
@@ -1723,7 +1866,8 @@
 "ipa": "/ˈskɛdʒul/",
 "h": "스케줄",
 "p": "v.",
-"m": "일정을 잡다",
+"m": "일정(을 잡다), 예정표",
+"n": "schedule a meeting(회의를 잡다), on schedule(예정대로), behind schedule(일정보다 늦은)",
 "e": "Can we schedule a call for next week?",
 "k": "다음 주에 통화 일정을 잡을 수 있을까요?"
 },
@@ -1735,7 +1879,8 @@
 "ipa": "/taɪm zoʊn/",
 "h": "타임 존",
 "p": "n.",
-"m": "시간대",
+"m": "시간대, 표준시대",
+"n": "지역마다 다른 표준 시간. 시차는 time difference",
 "e": "Let's keep the time zone difference in mind.",
 "k": "시차를 염두에 둡시다."
 },
@@ -1747,7 +1892,8 @@
 "ipa": "/ˌsiˈsi/",
 "h": "씨씨",
 "p": "v.",
-"m": "참조로 넣다",
+"m": "참조로 넣다; 참조 (carbon copy)",
+"n": "이메일 참조 수신인. 숨은 참조는 bcc(blind carbon copy)",
 "e": "Please cc my manager on the email.",
 "k": "이메일에 제 매니저를 참조로 넣어주세요."
 },
@@ -1759,7 +1905,8 @@
 "ipa": "/aʊt əv ˈɔfɪs/",
 "h": "아웃 오브 오피스",
 "p": "phr.",
-"m": "부재중인",
+"m": "부재중인, 자리에 없는",
+"n": "휴가·출장 등으로 사무실에 없는 상태. 부재중 자동 회신은 out-of-office reply",
 "e": "I'll be out of office until Monday.",
 "k": "월요일까지 부재중입니다."
 },
@@ -1772,6 +1919,7 @@
 "h": "애즈 순 애즈 파서블",
 "p": "phr.",
 "m": "가능한 한 빨리 (ASAP)",
+"n": "급할 때 쓰지만 재촉하는 느낌이 있어 at your earliest convenience 가 더 정중함",
 "e": "Please reply as soon as possible.",
 "k": "가능한 한 빨리 회신 부탁드립니다."
 },
@@ -1783,7 +1931,8 @@
 "ipa": "/rɪˈmaɪndər/",
 "h": "리마인더",
 "p": "n.",
-"m": "리마인더, 알림",
+"m": "리마인더, 상기시키는 것; 알림",
+"n": "잊지 않도록 다시 알려 주는 메시지. a gentle/kind reminder(정중한 리마인더)",
 "e": "Just a quick reminder about tomorrow's meeting.",
 "k": "내일 회의 관련해 간단히 다시 알려드립니다."
 },
@@ -1795,7 +1944,8 @@
 "ipa": "/ˈɜrdʒənt/",
 "h": "어전트",
 "p": "adj.",
-"m": "긴급한",
+"m": "긴급한, 시급한",
+"n": "당장 처리해야 하는. 이메일 제목에 [Urgent] 를 붙이기도 함. 명사 urgency",
 "e": "This is urgent. Please call me back.",
 "k": "급한 일이에요. 다시 전화 주세요."
 },
@@ -1808,6 +1958,7 @@
 "h": "킵 업데이티드",
 "p": "phr.",
 "m": "진행 상황을 계속 알리다",
+"n": "I'll keep you updated/posted(계속 알려드릴게요)는 이메일 맺음 표현으로 자주 씀",
 "e": "I'll keep you updated.",
 "k": "진행 상황 계속 알려드릴게요."
 },
@@ -1819,7 +1970,8 @@
 "ipa": "/lʊk ˈfɔrwərd tə/",
 "h": "룩 포워드 투",
 "p": "phr.",
-"m": "~를 고대하다",
+"m": "~를 고대하다, 기대하다",
+"n": "뒤에 명사나 -ing 가 옴(look forward to meeting you). 이메일 맺음말로 아주 흔함",
 "e": "I look forward to meeting you in Seoul.",
 "k": "서울에서 뵙기를 기대합니다."
 },
@@ -1832,6 +1984,7 @@
 "h": "앳 유어 얼리스트 컨비니언스",
 "p": "phr.",
 "m": "편하실 때 가능한 빨리",
+"n": "ASAP 를 정중하게 표현한 격식체 이메일 표현",
 "e": "Please review it at your earliest convenience.",
 "k": "편하실 때 최대한 빨리 검토 부탁드립니다."
 },
@@ -1844,6 +1997,7 @@
 "h": "비즈니스 아워즈",
 "p": "n.",
 "m": "근무시간, 영업시간",
+"n": "회사·가게가 문을 여는 시간. office hours 라고도 함",
 "e": "Our office is closed outside business hours.",
 "k": "근무시간 외에는 사무실이 닫혀 있어요."
 },
@@ -1855,7 +2009,8 @@
 "ipa": "/ˈtɛntətɪv/",
 "h": "텐터티브",
 "p": "adj.",
-"m": "잠정적인",
+"m": "잠정적인, 임시의; 머뭇거리는",
+"n": "아직 확정되지 않은 일정·계획. tentative date(잠정 날짜)",
 "e": "Let's make it a tentative date for now.",
 "k": "일단 잠정 날짜로 정해 둡시다."
 },
@@ -1867,7 +2022,8 @@
 "ipa": "/ˈkæləndər ɪnˈvaɪt/",
 "h": "캘린더 인바이트",
 "p": "n.",
-"m": "일정 초대",
+"m": "일정 초대, 회의 초대장",
+"n": "아웃룩·구글 캘린더로 보내는 회의 초대. send a calendar invite",
 "e": "I'll send you a calendar invite.",
 "k": "일정 초대를 보내드릴게요."
 },
@@ -1880,6 +2036,7 @@
 "h": "리플라이 올",
 "p": "v.",
 "m": "전체 회신하다",
+"n": "받은 사람 모두에게 답장하다. 불필요하게 쓰면 실례가 되니 주의",
 "e": "Please don't reply all to this email.",
 "k": "이 메일에 전체 회신은 하지 말아 주세요."
 },
@@ -1892,6 +2049,7 @@
 "h": "어팔러자이즈 포",
 "p": "phr.",
 "m": "~에 대해 사과하다",
+"n": "I apologize for the delay(지연에 대해 사과드립니다). sorry 보다 격식 있는 표현",
 "e": "I apologize for the late reply.",
 "k": "회신이 늦어 죄송합니다."
 },
@@ -1904,6 +2062,7 @@
 "h": "비즈니스 트립",
 "p": "n.",
 "m": "출장",
+"n": "업무로 다른 도시·나라에 가는 것. go on a business trip(출장 가다). be away on business(출장 중이다)",
 "e": "I'm going on a business trip to Singapore next week.",
 "k": "다음 주에 싱가포르로 출장 가요."
 },
@@ -1916,6 +2075,7 @@
 "h": "비즈니스 카드",
 "p": "n.",
 "m": "명함",
+"n": "직함·연락처가 적힌 카드. exchange business cards(명함을 교환하다)",
 "e": "Here's my business card.",
 "k": "제 명함입니다."
 },
@@ -1927,7 +2087,8 @@
 "ipa": "/ˌɪntrəˈdus/",
 "h": "인트러듀스",
 "p": "v.",
-"m": "소개하다",
+"m": "소개하다; 도입하다",
+"n": "사람을 소개하거나 새 제도·제품을 도입하다. 명사 introduction",
 "e": "Let me introduce myself.",
 "k": "제 소개를 하겠습니다."
 },
@@ -1939,7 +2100,8 @@
 "ipa": "/ˈkɑlig/",
 "h": "칼리그",
 "p": "n.",
-"m": "동료",
+"m": "(직장) 동료",
+"n": "같은 회사·업계에서 일하는 사람. coworker 와 비슷하지만 더 격식 있음",
 "e": "This is my colleague, Ms. Park.",
 "k": "이쪽은 제 동료 박 선생님입니다."
 },
@@ -1951,7 +2113,8 @@
 "ipa": "/ˈkaʊntərˌpɑrt/",
 "h": "카운터파트",
 "p": "n.",
-"m": "(상대 회사의) 업무 상대",
+"m": "(상대 회사의) 같은 직위자, 업무 상대; 대응 관계인 것",
+"n": "상대 조직에서 나와 같은 역할을 하는 사람. 협상·미팅에서 자주 씀",
 "e": "I'll be meeting my counterpart in the Tokyo office.",
 "k": "도쿄 지사의 제 업무 상대를 만날 예정이에요."
 },
@@ -1963,7 +2126,8 @@
 "ipa": "/ɪn tʃɑrdʒ əv/",
 "h": "인 차지 오브",
 "p": "phr.",
-"m": "~을 담당하는",
+"m": "~을 담당하는, 책임지는",
+"n": "I'm in charge of overseas sales(해외 영업 담당입니다). 자기소개 때 유용",
 "e": "I'm in charge of overseas sales.",
 "k": "저는 해외 영업을 담당하고 있어요."
 },
@@ -1976,6 +2140,7 @@
 "h": "베이스트 인",
 "p": "phr.",
 "m": "~에 본사(근거지)를 둔",
+"n": "Our company is based in Seoul. 사람의 근무 지역을 말할 때도 씀",
 "e": "Our company is based in Seoul.",
 "k": "저희 회사는 서울에 본사가 있어요."
 },
@@ -1987,7 +2152,8 @@
 "ipa": "/ˈhɛdˌkwɔrtərz/",
 "h": "헤드쿼터즈",
 "p": "n.",
-"m": "본사",
+"m": "본사, 본부",
+"n": "회사의 중심 사무실. 줄여서 HQ. 단수·복수 동사 모두 씀",
 "e": "Our headquarters is in Busan.",
 "k": "저희 본사는 부산에 있어요."
 },
@@ -1999,7 +2165,8 @@
 "ipa": "/bræntʃ/",
 "h": "브랜치",
 "p": "n.",
-"m": "지사, 지점",
+"m": "지사, 지점; 나뭇가지; 분야",
+"n": "본사 밖의 사무실·지점. branch office, local branch",
 "e": "We have branches in ten countries.",
 "k": "저희는 10개국에 지사가 있어요."
 },
@@ -2012,6 +2179,7 @@
 "h": "인더스트리",
 "p": "n.",
 "m": "업계, 산업",
+"n": "같은 종류의 사업 분야(the auto industry 자동차 업계). 형용사 industrial",
 "e": "How long have you been in this industry?",
 "k": "이 업계에서 얼마나 일하셨어요?"
 },
@@ -2023,7 +2191,8 @@
 "ipa": "/ˈsaɪtˌsiɪŋ/",
 "h": "사이트시잉",
 "p": "n.",
-"m": "관광",
+"m": "관광, 구경",
+"n": "명소를 둘러보는 것. go sightseeing(관광하다)",
 "e": "Do you have time for some sightseeing?",
 "k": "관광할 시간은 좀 있으세요?"
 },
@@ -2035,7 +2204,8 @@
 "ipa": "/ˈloʊkəl/",
 "h": "로컬",
 "p": "adj.",
-"m": "현지의",
+"m": "현지의, 지역의; 현지인",
+"n": "그 지역의. local time(현지 시각), local food(현지 음식). 명사로 the locals(현지인들)",
 "e": "Can you recommend any good local restaurants?",
 "k": "괜찮은 현지 식당을 추천해 주시겠어요?"
 },
@@ -2048,6 +2218,7 @@
 "h": "킵 인 터치",
 "p": "phr.",
 "m": "연락하고 지내다",
+"n": "헤어질 때 하는 인사. stay in touch 와 같음",
 "e": "Let's keep in touch.",
 "k": "계속 연락하고 지내요."
 },
@@ -2059,7 +2230,8 @@
 "ipa": "/kəˈnɛkt/",
 "h": "커넥트",
 "p": "v.",
-"m": "(인맥으로) 연결되다",
+"m": "(인맥으로) 연결되다; 연결하다; 환승하다",
+"n": "SNS·비즈니스에서 관계를 맺다. connecting flight(환승편)",
 "e": "Let's connect on LinkedIn.",
 "k": "링크드인에서 연결해요."
 },
@@ -2071,7 +2243,8 @@
 "ipa": "/ˈplɛʒər/",
 "h": "플레저",
 "p": "n.",
-"m": "기쁨",
+"m": "기쁨, 즐거움",
+"n": "It's a pleasure to meet you(만나서 반갑습니다). 감사 인사에 My pleasure(천만에요)라고 답함",
 "e": "It's a pleasure to meet you.",
 "k": "만나서 반갑습니다."
 },
@@ -2083,7 +2256,8 @@
 "ipa": "/kætʃ ʌp/",
 "h": "캐치 업",
 "p": "v.",
-"m": "근황을 나누다",
+"m": "근황을 나누다; 따라잡다",
+"n": "오랜만에 만나 소식을 나누다(catch up with~). 밀린 일을 따라잡다라는 뜻도 있음",
 "e": "It was great to catch up with you.",
 "k": "근황 이야기 나눠서 즐거웠어요."
 },
@@ -2095,7 +2269,8 @@
 "ipa": "/ˈnɛtˌwɜrkɪŋ/",
 "h": "네트워킹",
 "p": "n.",
-"m": "인맥 쌓기",
+"m": "인맥 쌓기, 네트워킹",
+"n": "업무상 사람들과 관계를 만드는 것. networking event(교류 행사)",
 "e": "The conference is a great networking opportunity.",
 "k": "이 컨퍼런스는 인맥을 쌓기 좋은 기회예요."
 },
@@ -2107,7 +2282,8 @@
 "ipa": "/ˈbækˌgraʊnd/",
 "h": "백그라운드",
 "p": "n.",
-"m": "경력, 배경",
+"m": "경력, 배경; 바탕",
+"n": "학력·경력 같은 사람의 배경. 사진·화면의 배경이라는 뜻도 있음",
 "e": "Could you tell me a bit about your background?",
 "k": "경력에 대해 조금 말씀해 주시겠어요?"
 },
@@ -2119,7 +2295,8 @@
 "ipa": "/ˌhɑspəˈtæləti/",
 "h": "하스피탤러티",
 "p": "n.",
-"m": "환대",
+"m": "환대, 접대; 숙박·외식업",
+"n": "손님을 따뜻하게 맞는 것. Thank you for your hospitality(환대에 감사드립니다). hospitality industry(호텔·외식업)",
 "e": "Thank you for your hospitality.",
 "k": "환대해 주셔서 감사합니다."
 },
@@ -2132,6 +2309,7 @@
 "h": "그랩 어 커피",
 "p": "phr.",
 "m": "커피 한잔하다",
+"n": "가볍게 커피 마시자고 할 때 쓰는 구어 표현. grab lunch(가볍게 점심 먹다)",
 "e": "Would you like to grab a coffee after the session?",
 "k": "세션 끝나고 커피 한잔하실래요?"
 },
@@ -2143,7 +2321,8 @@
 "ipa": "/baɪ ðə weɪ/",
 "h": "바이 더 웨이",
 "p": "phr.",
-"m": "그런데 (화제 전환)",
+"m": "그런데, 그건 그렇고",
+"n": "화제를 바꿀 때 쓰는 말. 채팅에서는 BTW 로 줄여 씀",
 "e": "By the way, how was your flight?",
 "k": "그런데 비행은 어떠셨어요?"
 },
@@ -2155,7 +2334,8 @@
 "ipa": "/əˈpriʃiˌeɪt/",
 "h": "어프리시에이트",
 "p": "v.",
-"m": "감사하다",
+"m": "감사하다; 진가를 알다; 이해하다",
+"n": "I appreciate your help. thank 보다 격식 있음. I'd appreciate it if~(~해 주시면 감사하겠습니다)",
 "e": "I really appreciate your help.",
 "k": "도와주셔서 정말 감사합니다."
 },
@@ -2168,6 +2348,7 @@
 "h": "수버니어",
 "p": "n.",
 "m": "기념품",
+"n": "여행지에서 사 오는 물건. 비슷한 말: gift, memento",
 "e": "I want to buy some souvenirs for my team.",
 "k": "팀원들에게 줄 기념품을 좀 사고 싶어요."
 },
@@ -2179,7 +2360,8 @@
 "ipa": "/ɪkˈspɛns/",
 "h": "익스펜스",
 "p": "n.",
-"m": "비용, 경비",
+"m": "비용, 경비, 지출",
+"n": "업무에 쓴 돈. travel expenses(출장비), at one's expense(~의 비용으로)",
 "e": "Keep all receipts for your travel expenses.",
 "k": "출장 경비 영수증은 모두 보관하세요."
 },
@@ -2191,7 +2373,8 @@
 "ipa": "/ɪkˈspɛns rɪˈpɔrt/",
 "h": "익스펜스 리포트",
 "p": "n.",
-"m": "경비 보고서",
+"m": "경비 보고서, 경비 정산서",
+"n": "출장 후 쓴 비용을 영수증과 함께 제출하는 문서. submit an expense report",
 "e": "I need to submit my expense report by Friday.",
 "k": "금요일까지 경비 보고서를 제출해야 해요."
 },
@@ -2203,7 +2386,8 @@
 "ipa": "/ˌriɪmˈbɜrs/",
 "h": "리임버스",
 "p": "v.",
-"m": "(비용을) 환급하다",
+"m": "(비용을) 환급하다, 상환하다",
+"n": "개인이 먼저 낸 업무 비용을 회사가 돌려주는 것. 명사 reimbursement",
 "e": "The company will reimburse your taxi fares.",
 "k": "회사에서 택시비를 환급해 줄 거예요."
 },
@@ -2215,7 +2399,8 @@
 "ipa": "/pər ˈdiəm/",
 "h": "퍼 디엄",
 "p": "n.",
-"m": "일일 출장비",
+"m": "일일 출장비, 일당",
+"n": "출장 중 하루에 지급되는 식비·잡비 정액. 라틴어로 '하루당'이라는 뜻",
 "e": "Our per diem is 80 dollars a day.",
 "k": "일일 출장비는 하루 80달러예요."
 },
@@ -2228,6 +2413,7 @@
 "h": "익스체인지 레이트",
 "p": "n.",
 "m": "환율",
+"n": "두 통화 사이의 교환 비율. a favorable exchange rate(유리한 환율)",
 "e": "What's today's exchange rate?",
 "k": "오늘 환율이 어떻게 되나요?"
 },
@@ -2240,6 +2426,7 @@
 "h": "커런시",
 "p": "n.",
 "m": "통화, 화폐",
+"n": "나라별 돈의 단위. local currency(현지 통화), foreign currency(외화)",
 "e": "Can I pay in local currency?",
 "k": "현지 통화로 결제할 수 있나요?"
 },
@@ -2251,7 +2438,8 @@
 "ipa": "/ɪksˈtʃeɪndʒ/",
 "h": "익스체인지",
 "p": "v.",
-"m": "환전하다",
+"m": "환전하다; 교환(하다)",
+"n": "exchange money(환전하다), exchange business cards(명함을 교환하다). 교환·반품 때도 씀",
 "e": "Where can I exchange money?",
 "k": "어디서 환전할 수 있나요?"
 },
@@ -2263,7 +2451,8 @@
 "ipa": "/kəˈmɪʃən/",
 "h": "커미션",
 "p": "n.",
-"m": "수수료",
+"m": "수수료; 위원회; 의뢰하다",
+"n": "환전·중개 수수료. sales commission(판매 수당)",
 "e": "Is there a commission for exchanging money?",
 "k": "환전 수수료가 있나요?"
 },
@@ -2275,7 +2464,8 @@
 "ipa": "/ˌeɪtiˈɛm/",
 "h": "에이티엠",
 "p": "n.",
-"m": "현금 인출기",
+"m": "현금 인출기 (automated teller machine)",
+"n": "은행 현금 자동 인출기. 영국에서는 cash machine, cashpoint 라고도 함",
 "e": "Is there an ATM nearby?",
 "k": "근처에 현금 인출기가 있나요?"
 },
@@ -2287,7 +2477,8 @@
 "ipa": "/wɪðˈdrɔ/",
 "h": "위드드로",
 "p": "v.",
-"m": "(돈을) 인출하다",
+"m": "(돈을) 인출하다; 철회하다, 물러나다",
+"n": "withdraw cash(현금을 찾다). withdraw an offer(제안을 철회하다)",
 "e": "I need to withdraw some cash.",
 "k": "현금을 좀 인출해야 해요."
 },
@@ -2299,7 +2490,8 @@
 "ipa": "/tʃɑrdʒ/",
 "h": "차지",
 "p": "v.",
-"m": "(요금을) 청구하다",
+"m": "(요금을) 청구하다; 요금; 충전하다; 책임",
+"n": "charge to my room(방으로 달아 주세요), free of charge(무료). 배터리 충전도 charge",
 "e": "You charged me twice for this.",
 "k": "이거 두 번 청구되었어요."
 },
@@ -2311,7 +2503,8 @@
 "ipa": "/ˈriˌfʌnd/",
 "h": "리펀드",
 "p": "n.",
-"m": "환불",
+"m": "환불; 환불하다",
+"n": "낸 돈을 돌려받는 것. get a refund(환불받다), full refund(전액 환불)",
 "e": "Can I get a refund for this ticket?",
 "k": "이 티켓 환불받을 수 있나요?"
 },
@@ -2324,6 +2517,7 @@
 "h": "인클루드 택스",
 "p": "phr.",
 "m": "세금을 포함하다",
+"n": "Does it include tax?(세금 포함인가요?) 세금 별도는 plus tax / tax not included",
 "e": "Does the price include tax?",
 "k": "가격에 세금이 포함되어 있나요?"
 },
@@ -2336,6 +2530,7 @@
 "h": "브이에이티 리펀드",
 "p": "n.",
 "m": "부가세 환급",
+"n": "외국인 여행자가 산 물건의 부가가치세를 돌려받는 제도. tax refund, tax-free 라고도 함",
 "e": "Can I get a VAT refund at the airport?",
 "k": "공항에서 부가세 환급을 받을 수 있나요?"
 },
@@ -2348,6 +2543,7 @@
 "h": "코퍼릿 카드",
 "p": "n.",
 "m": "법인카드",
+"n": "회사 명의 카드. company card 라고도 함. 개인카드는 personal card",
 "e": "I'll pay with my corporate card.",
 "k": "법인카드로 결제할게요."
 },
@@ -2359,7 +2555,8 @@
 "ipa": "/ˈaɪtəˌmaɪzd/",
 "h": "아이터마이즈드",
 "p": "adj.",
-"m": "항목별로 나눈",
+"m": "항목별로 나눈, 명세가 적힌",
+"n": "itemized receipt(품목별 영수증)는 경비 정산 때 요구되는 경우가 많음",
 "e": "Could I get an itemized receipt?",
 "k": "항목별 영수증을 받을 수 있을까요?"
 },
@@ -2371,7 +2568,8 @@
 "ipa": "/dɪˈklaɪnd/",
 "h": "디클라인드",
 "p": "adj.",
-"m": "(카드 결제가) 거절된",
+"m": "(카드 결제가) 거절된; 감소한",
+"n": "My card was declined(카드가 거절됐어요). 동사 decline 은 '거절하다; 줄어들다'",
 "e": "My card was declined.",
 "k": "제 카드 결제가 거절됐어요."
 },
@@ -2384,6 +2582,7 @@
 "h": "칸택틀리스 페이먼트",
 "p": "n.",
 "m": "비접촉 결제",
+"n": "카드·휴대폰을 단말기에 갖다 대서 결제하는 방식. tap to pay 라고도 함",
 "e": "Do you accept contactless payment?",
 "k": "비접촉 결제 되나요?"
 },
@@ -2395,7 +2594,8 @@
 "ipa": "/ˈsɜrvəs tʃɑrdʒ/",
 "h": "서비스 차지",
 "p": "n.",
-"m": "봉사료",
+"m": "봉사료, 서비스 요금",
+"n": "계산서에 자동으로 붙는 서비스 비용. 이게 붙었으면 팁을 따로 안 내도 되는 경우가 많음",
 "e": "A 10 percent service charge has been added.",
 "k": "10% 봉사료가 추가되었습니다."
 },
@@ -2407,7 +2607,8 @@
 "ipa": "/ˌoʊvərˈtʃɑrdʒ/",
 "h": "오버차지",
 "p": "v.",
-"m": "과다 청구하다",
+"m": "과다 청구하다, 바가지를 씌우다",
+"n": "원래보다 많은 금액을 받다. 반대: undercharge",
 "e": "I think I was overcharged.",
 "k": "요금이 과다 청구된 것 같아요."
 },
@@ -2419,7 +2620,8 @@
 "ipa": "/əˈlaʊəns/",
 "h": "얼라우언스",
 "p": "n.",
-"m": "수당, 한도",
+"m": "수당, 한도; 허용량",
+"n": "daily allowance(일일 수당), baggage allowance(수하물 허용량)",
 "e": "Is there a daily meal allowance?",
 "k": "일일 식비 한도가 있나요?"
 },
@@ -2431,7 +2633,8 @@
 "ipa": "/əˈpruvəl/",
 "h": "어프루벌",
 "p": "n.",
-"m": "승인",
+"m": "승인, 허가; 찬성",
+"n": "상사나 회사의 결재. get approval(승인받다). 동사 approve",
 "e": "I need my manager's approval for this expense.",
 "k": "이 비용은 매니저 승인이 필요해요."
 },
@@ -2444,6 +2647,7 @@
 "h": "로스트 앤 파운드",
 "p": "n.",
 "m": "분실물 보관소",
+"n": "잃어버린 물건을 맡아 두는 곳. 영국식은 lost property",
 "e": "Where is the lost and found?",
 "k": "분실물 보관소가 어디인가요?"
 },
@@ -2455,7 +2659,8 @@
 "ipa": "/ˈmɪsɪŋ/",
 "h": "미싱",
 "p": "adj.",
-"m": "없어진, 분실된",
+"m": "없어진, 분실된; 실종된",
+"n": "있어야 할 것이 없을 때. My bag is missing(가방이 없어졌어요)",
 "e": "My suitcase is missing.",
 "k": "제 여행가방이 없어졌어요."
 },
@@ -2467,7 +2672,8 @@
 "ipa": "/ˈdæmədʒd/",
 "h": "대미지드",
 "p": "adj.",
-"m": "파손된",
+"m": "파손된, 손상된",
+"n": "물건이 망가지거나 상한 상태. damaged luggage(파손된 짐)",
 "e": "My luggage arrived damaged.",
 "k": "제 짐이 파손된 채로 도착했어요."
 },
@@ -2479,7 +2685,8 @@
 "ipa": "/faɪl ə kleɪm/",
 "h": "파일 어 클레임",
 "p": "phr.",
-"m": "보상을 신청하다",
+"m": "(보상을) 신청하다, 청구하다",
+"n": "보험·항공사·택배사에 손해 보상을 공식 요청하다. claim 만 써도 됨",
 "e": "I'd like to file a claim for my lost bag.",
 "k": "분실 가방에 대해 보상 신청을 하고 싶어요."
 },
@@ -2492,6 +2699,7 @@
 "h": "캔슬드",
 "p": "adj.",
 "m": "취소된",
+"n": "예정된 일이 없어진. 영국식 철자 cancelled. 명사 cancellation",
 "e": "My flight was canceled due to the storm.",
 "k": "폭풍 때문에 비행편이 취소됐어요."
 },
@@ -2504,6 +2712,7 @@
 "h": "리북",
 "p": "v.",
 "m": "다시 예약하다",
+"n": "취소·변경 후 새로 예약하다. 비행편이 결항됐을 때 자주 씀",
 "e": "Can you rebook me on the next flight?",
 "k": "다음 비행편으로 다시 예약해 주실 수 있나요?"
 },
@@ -2516,6 +2725,7 @@
 "h": "엠버시",
 "p": "n.",
 "m": "대사관",
+"n": "외국 수도에 있는 자국 정부 기관. 다른 도시에 있는 것은 consulate(영사관)",
 "e": "I need to contact the Korean embassy.",
 "k": "한국 대사관에 연락해야 해요."
 },
@@ -2528,6 +2738,7 @@
 "h": "패스포트",
 "p": "n.",
 "m": "여권",
+"n": "해외에서 신분증 역할을 하는 문서. passport control(여권 심사)",
 "e": "I've lost my passport.",
 "k": "여권을 잃어버렸어요."
 },
@@ -2540,6 +2751,7 @@
 "h": "파머시",
 "p": "n.",
 "m": "약국",
+"n": "약을 파는 곳. 미국식 drugstore, 영국식 chemist's 라고도 함",
 "e": "Is there a pharmacy near the hotel?",
 "k": "호텔 근처에 약국이 있나요?"
 },
@@ -2551,7 +2763,8 @@
 "ipa": "/prəˈskrɪpʃən/",
 "h": "프리스크립션",
 "p": "n.",
-"m": "처방전",
+"m": "처방전; 처방약",
+"n": "의사가 써 준 약 처방. over-the-counter 는 처방전 없이 사는 약",
 "e": "Do I need a prescription for this?",
 "k": "이거 처방전이 필요한가요?"
 },
@@ -2563,7 +2776,8 @@
 "ipa": "/ˈsɪmptəm/",
 "h": "심텀",
 "p": "n.",
-"m": "증상",
+"m": "증상, 징후",
+"n": "병의 증상이나 어떤 문제의 징후. What are your symptoms?(증상이 어떠세요?)",
 "e": "What are your symptoms?",
 "k": "증상이 어떠세요?"
 },
@@ -2576,6 +2790,7 @@
 "h": "트래블 인슈어런스",
 "p": "n.",
 "m": "여행자 보험",
+"n": "여행 중 사고·질병·분실을 보장하는 보험. 출장 전에 가입 여부를 확인해 두면 좋음",
 "e": "Does my travel insurance cover this?",
 "k": "제 여행자 보험으로 이게 보장되나요?"
 },
@@ -2587,7 +2802,8 @@
 "ipa": "/ɪˈmɜrdʒənsi/",
 "h": "이머전시",
 "p": "n.",
-"m": "응급 상황",
+"m": "응급 상황, 비상사태",
+"n": "급하게 대처해야 하는 일. emergency exit(비상구), in case of emergency(비상시에)",
 "e": "It's an emergency. Please call an ambulance.",
 "k": "응급 상황이에요. 구급차를 불러주세요."
 },
@@ -2600,6 +2816,7 @@
 "h": "스톨런",
 "p": "adj.",
 "m": "도난당한",
+"n": "steal(훔치다)의 과거분사. My wallet was stolen(지갑을 도난당했어요)",
 "e": "I'd like to report a stolen wallet.",
 "k": "지갑 도난 신고를 하고 싶어요."
 },
@@ -2612,6 +2829,7 @@
 "h": "차저",
 "p": "n.",
 "m": "충전기",
+"n": "휴대폰·노트북 충전 장치. charging cable(충전 케이블)",
 "e": "I left my laptop charger at the hotel.",
 "k": "호텔에 노트북 충전기를 두고 왔어요."
 },
@@ -2623,7 +2841,8 @@
 "ipa": "/əˈdæptər/",
 "h": "어댑터",
 "p": "n.",
-"m": "(전원) 어댑터",
+"m": "(전원) 어댑터, 변환 플러그",
+"n": "나라마다 다른 콘센트에 맞추는 장치. power adapter, plug adapter",
 "e": "Do you have a power adapter I could borrow?",
 "k": "빌릴 수 있는 전원 어댑터가 있나요?"
 },
@@ -2635,7 +2854,8 @@
 "ipa": "/ˌɪnkənˈvinjəns/",
 "h": "인컨비니언스",
 "p": "n.",
-"m": "불편",
+"m": "불편, 불편함",
+"n": "Sorry for the inconvenience(불편을 드려 죄송합니다)는 사과할 때 아주 많이 씀",
 "e": "Sorry for the inconvenience.",
 "k": "불편을 드려 죄송합니다."
 },
@@ -2647,7 +2867,8 @@
 "ipa": "/ˌmɪsəndərˈstændɪŋ/",
 "h": "미스언더스탠딩",
 "p": "n.",
-"m": "오해",
+"m": "오해, 착오",
+"n": "잘못 이해한 것. There seems to be a misunderstanding(오해가 있는 것 같습니다)",
 "e": "I think there's been a misunderstanding.",
 "k": "오해가 있었던 것 같아요."
 },
@@ -2659,7 +2880,8 @@
 "ipa": "/kəmˈpleɪnt/",
 "h": "컴플레인트",
 "p": "n.",
-"m": "불만, 항의",
+"m": "불만, 항의, 민원; (몸의) 증상",
+"n": "make a complaint(항의하다). 동사 complain",
 "e": "I'd like to make a complaint about the service.",
 "k": "서비스에 대해 항의하고 싶어요."
 },
@@ -2671,7 +2893,8 @@
 "ipa": "/ˈɪʃu/",
 "h": "이슈",
 "p": "n.",
-"m": "문제",
+"m": "문제, 사안; 발급하다; (잡지) 호",
+"n": "문제를 problem 보다 부드럽게 말할 때 씀. issue a visa(비자를 발급하다)",
 "e": "We're having a technical issue with the projector.",
 "k": "프로젝터에 기술적인 문제가 있어요."
 },
@@ -2684,6 +2907,7 @@
 "h": "어시스턴스",
 "p": "n.",
 "m": "도움, 지원",
+"n": "help 의 격식 있는 말. Do you need any assistance?(도움이 필요하세요?)",
 "e": "Do you need any assistance?",
 "k": "도움이 필요하세요?"
 },
@@ -2695,7 +2919,8 @@
 "ipa": "/ɔlˈtɜrnətɪv/",
 "h": "올터너티브",
 "p": "n.",
-"m": "대안",
+"m": "대안; 대체 가능한",
+"n": "다른 선택지. an alternative route(다른 경로)",
 "e": "Is there an alternative route?",
 "k": "다른 대안 경로가 있나요?"
 },
@@ -2707,7 +2932,8 @@
 "ipa": "/ˌkɑmpənˈseɪʃən/",
 "h": "캄펜세이션",
 "p": "n.",
-"m": "보상",
+"m": "보상(금), 배상; 급여",
+"n": "피해에 대한 보상. 회사에서는 보수·급여(compensation package)라는 뜻도 있음",
 "e": "Will we receive any compensation for the delay?",
 "k": "지연에 대한 보상을 받을 수 있나요?"
 },
@@ -2720,6 +2946,7 @@
 "h": "보딩 타임",
 "p": "n.",
 "m": "탑승 시각",
+"n": "탑승이 시작되는 시간(보통 출발 30~40분 전). 출발 시각은 departure time",
 "e": "Boarding time is 30 minutes before departure.",
 "k": "탑승 시각은 출발 30분 전입니다."
 },
@@ -2732,6 +2959,7 @@
 "h": "체크인 카운터",
 "p": "n.",
 "m": "탑승 수속 카운터",
+"n": "공항에서 짐을 부치고 탑승권을 받는 곳. check-in desk 라고도 함",
 "e": "The check-in counter closes an hour before the flight.",
 "k": "탑승 수속 카운터는 비행 1시간 전에 마감돼요."
 },
@@ -2744,6 +2972,7 @@
 "h": "시큐리티 첵",
 "p": "n.",
 "m": "보안 검색",
+"n": "공항 보안 검색대 통과. go through security(보안 검색을 받다)",
 "e": "Please take out your laptop for the security check.",
 "k": "보안 검색을 위해 노트북을 꺼내 주세요."
 },
@@ -2756,6 +2985,7 @@
 "h": "리퀴즈",
 "p": "n.",
 "m": "액체류",
+"n": "기내 반입이 제한되는 음료·화장품 등. 보통 100ml 이하만 투명 봉투에 넣어 반입 가능",
 "e": "Liquids must be in containers of 100 ml or less.",
 "k": "액체류는 100ml 이하 용기에 담아야 합니다."
 },
@@ -2768,6 +2998,7 @@
 "h": "윈도우 씻",
 "p": "n.",
 "m": "창가 좌석",
+"n": "창문 옆 자리. 반대: aisle seat",
 "e": "I'd prefer a window seat if possible.",
 "k": "가능하면 창가 좌석이 좋겠어요."
 },
@@ -2780,6 +3011,7 @@
 "h": "레그룸",
 "p": "n.",
 "m": "다리 뻗는 공간",
+"n": "좌석 앞의 공간. extra legroom seat(다리 공간이 넓은 좌석)",
 "e": "Is there a seat with more legroom?",
 "k": "다리 공간이 더 넓은 좌석이 있나요?"
 },
@@ -2791,7 +3023,8 @@
 "ipa": "/ˈrɛd ˌaɪ flaɪt/",
 "h": "레드아이 플라이트",
 "p": "n.",
-"m": "야간 항공편",
+"m": "야간 항공편, 밤 비행기",
+"n": "밤에 출발해 이른 아침에 도착하는 비행기. 잠을 못 자 눈이 빨개진다는 데서 나온 말",
 "e": "I took a red-eye flight to make the morning meeting.",
 "k": "아침 회의에 맞추려고 밤 비행기를 탔어요."
 },
@@ -2803,7 +3036,8 @@
 "ipa": "/ˈtɜrbjələns/",
 "h": "터뷸런스",
 "p": "n.",
-"m": "난기류",
+"m": "난기류; 격동, 혼란",
+"n": "비행기가 흔들리는 공기 흐름. 경제·정치의 혼란에도 씀",
 "e": "We hit some turbulence over the Pacific.",
 "k": "태평양 상공에서 난기류를 좀 만났어요."
 },
@@ -2816,6 +3050,7 @@
 "h": "캐빈 크루",
 "p": "n.",
 "m": "객실 승무원",
+"n": "비행기 안에서 승객을 돌보는 승무원 전체. flight attendant 가 개인을 가리킬 때 씀",
 "e": "The cabin crew were very helpful.",
 "k": "객실 승무원들이 아주 친절했어요."
 },
@@ -2828,6 +3063,7 @@
 "h": "어라이벌 홀",
 "p": "n.",
 "m": "입국장, 도착 로비",
+"n": "비행기에서 내려 짐을 찾고 나오는 공간. arrivals 라고도 함",
 "e": "Our driver will be waiting in the arrival hall.",
 "k": "기사가 입국장에서 기다리고 있을 거예요."
 },
@@ -2839,7 +3075,8 @@
 "ipa": "/ˌdutiˈfri/",
 "h": "듀티프리",
 "p": "adj.",
-"m": "면세의",
+"m": "면세의; 면세점",
+"n": "세금이 붙지 않는. duty-free shop(면세점). duty 는 여기서 '관세'라는 뜻",
 "e": "I picked up some duty-free gifts for the client.",
 "k": "고객에게 줄 면세 선물을 좀 샀어요."
 },
@@ -2851,7 +3088,8 @@
 "ipa": "/ˈvizə/",
 "h": "비자",
 "p": "n.",
-"m": "비자",
+"m": "비자, 사증",
+"n": "입국 허가 서류. apply for a visa(비자를 신청하다), visa-free(무비자)",
 "e": "Do I need a visa for a business trip?",
 "k": "출장에 비자가 필요한가요?"
 },
@@ -2863,7 +3101,8 @@
 "ipa": "/ˈvælɪd/",
 "h": "밸리드",
 "p": "adj.",
-"m": "유효한",
+"m": "유효한; 타당한",
+"n": "기한이 지나지 않은(valid passport). a valid point(타당한 지적)",
 "e": "Your passport must be valid for six months.",
 "k": "여권은 6개월 이상 유효해야 합니다."
 },
@@ -2875,7 +3114,8 @@
 "ipa": "/ˈstɑpˌoʊvər/",
 "h": "스탑오버",
 "p": "n.",
-"m": "(경유지) 체류",
+"m": "(경유지) 체류, 도중 하차",
+"n": "경유지에 하루 이상 머무는 것. 짧게 기다리면 layover",
 "e": "We have a one-night stopover in Dubai.",
 "k": "두바이에서 하룻밤 경유 체류해요."
 },
@@ -2887,7 +3127,8 @@
 "ipa": "/ˈiˌtɪkɪt/",
 "h": "이티킷",
 "p": "n.",
-"m": "전자 항공권",
+"m": "전자 항공권, 전자 티켓",
+"n": "종이 대신 이메일·앱으로 받는 항공권",
 "e": "I'll forward you the e-ticket.",
 "k": "전자 항공권을 전달해 드릴게요."
 },
@@ -2899,7 +3140,8 @@
 "ipa": "/ˈweɪtˌlɪst/",
 "h": "웨잇리스트",
 "p": "n.",
-"m": "대기자 명단",
+"m": "대기자 명단(에 올리다)",
+"n": "좌석·객실이 날 때를 기다리는 명단. be on the waitlist(대기 중이다)",
 "e": "I'm on the waitlist for an earlier flight.",
 "k": "더 이른 비행편 대기자 명단에 올라 있어요."
 },
@@ -2912,6 +3154,7 @@
 "h": "오버북트",
 "p": "adj.",
 "m": "초과 예약된",
+"n": "좌석보다 예약을 더 많이 받은 상태. 이때 자원자에게 보상을 주고 다음 편으로 옮기기도 함",
 "e": "The flight is overbooked, so they're asking for volunteers.",
 "k": "비행편이 초과 예약돼서 자원자를 찾고 있어요."
 },
@@ -2923,7 +3166,8 @@
 "ipa": "/ˈfæsən/",
 "h": "패슨",
 "p": "v.",
-"m": "(벨트를) 매다",
+"m": "(벨트를) 매다, 고정하다",
+"n": "Fasten your seat belt(좌석 벨트를 매세요). t 는 묵음(패슨)",
 "e": "Please fasten your seat belt.",
 "k": "좌석 벨트를 매 주세요."
 },
@@ -2936,6 +3180,7 @@
 "h": "인플라이트",
 "p": "adj.",
 "m": "기내의",
+"n": "in-flight meal(기내식), in-flight entertainment(기내 엔터테인먼트)",
 "e": "The in-flight Wi-Fi was surprisingly fast.",
 "k": "기내 와이파이가 의외로 빨랐어요."
 },
@@ -2948,6 +3193,7 @@
 "h": "로컬 타임",
 "p": "n.",
 "m": "현지 시각",
+"n": "도착지 기준 시간. 기내 방송에서 자주 들음",
 "e": "We'll land at 6 p.m. local time.",
 "k": "현지 시각 오후 6시에 착륙합니다."
 },
@@ -2960,6 +3206,7 @@
 "h": "룸 레이트",
 "p": "n.",
 "m": "객실 요금",
+"n": "1박당 방 가격. rate 는 '요금, 비율'",
 "e": "Does the room rate include breakfast?",
 "k": "객실 요금에 조식이 포함되어 있나요?"
 },
@@ -2972,6 +3219,7 @@
 "h": "코퍼릿 레이트",
 "p": "n.",
 "m": "기업 할인 요금",
+"n": "회사 계약으로 받는 할인 숙박 요금. corporate discount",
 "e": "Do you offer a corporate rate?",
 "k": "기업 할인 요금이 있나요?"
 },
@@ -2983,7 +3231,8 @@
 "ipa": "/ˈfʊli bʊkt/",
 "h": "풀리 북트",
 "p": "adj.",
-"m": "예약이 꽉 찬",
+"m": "예약이 꽉 찬, 만실인",
+"n": "빈 방·빈 좌석이 없는 상태. sold out 과 비슷",
 "e": "The hotel is fully booked during the trade show.",
 "k": "박람회 기간에는 호텔이 꽉 찼어요."
 },
@@ -2996,6 +3245,7 @@
 "h": "싱글 룸",
 "p": "n.",
 "m": "1인실",
+"n": "한 사람용 객실. double(큰 침대 하나), twin(침대 두 개)과 구분",
 "e": "I booked a single room for three nights.",
 "k": "1인실을 3박 예약했어요."
 },
@@ -3008,6 +3258,7 @@
 "h": "스윗",
 "p": "n.",
 "m": "스위트룸",
+"n": "거실과 침실이 분리된 고급 객실. sweet 과 발음이 같음(스윗)",
 "e": "They upgraded me to a suite.",
 "k": "스위트룸으로 업그레이드해 줬어요."
 },
@@ -3019,7 +3270,8 @@
 "ipa": "/ˌkɑnsiˈɛrʒ/",
 "h": "칸시어지",
 "p": "n.",
-"m": "컨시어지 (안내 담당)",
+"m": "컨시어지, 안내 담당",
+"n": "호텔에서 식당 예약·관광 안내 등을 도와주는 직원",
 "e": "The concierge booked a table for us.",
 "k": "컨시어지가 식당 예약을 해줬어요."
 },
@@ -3032,6 +3284,7 @@
 "h": "런드리 서비스",
 "p": "n.",
 "m": "세탁 서비스",
+"n": "호텔에 옷 세탁을 맡기는 서비스. dry cleaning(드라이클리닝), same-day(당일)",
 "e": "Is there a same-day laundry service?",
 "k": "당일 세탁 서비스가 있나요?"
 },
@@ -3043,7 +3296,8 @@
 "ipa": "/ˈaɪərn/",
 "h": "아이언",
 "p": "n.",
-"m": "다리미",
+"m": "다리미; 다리미질하다; 철",
+"n": "셔츠 주름을 펴는 다리미. 발음은 '아이언'",
 "e": "Could you bring an iron to my room?",
 "k": "방으로 다리미 좀 가져다주시겠어요?"
 },
@@ -3056,6 +3310,7 @@
 "h": "미니바",
 "p": "n.",
 "m": "미니바",
+"n": "객실 냉장고의 유료 음료·간식. 체크아웃 때 사용분을 정산함",
 "e": "I didn't use anything from the minibar.",
 "k": "미니바에서 아무것도 안 먹었어요."
 },
@@ -3067,7 +3322,8 @@
 "ipa": "/seɪf/",
 "h": "세이프",
 "p": "n.",
-"m": "금고",
+"m": "금고; 안전한",
+"n": "객실의 개인 금고(room safe, in-room safe). 형용사로는 '안전한'",
 "e": "Please keep your passport in the room safe.",
 "k": "여권은 객실 금고에 보관하세요."
 },
@@ -3080,6 +3336,7 @@
 "h": "두 낫 디스터브",
 "p": "phr.",
 "m": "방해하지 마시오",
+"n": "객실 문에 거는 표시. Do Not Disturb sign. 휴대폰 '방해 금지 모드'도 같은 말",
 "e": "I put the Do Not Disturb sign on the door.",
 "k": "문에 방해 금지 표시를 걸어 두었어요."
 },
@@ -3092,6 +3349,7 @@
 "h": "비즈니스 센터",
 "p": "n.",
 "m": "비즈니스 센터",
+"n": "호텔의 업무 공간(프린터·PC·회의실 이용 가능)",
 "e": "Can I print documents at the business center?",
 "k": "비즈니스 센터에서 서류를 출력할 수 있나요?"
 },
@@ -3103,7 +3361,8 @@
 "ipa": "/ˈfɪtnəs ˈsɛntər/",
 "h": "피트니스 센터",
 "p": "n.",
-"m": "헬스장",
+"m": "헬스장, 피트니스 센터",
+"n": "운동 시설. gym 과 같은 뜻",
 "e": "What are the fitness center hours?",
 "k": "헬스장 운영 시간이 어떻게 되나요?"
 },
@@ -3115,7 +3374,8 @@
 "ipa": "/ˈbɛlˌhɑp/",
 "h": "벨합",
 "p": "n.",
-"m": "벨보이 (짐 운반 직원)",
+"m": "벨보이, 짐 운반 직원",
+"n": "호텔에서 짐을 방까지 옮겨 주는 직원. porter, bellboy 라고도 함",
 "e": "The bellhop took my bags up to the room.",
 "k": "벨보이가 짐을 방까지 옮겨 줬어요."
 },
@@ -3128,6 +3388,7 @@
 "h": "시티 뷰",
 "p": "n.",
 "m": "도시 전망",
+"n": "객실에서 도시 경치가 보이는 것. ocean view(바다 전망)",
 "e": "Could I have a room with a city view?",
 "k": "도시 전망 객실로 주실 수 있나요?"
 },
@@ -3139,7 +3400,8 @@
 "ipa": "/ˈhitɪŋ/",
 "h": "히팅",
 "p": "n.",
-"m": "난방",
+"m": "난방 (장치)",
+"n": "방을 데우는 장치. 반대 개념은 air conditioning(냉방)",
 "e": "The heating in my room isn't working.",
 "k": "방 난방이 안 돼요."
 },
@@ -3151,7 +3413,8 @@
 "ipa": "/lik/",
 "h": "릭",
 "p": "n.",
-"m": "(물이) 새는 곳",
+"m": "(물·가스가) 새는 곳; 새다; 누설(하다)",
+"n": "There's a leak(물이 새요). 정보 유출도 leak",
 "e": "There's a leak in the bathroom.",
 "k": "욕실에 물이 새요."
 },
@@ -3164,6 +3427,7 @@
 "h": "토일러트리즈",
 "p": "n.",
 "m": "세면용품",
+"n": "칫솔·샴푸·비누 등. 보통 복수형으로 씀",
 "e": "Could I get some more toiletries?",
 "k": "세면용품을 좀 더 받을 수 있을까요?"
 },
@@ -3176,6 +3440,7 @@
 "h": "캔슬레이션 팔러시",
 "p": "n.",
 "m": "취소 규정",
+"n": "언제까지 취소하면 무료인지, 수수료가 얼마인지 정한 규칙",
 "e": "What is your cancellation policy?",
 "k": "취소 규정이 어떻게 되나요?"
 },
@@ -3187,7 +3452,8 @@
 "ipa": "/ˈlɔɪəlti ˈproʊˌgræm/",
 "h": "로열티 프로그램",
 "p": "n.",
-"m": "(호텔·항공) 회원 프로그램",
+"m": "(호텔·항공) 회원 프로그램, 포인트 제도",
+"n": "자주 이용하면 혜택을 주는 제도. rewards program 이라고도 함",
 "e": "I'm a member of your loyalty program.",
 "k": "저는 이 호텔 회원 프로그램 회원이에요."
 },
@@ -3200,6 +3466,7 @@
 "h": "서브웨이",
 "p": "n.",
 "m": "지하철",
+"n": "미국식 표현. 영국은 underground/tube, 다른 나라는 metro 라고도 함",
 "e": "Is it faster to take the subway?",
 "k": "지하철 타는 게 더 빠른가요?"
 },
@@ -3212,6 +3479,7 @@
 "h": "택시 스탠드",
 "p": "n.",
 "m": "택시 승차장",
+"n": "택시가 줄 서서 기다리는 곳. 영국식 taxi rank",
 "e": "Where is the nearest taxi stand?",
 "k": "가장 가까운 택시 승차장이 어디인가요?"
 },
@@ -3223,7 +3491,8 @@
 "ipa": "/ˈmitər/",
 "h": "미터",
 "p": "n.",
-"m": "(택시) 미터기",
+"m": "(택시) 미터기; 미터(길이)",
+"n": "택시 요금 계산기. Please use the meter(미터기 켜 주세요)",
 "e": "Could you turn on the meter, please?",
 "k": "미터기 좀 켜 주시겠어요?"
 },
@@ -3235,7 +3504,8 @@
 "ipa": "/flæt reɪt/",
 "h": "플랫 레이트",
 "p": "n.",
-"m": "정액 요금",
+"m": "정액 요금, 고정 요금",
+"n": "거리·시간과 관계없이 정해진 금액. fixed rate 라고도 함",
 "e": "Is there a flat rate to the airport?",
 "k": "공항까지 정액 요금이 있나요?"
 },
@@ -3247,7 +3517,8 @@
 "ipa": "/ˈtaɪmˌteɪbəl/",
 "h": "타임테이블",
 "p": "n.",
-"m": "시간표",
+"m": "시간표, 운행표",
+"n": "기차·버스 시간표. 미국에서는 schedule 을 더 많이 씀",
 "e": "Can I see the train timetable?",
 "k": "기차 시간표를 볼 수 있을까요?"
 },
@@ -3260,6 +3531,7 @@
 "h": "익스프레스 트레인",
 "p": "n.",
 "m": "급행열차",
+"n": "정차역이 적어 빠른 열차. 일반 열차는 local train",
 "e": "The express train only takes 40 minutes.",
 "k": "급행열차는 40분밖에 안 걸려요."
 },
@@ -3272,6 +3544,7 @@
 "h": "데이 패스",
 "p": "n.",
 "m": "1일 이용권",
+"n": "하루 동안 대중교통을 무제한 이용하는 표",
 "e": "A day pass is cheaper if you ride a lot.",
 "k": "많이 탈 거면 1일 이용권이 더 싸요."
 },
@@ -3284,6 +3557,7 @@
 "h": "인터섹션",
 "p": "n.",
 "m": "교차로",
+"n": "길이 만나는 곳. crossroads 와 비슷",
 "e": "Turn left at the next intersection.",
 "k": "다음 교차로에서 좌회전하세요."
 },
@@ -3295,7 +3569,8 @@
 "ipa": "/blɑk/",
 "h": "블락",
 "p": "n.",
-"m": "블록, 구획",
+"m": "블록, 구획; 막다",
+"n": "길과 길 사이의 한 구역. two blocks away(두 블록 떨어진). 동사로는 '막다'",
 "e": "The office is two blocks from here.",
 "k": "사무실은 여기서 두 블록 거리예요."
 },
@@ -3308,6 +3583,7 @@
 "h": "어크로스 프럼",
 "p": "prep.",
 "m": "~의 맞은편에",
+"n": "길 건너편. opposite 와 같은 뜻",
 "e": "The hotel is across from the station.",
 "k": "호텔은 역 맞은편에 있어요."
 },
@@ -3320,6 +3596,7 @@
 "h": "파킹 랏",
 "p": "n.",
 "m": "주차장",
+"n": "미국식. 영국식은 car park. 건물형 주차장은 parking garage",
 "e": "Is there a parking lot near the office?",
 "k": "사무실 근처에 주차장이 있나요?"
 },
@@ -3332,6 +3609,7 @@
 "h": "개스 스테이션",
 "p": "n.",
 "m": "주유소",
+"n": "미국식. 영국식은 petrol station. gas 는 여기서 '휘발유'",
 "e": "We need to stop at a gas station.",
 "k": "주유소에 들러야 해요."
 },
@@ -3343,7 +3621,8 @@
 "ipa": "/ˌnævəˈgeɪʃən/",
 "h": "내비게이션",
 "p": "n.",
-"m": "길 찾기, 내비게이션",
+"m": "길 찾기, 내비게이션; 항해",
+"n": "길 안내 기능·앱. 웹사이트의 메뉴 구조도 navigation 이라 함",
 "e": "The navigation app shows heavy traffic.",
 "k": "길 찾기 앱에 교통 체증이 심하다고 나와요."
 },
@@ -3355,7 +3634,8 @@
 "ipa": "/ˈdiˌtʊr/",
 "h": "디투어",
 "p": "n.",
-"m": "우회로",
+"m": "우회로, 돌아가는 길",
+"n": "공사·사고로 돌아서 가는 길. take a detour(우회하다)",
 "e": "We had to take a detour because of construction.",
 "k": "공사 때문에 우회해야 했어요."
 },
@@ -3367,7 +3647,8 @@
 "ipa": "/gɛt ɔf/",
 "h": "겟 오프",
 "p": "v.",
-"m": "(차에서) 내리다",
+"m": "(차에서) 내리다; 퇴근하다",
+"n": "버스·기차에서 내리다. 승용차에서 내릴 때는 get out of. get off work(퇴근하다)",
 "e": "Which stop should I get off at?",
 "k": "어느 정류장에서 내려야 하나요?"
 },
@@ -3379,7 +3660,8 @@
 "ipa": "/gɛt ɑn/",
 "h": "겟 온",
 "p": "v.",
-"m": "(차에) 타다",
+"m": "(차에) 타다; 잘 지내다",
+"n": "버스·기차·비행기에 타다. 승용차는 get in. get on well with~(~와 잘 지내다)",
 "e": "Get on the blue line toward the airport.",
 "k": "공항 방향 파란색 노선을 타세요."
 },
@@ -3391,7 +3673,8 @@
 "ipa": "/ˈɛgzɪt/",
 "h": "엑싯",
 "p": "n.",
-"m": "출구",
+"m": "출구; 나가다",
+"n": "나가는 곳. 비상구는 emergency exit, 지하철 출구는 exit 3 처럼 번호로 말함",
 "e": "Take exit 3 and walk straight.",
 "k": "3번 출구로 나가서 직진하세요."
 },
@@ -3403,7 +3686,8 @@
 "ipa": "/ˈkɑrˌpul/",
 "h": "카풀",
 "p": "v.",
-"m": "차를 같이 타다",
+"m": "카풀하다, 차를 같이 타다",
+"n": "여러 사람이 한 차로 함께 이동하는 것",
 "e": "Why don't we carpool to the venue?",
 "k": "행사장까지 차를 같이 타고 갈까요?"
 },
@@ -3415,7 +3699,8 @@
 "ipa": "/ˈvɛnju/",
 "h": "베뉴",
 "p": "n.",
-"m": "(행사) 장소",
+"m": "(행사) 장소, 개최지",
+"n": "회의·행사·공연이 열리는 장소",
 "e": "The venue is about 20 minutes from the hotel.",
 "k": "행사장은 호텔에서 20분 정도 거리예요."
 },
@@ -3427,7 +3712,8 @@
 "ipa": "/ɑn taɪm/",
 "h": "온 타임",
 "p": "phr.",
-"m": "제시간에",
+"m": "제시간에, 정각에",
+"n": "늦지 않게. in time 은 '늦지 않게 (여유 있게)'라는 뜻으로 조금 다름",
 "e": "Don't worry, we'll get there on time.",
 "k": "걱정 마세요, 제시간에 도착할 거예요."
 },
@@ -3440,6 +3726,7 @@
 "h": "셋 메뉴",
 "p": "n.",
 "m": "코스 요리, 세트 메뉴",
+"n": "여러 요리를 정해진 가격에 묶은 메뉴. prix fixe, course menu 라고도 함. 단품 주문은 à la carte",
 "e": "We'll go with the set menu for the group.",
 "k": "단체로 세트 메뉴로 할게요."
 },
@@ -3451,7 +3738,8 @@
 "ipa": "/ˈpɔrʃən/",
 "h": "포션",
 "p": "n.",
-"m": "(음식의) 양, 1인분",
+"m": "(음식의) 양, 1인분; 부분, 몫",
+"n": "한 사람 몫의 음식량. large portions(양이 많은). 일반적으로는 '일부분'",
 "e": "The portions here are quite large.",
 "k": "여기는 양이 꽤 많아요."
 },
@@ -3463,7 +3751,8 @@
 "ipa": "/ˈspaɪsi/",
 "h": "스파이시",
 "p": "adj.",
-"m": "매운",
+"m": "매운; 양념이 강한",
+"n": "고추처럼 매운 맛. hot 이라고도 하지만 hot 은 '뜨거운'과 헷갈릴 수 있음. mild(순한)",
 "e": "Is this dish very spicy?",
 "k": "이 요리 많이 맵나요?"
 },
@@ -3475,7 +3764,8 @@
 "ipa": "/dɪˈzɜrt/",
 "h": "디저트",
 "p": "n.",
-"m": "디저트",
+"m": "디저트, 후식",
+"n": "식사 후 먹는 단 음식. desert(사막)와 철자·발음 주의(디저트 ↔ 데저트)",
 "e": "Would anyone like dessert?",
 "k": "디저트 드실 분 계세요?"
 },
@@ -3487,7 +3777,8 @@
 "ipa": "/waɪn lɪst/",
 "h": "와인 리스트",
 "p": "n.",
-"m": "와인 목록",
+"m": "와인 목록, 와인 메뉴",
+"n": "식당의 와인 리스트. 식사 메뉴와 따로 주는 경우가 많음",
 "e": "Could we see the wine list?",
 "k": "와인 목록을 볼 수 있을까요?"
 },
@@ -3499,7 +3790,8 @@
 "ipa": "/pɛr/",
 "h": "페어",
 "p": "v.",
-"m": "(음식과 술이) 어울리다",
+"m": "(음식과 술이) 어울리다; 한 쌍, 짝",
+"n": "pair well with~(~와 잘 어울리다). wine pairing(와인 페어링). a pair of shoes(신발 한 켤레)",
 "e": "Which wine pairs well with this?",
 "k": "이 요리에는 어떤 와인이 잘 어울리나요?"
 },
@@ -3511,7 +3803,8 @@
 "ipa": "/tʃɪrz/",
 "h": "치어스",
 "p": "interj.",
-"m": "건배",
+"m": "건배; (영국) 고마워, 안녕",
+"n": "잔을 들며 하는 말. 영국에서는 '고마워요', '잘 가요'라는 가벼운 인사로도 씀",
 "e": "Cheers! To a successful project.",
 "k": "건배! 성공적인 프로젝트를 위해."
 },
@@ -3524,6 +3817,7 @@
 "h": "버페이",
 "p": "n.",
 "m": "뷔페",
+"n": "여러 음식을 차려 두고 직접 가져다 먹는 식사. 발음은 '버페이'(t 묵음)",
 "e": "The breakfast buffet opens at 6:30.",
 "k": "조식 뷔페는 6시 30분에 열어요."
 },
@@ -3536,6 +3830,7 @@
 "h": "레프트오버즈",
 "p": "n.",
 "m": "남은 음식",
+"n": "먹고 남은 음식. 포장해 갈 때 쓰는 용기는 doggy bag/to-go box",
 "e": "Could we take the leftovers home?",
 "k": "남은 음식 포장해 갈 수 있을까요?"
 },
@@ -3548,6 +3843,7 @@
 "h": "찹스틱스",
 "p": "n.",
 "m": "젓가락",
+"n": "항상 복수형. a pair of chopsticks(젓가락 한 벌)",
 "e": "Would you like a fork instead of chopsticks?",
 "k": "젓가락 대신 포크 드릴까요?"
 },
@@ -3559,7 +3855,8 @@
 "ipa": "/ɪnˈgridiənt/",
 "h": "인그리디언트",
 "p": "n.",
-"m": "재료",
+"m": "재료, 성분; 요소",
+"n": "요리에 들어가는 재료. 성공의 요소(ingredient of success)라는 뜻도 있음",
 "e": "What are the main ingredients?",
 "k": "주 재료가 뭔가요?"
 },
@@ -3572,6 +3869,7 @@
 "h": "글루튼프리",
 "p": "adj.",
 "m": "글루텐이 없는",
+"n": "밀가루의 글루텐 성분을 뺀 음식. 알레르기·식이 제한 손님을 위해 메뉴에 표시됨",
 "e": "Do you have any gluten-free dishes?",
 "k": "글루텐 없는 요리가 있나요?"
 },
@@ -3584,6 +3882,7 @@
 "h": "난알코홀릭",
 "p": "adj.",
 "m": "무알코올의",
+"n": "술이 들어가지 않은 음료. alcohol-free 와 비슷. 접대 자리에서 술을 못 마실 때 유용",
 "e": "I'll have something non-alcoholic, please.",
 "k": "저는 무알코올 음료로 할게요."
 },
@@ -3596,6 +3895,7 @@
 "h": "아임 풀",
 "p": "phr.",
 "m": "배불러요",
+"n": "음식을 더 권할 때 정중하게 사양하는 말. I'm stuffed(엄청 배불러요)도 자주 씀",
 "e": "Thank you, but I'm full.",
 "k": "감사합니다만 배가 불러요."
 },
@@ -3608,6 +3908,7 @@
 "h": "딜리셔스",
 "p": "adj.",
 "m": "맛있는",
+"n": "아주 맛있다는 칭찬. tasty, good 보다 강한 느낌. 반대: bland(싱거운), awful",
 "e": "Everything was delicious.",
 "k": "모든 게 다 맛있었어요."
 },
@@ -3619,7 +3920,8 @@
 "ipa": "/traɪ/",
 "h": "트라이",
 "p": "v.",
-"m": "맛보다, 먹어 보다",
+"m": "맛보다, 먹어 보다; 시도하다, 노력하다",
+"n": "You should try~(~꼭 드셔 보세요). 옷은 try on(입어 보다)",
 "e": "You should try the local seafood.",
 "k": "현지 해산물을 꼭 드셔 보세요."
 },
@@ -3631,7 +3933,8 @@
 "ipa": "/ˈbɪznəs lʌntʃ/",
 "h": "비즈니스 런치",
 "p": "n.",
-"m": "업무상 점심",
+"m": "업무상 점심, 비즈니스 런치",
+"n": "점심을 먹으며 업무를 논의하는 자리. working lunch 라고도 함",
 "e": "Let's discuss the details over a business lunch.",
 "k": "업무 점심 하면서 자세한 얘기를 나눠요."
 },
@@ -3644,6 +3947,7 @@
 "h": "온 더 컴퍼니",
 "p": "phr.",
 "m": "회사 비용으로",
+"n": "회사가 부담한다는 뜻. on the house 는 '가게가 무료로 제공하는'",
 "e": "Don't worry, dinner is on the company.",
 "k": "걱정 마세요, 저녁은 회사에서 내요."
 },
@@ -3655,7 +3959,8 @@
 "ipa": "/goʊ dʌtʃ/",
 "h": "고 더치",
 "p": "phr.",
-"m": "각자 내다",
+"m": "각자 내다, 더치페이하다",
+"n": "각자 먹은 것을 각자 계산하는 것. split the bill 은 총액을 나눠 내는 것",
 "e": "Shall we go Dutch?",
 "k": "각자 낼까요?"
 },
@@ -3667,7 +3972,8 @@
 "ipa": "/ˈteɪbəl fər tu/",
 "h": "테이블 포 투",
 "p": "phr.",
-"m": "2인석",
+"m": "2인석, 두 명 자리",
+"n": "식당에 들어가며 인원을 말하는 표현. A table for four, please(4명이요)",
 "e": "A table for two, please.",
 "k": "두 명 자리 부탁해요."
 },
@@ -3679,7 +3985,8 @@
 "ipa": "/kɪk ɔf/",
 "h": "킥 오프",
 "p": "v.",
-"m": "시작하다",
+"m": "시작하다; (축구) 킥오프",
+"n": "회의·프로젝트를 시작하다. kickoff meeting(착수 회의)",
 "e": "Let's kick off the meeting with a quick update.",
 "k": "간단한 업데이트로 회의를 시작하죠."
 },
@@ -3691,7 +3998,8 @@
 "ipa": "/pɔɪnt aʊt/",
 "h": "포인트 아웃",
 "p": "v.",
-"m": "지적하다, 짚다",
+"m": "지적하다, 짚다, 가리키다",
+"n": "문제·사실을 드러내어 말하다. As you pointed out(말씀하신 대로)",
 "e": "I'd like to point out a few risks.",
 "k": "몇 가지 위험 요소를 짚고 싶습니다."
 },
@@ -3704,6 +4012,7 @@
 "h": "무빙 온",
 "p": "phr.",
 "m": "다음으로 넘어가서",
+"n": "회의·발표에서 다음 주제로 넘어갈 때 쓰는 말. Let's move on to~ 도 같은 뜻",
 "e": "Moving on to the next topic.",
 "k": "다음 주제로 넘어가겠습니다."
 },
@@ -3715,7 +4024,8 @@
 "ipa": "/slaɪd/",
 "h": "슬라이드",
 "p": "n.",
-"m": "(발표) 슬라이드",
+"m": "(발표) 슬라이드; 미끄러지다; 하락하다",
+"n": "발표 화면 한 장. 주가·실적이 떨어질 때도 slide 를 씀",
 "e": "As you can see on this slide, sales are up.",
 "k": "이 슬라이드에서 보시듯 매출이 올랐습니다."
 },
@@ -3728,6 +4038,7 @@
 "h": "차트",
 "p": "n.",
 "m": "차트, 도표",
+"n": "자료를 그림으로 나타낸 것. bar chart(막대그래프), pie chart(원그래프)",
 "e": "This chart shows our market share.",
 "k": "이 차트는 저희 시장 점유율을 보여줍니다."
 },
@@ -3739,7 +4050,8 @@
 "ipa": "/trɛnd/",
 "h": "트렌드",
 "p": "n.",
-"m": "추세",
+"m": "추세, 경향, 동향",
+"n": "시간에 따른 변화 방향. upward/downward trend(상승/하락 추세)",
 "e": "We're seeing an upward trend in demand.",
 "k": "수요가 상승 추세를 보이고 있습니다."
 },
@@ -3751,7 +4063,8 @@
 "ipa": "/səgˈnɪfɪkənt/",
 "h": "시그니피컨트",
 "p": "adj.",
-"m": "상당한, 중요한",
+"m": "상당한, 중요한, 의미 있는",
+"n": "크기·영향이 큰. a significant increase(상당한 증가). 명사 significance",
 "e": "There was a significant increase in costs.",
 "k": "비용이 상당히 증가했습니다."
 },
@@ -3763,7 +4076,8 @@
 "ipa": "/ɪn ˈsʌməri/",
 "h": "인 서머리",
 "p": "phr.",
-"m": "요약하면",
+"m": "요약하면, 정리하자면",
+"n": "발표 마지막 정리 때 쓰는 말. to sum up, in short 와 비슷",
 "e": "In summary, the project is on schedule.",
 "k": "요약하면, 프로젝트는 일정대로 진행 중입니다."
 },
@@ -3776,6 +4090,7 @@
 "h": "큐앤에이 세션",
 "p": "n.",
 "m": "질의응답 시간",
+"n": "발표·회의 후 질문을 받는 시간. Q&A 는 questions and answers",
 "e": "We'll have a Q&A session at the end.",
 "k": "마지막에 질의응답 시간이 있습니다."
 },
@@ -3788,6 +4103,7 @@
 "h": "컨센서스",
 "p": "n.",
 "m": "합의, 의견 일치",
+"n": "모두가 동의하는 결론. reach a consensus(합의에 도달하다)",
 "e": "We need to reach a consensus today.",
 "k": "오늘 합의에 도달해야 합니다."
 },
@@ -3799,7 +4115,8 @@
 "ipa": "/səˈdʒɛstʃən/",
 "h": "서제스천",
 "p": "n.",
-"m": "제안",
+"m": "제안, 의견; 암시",
+"n": "가벼운 제안. proposal 보다 덜 공식적. 동사 suggest",
 "e": "Do you have any suggestions?",
 "k": "제안하실 것 있으세요?"
 },
@@ -3811,7 +4128,8 @@
 "ipa": "/kənˈsɜrn/",
 "h": "컨선",
 "p": "n.",
-"m": "우려, 걱정",
+"m": "우려, 걱정; 관심사; ~에 관련되다",
+"n": "My main concern is~(제가 걱정하는 건~). 형용사 concerned(걱정하는)",
 "e": "My main concern is the timeline.",
 "k": "제 주된 우려는 일정입니다."
 },
@@ -3823,7 +4141,8 @@
 "ipa": "/praɪˈɔrəti/",
 "h": "프라이오러티",
 "p": "n.",
-"m": "우선순위",
+"m": "우선순위, 우선 사항",
+"n": "먼저 해야 할 일. top priority(최우선 과제), prioritize(우선순위를 정하다)",
 "e": "Our top priority is customer satisfaction.",
 "k": "최우선 과제는 고객 만족입니다."
 },
@@ -3836,6 +4155,7 @@
 "h": "마일스톤",
 "p": "n.",
 "m": "중요 단계, 이정표",
+"n": "프로젝트의 중요한 중간 목표나 큰 사건. reach a milestone(중요 단계에 도달하다)",
 "e": "We reached a key milestone last month.",
 "k": "지난달 핵심 단계를 달성했습니다."
 },
@@ -3847,7 +4167,8 @@
 "ipa": "/ˈprɑˌgrɛs rɪˈpɔrt/",
 "h": "프라그레스 리포트",
 "p": "n.",
-"m": "진행 상황 보고",
+"m": "진행 상황 보고(서)",
+"n": "일이 얼마나 진행됐는지 알리는 보고. status report 라고도 함",
 "e": "Could you give us a progress report?",
 "k": "진행 상황 보고를 해주시겠어요?"
 },
@@ -3859,7 +4180,8 @@
 "ipa": "/bɪˈhaɪnd ˈskɛdʒul/",
 "h": "비하인드 스케줄",
 "p": "phr.",
-"m": "일정보다 늦은",
+"m": "일정보다 늦은, 예정보다 지연된",
+"n": "반대: ahead of schedule(예정보다 빠른), on schedule(예정대로)",
 "e": "We're a week behind schedule.",
 "k": "일정보다 일주일 늦어지고 있어요."
 },
@@ -3871,7 +4193,8 @@
 "ipa": "/ˈrisɔrsɪz/",
 "h": "리소시즈",
 "p": "n.",
-"m": "자원, 인력",
+"m": "자원, 인력, 자료",
+"n": "사람·돈·시간·설비 등 쓸 수 있는 것. human resources(인사, HR)",
 "e": "We need more resources for this project.",
 "k": "이 프로젝트에 인력이 더 필요합니다."
 },
@@ -3884,6 +4207,7 @@
 "h": "스테이크홀더",
 "p": "n.",
 "m": "이해관계자",
+"n": "프로젝트·회사와 관련된 사람이나 조직(직원·고객·주주 등)",
 "e": "We need approval from all stakeholders.",
 "k": "모든 이해관계자의 승인이 필요합니다."
 },
@@ -3895,7 +4219,8 @@
 "ipa": "/ˈriˌkæp/",
 "h": "리캡",
 "p": "n.",
-"m": "요약 정리",
+"m": "요약 정리; 요약하다",
+"n": "recapitulate 의 줄임말. Let me recap(간단히 정리하겠습니다)",
 "e": "Let me give a quick recap.",
 "k": "간단히 요약 정리하겠습니다."
 },
@@ -3907,7 +4232,8 @@
 "ipa": "/goʊ ˈoʊvər/",
 "h": "고 오버",
 "p": "v.",
-"m": "검토하다, 살펴보다",
+"m": "검토하다, 살펴보다; 넘다",
+"n": "자료를 꼼꼼히 다시 보다. go over budget 은 '예산을 넘다'",
 "e": "Let's go over the numbers one more time.",
 "k": "수치를 한 번 더 검토해 봅시다."
 },
@@ -3919,7 +4245,8 @@
 "ipa": "/ˈɔfər/",
 "h": "오퍼",
 "p": "n.",
-"m": "제안, 오퍼",
+"m": "제안, 오퍼; 제공하다, 제안하다",
+"n": "make an offer(제안하다), job offer(채용 제안). special offer(특가)",
 "e": "We appreciate your offer.",
 "k": "제안해 주셔서 감사합니다."
 },
@@ -3931,7 +4258,8 @@
 "ipa": "/əkˈsɛpt/",
 "h": "억셉트",
 "p": "v.",
-"m": "수락하다",
+"m": "수락하다, 받아들이다; 받다",
+"n": "제안·조건을 받아들이다. We accept credit cards(카드 받습니다). 반대: reject, decline",
 "e": "We're happy to accept your terms.",
 "k": "귀사의 조건을 기꺼이 수락합니다."
 },
@@ -3943,7 +4271,8 @@
 "ipa": "/rɪˈdʒɛkt/",
 "h": "리젝트",
 "p": "v.",
-"m": "거절하다",
+"m": "거절하다, 거부하다",
+"n": "제안·요청을 받아들이지 않다. decline 보다 강한 느낌. 명사 rejection",
 "e": "Unfortunately, we have to reject this proposal.",
 "k": "안타깝지만 이 제안은 거절해야 합니다."
 },
@@ -3956,6 +4285,7 @@
 "h": "미니멈 오더",
 "p": "n.",
 "m": "최소 주문량",
+"n": "한 번에 주문해야 하는 최소 수량. MOQ(minimum order quantity)로 줄여 씀",
 "e": "What's your minimum order quantity?",
 "k": "최소 주문 수량이 얼마인가요?"
 },
@@ -3968,6 +4298,7 @@
 "h": "유닛 프라이스",
 "p": "n.",
 "m": "단가",
+"n": "물건 한 개당 가격. 총액은 total price",
 "e": "Can you lower the unit price?",
 "k": "단가를 낮춰 주실 수 있나요?"
 },
@@ -3979,7 +4310,8 @@
 "ipa": "/ˈvɑljum/",
 "h": "발륨",
 "p": "n.",
-"m": "물량",
+"m": "물량, 양; 음량; (책의) 권",
+"n": "거래량·생산량. sales volume(판매량), turn up the volume(소리를 키우다)",
 "e": "We can offer a better price for larger volumes.",
 "k": "물량이 많으면 더 좋은 가격을 드릴 수 있습니다."
 },
@@ -3991,7 +4323,8 @@
 "ipa": "/ɪksˈklusɪv/",
 "h": "익스클루시브",
 "p": "adj.",
-"m": "독점적인",
+"m": "독점적인, 배타적인; 고급의",
+"n": "exclusive contract(독점 계약). exclusive club(회원 전용 고급 클럽)",
 "e": "We're interested in an exclusive distribution deal.",
 "k": "독점 유통 계약에 관심이 있습니다."
 },
@@ -4003,7 +4336,8 @@
 "ipa": "/rɪˈnu/",
 "h": "리뉴",
 "p": "v.",
-"m": "갱신하다",
+"m": "갱신하다, 연장하다; 새롭게 하다",
+"n": "계약·여권·회원권 기간을 늘리다. 명사 renewal",
 "e": "We'd like to renew the contract for another year.",
 "k": "계약을 1년 더 갱신하고 싶습니다."
 },
@@ -4015,7 +4349,8 @@
 "ipa": "/ˈtɜrməˌneɪt/",
 "h": "터미네이트",
 "p": "v.",
-"m": "해지하다",
+"m": "해지하다, 종료하다",
+"n": "계약·관계를 끝내다. 명사 termination. 해고라는 뜻으로도 씀",
 "e": "Either party may terminate the contract with notice.",
 "k": "어느 쪽이든 통보 후 계약을 해지할 수 있습니다."
 },
@@ -4027,7 +4362,8 @@
 "ipa": "/ˈpɛnəlti/",
 "h": "페널티",
 "p": "n.",
-"m": "위약금, 벌금",
+"m": "위약금, 벌금; 불이익",
+"n": "규칙·계약을 어겼을 때 내는 돈. penalty clause(위약금 조항)",
 "e": "Is there a penalty for late delivery?",
 "k": "납품 지연 시 위약금이 있나요?"
 },
@@ -4039,7 +4375,8 @@
 "ipa": "/ˈpeɪmənt du/",
 "h": "페이먼트 듀",
 "p": "phr.",
-"m": "지급 기한인",
+"m": "지급 기한인, 지불해야 하는",
+"n": "Payment is due on~(~까지 지급해야 함). due date(만기일)",
 "e": "Payment is due within 30 days.",
 "k": "대금은 30일 이내에 지급해야 합니다."
 },
@@ -4051,7 +4388,8 @@
 "ipa": "/ˌʌpˈfrʌnt/",
 "h": "업프런트",
 "p": "adv.",
-"m": "선불로, 미리",
+"m": "선불로, 미리; 솔직한",
+"n": "pay upfront(선불로 내다). be upfront about~(~에 대해 솔직하다)",
 "e": "We require 30 percent upfront.",
 "k": "30%는 선금으로 받습니다."
 },
@@ -4063,7 +4401,8 @@
 "ipa": "/ɪnˈstɔlmənt/",
 "h": "인스톨먼트",
 "p": "n.",
-"m": "분할 납부",
+"m": "분할 납부(금), 할부; (연재물의) 1회분",
+"n": "pay in installments(분할로 내다). 영국식 철자 instalment",
 "e": "Can we pay in installments?",
 "k": "분할로 지급해도 될까요?"
 },
@@ -4075,7 +4414,8 @@
 "ipa": "/dræft/",
 "h": "드래프트",
 "p": "n.",
-"m": "초안",
+"m": "초안; 초안을 쓰다; 징병",
+"n": "아직 확정되지 않은 문서. first draft(초안), final draft(최종안)",
 "e": "I'll send you the revised draft tomorrow.",
 "k": "수정된 초안을 내일 보내드릴게요."
 },
@@ -4088,6 +4428,7 @@
 "h": "리걸 팀",
 "p": "n.",
 "m": "법무팀",
+"n": "계약·법률 문제를 검토하는 부서. legal department 라고도 함",
 "e": "Our legal team needs to review it first.",
 "k": "먼저 저희 법무팀이 검토해야 합니다."
 },
@@ -4100,6 +4441,7 @@
 "h": "윈윈",
 "p": "adj.",
 "m": "서로에게 이득인",
+"n": "양쪽 모두 이익을 얻는. win-win situation/solution",
 "e": "I think this is a win-win solution.",
 "k": "이건 서로에게 이득인 해결책이라고 생각합니다."
 },
@@ -4111,7 +4453,8 @@
 "ipa": "/mit ˈhæfˌweɪ/",
 "h": "밋 해프웨이",
 "p": "phr.",
-"m": "서로 양보하다",
+"m": "서로 양보하다, 절충하다",
+"n": "양쪽이 반씩 양보해 합의하다. compromise 와 비슷",
 "e": "Could we meet halfway on the price?",
 "k": "가격을 서로 반씩 양보할 수 있을까요?"
 },
@@ -4124,6 +4467,7 @@
 "h": "펌 오퍼",
 "p": "n.",
 "m": "확정 제안",
+"n": "정해진 기간 동안 바꾸지 않는 공식 제안. firm 은 '확고한'",
 "e": "Is that a firm offer?",
 "k": "그게 확정 제안인가요?"
 },
@@ -4135,7 +4479,8 @@
 "ipa": "/ˈsæmpəl/",
 "h": "샘플",
 "p": "n.",
-"m": "견본, 샘플",
+"m": "견본, 샘플; 표본; 시식하다",
+"n": "제품 견본. free sample(무료 샘플). 음식을 맛보다라는 뜻도",
 "e": "Could you send us some samples first?",
 "k": "먼저 샘플을 좀 보내주시겠어요?"
 },
@@ -4147,7 +4492,8 @@
 "ipa": "/ˌspɛsəfəˈkeɪʃənz/",
 "h": "스페서피케이션즈",
 "p": "n.",
-"m": "사양, 명세",
+"m": "사양, 명세, 스펙",
+"n": "제품의 크기·성능 등 세부 정보. 줄여서 specs",
 "e": "Please check the product specifications.",
 "k": "제품 사양을 확인해 주세요."
 },
@@ -4159,7 +4505,8 @@
 "ipa": "/ˈsʌbdʒɪkt laɪn/",
 "h": "서브젝트 라인",
 "p": "n.",
-"m": "(이메일) 제목",
+"m": "(이메일) 제목 줄",
+"n": "이메일의 제목 칸. 내용을 한눈에 알 수 있게 쓰는 것이 매너",
 "e": "Please put the project name in the subject line.",
 "k": "제목에 프로젝트 이름을 넣어 주세요."
 },
@@ -4171,7 +4518,8 @@
 "ipa": "/ˈfɔrwərd/",
 "h": "포워드",
 "p": "v.",
-"m": "전달하다",
+"m": "전달하다; 앞으로",
+"n": "이메일을 다른 사람에게 보내다(FW). look forward to(고대하다)",
 "e": "I'll forward this email to my team.",
 "k": "이 메일을 저희 팀에 전달할게요."
 },
@@ -4183,7 +4531,8 @@
 "ipa": "/bɛst rɪˈgɑrdz/",
 "h": "베스트 리가즈",
 "p": "phr.",
-"m": "(이메일 맺음말) 감사합니다",
+"m": "(이메일 맺음말) 감사합니다, 안부를 전하며",
+"n": "가장 무난한 이메일 끝인사. Kind regards, Best 도 비슷하게 씀",
 "e": "Best regards, Minsu Kim",
 "k": "감사합니다. 김민수 드림"
 },
@@ -4195,7 +4544,8 @@
 "ipa": "/aɪ hoʊp ðɪs iˈmeɪl faɪndz ju wɛl/",
 "h": "아이 홉 디스 이메일 파인즈 유 웰",
 "p": "phr.",
-"m": "잘 지내고 계시길 바랍니다 (첫인사)",
+"m": "잘 지내고 계시길 바랍니다 (이메일 첫인사)",
+"n": "격식 있는 이메일의 첫 문장으로 자주 쓰는 인사말",
 "e": "I hope this email finds you well.",
 "k": "잘 지내고 계시길 바랍니다."
 },
@@ -4207,7 +4557,8 @@
 "ipa": "/ˈɪnkwəri/",
 "h": "인콰이어리",
 "p": "n.",
-"m": "문의",
+"m": "문의, 질문; 조사",
+"n": "제품·서비스에 대한 문의. Thank you for your inquiry. 영국식 enquiry",
 "e": "Thank you for your inquiry.",
 "k": "문의해 주셔서 감사합니다."
 },
@@ -4220,6 +4571,7 @@
 "h": "퍼 아워 칸버세이션",
 "p": "phr.",
 "m": "말씀 나눈 대로",
+"n": "앞서 통화·대화한 내용을 이어갈 때 쓰는 이메일 표현. as per our conversation 이라고도 함",
 "e": "Per our conversation, I've attached the price list.",
 "k": "말씀 나눈 대로 가격표를 첨부했습니다."
 },
@@ -4232,6 +4584,7 @@
 "h": "애즈 디스커스트",
 "p": "phr.",
 "m": "논의한 대로",
+"n": "회의·통화에서 정한 내용을 확인할 때 쓰는 이메일 표현",
 "e": "As discussed, the meeting is moved to Friday.",
 "k": "논의한 대로 회의는 금요일로 옮겼습니다."
 },
@@ -4243,7 +4596,8 @@
 "ipa": "/ˌklɛrəfəˈkeɪʃən/",
 "h": "클래러피케이션",
 "p": "n.",
-"m": "설명, 해명",
+"m": "설명, 해명, 명확화",
+"n": "애매한 점을 분명히 하는 것. ask for clarification(설명을 요청하다)",
 "e": "I need some clarification on the schedule.",
 "k": "일정에 대해 설명이 좀 필요합니다."
 },
@@ -4255,7 +4609,8 @@
 "ipa": "/fil fri tə/",
 "h": "필 프리 투",
 "p": "phr.",
-"m": "부담 없이 ~하세요",
+"m": "부담 없이 ~하세요, 편하게 ~하세요",
+"n": "Feel free to contact me(편하게 연락 주세요). 친절한 권유 표현",
 "e": "Feel free to contact me anytime.",
 "k": "언제든 편하게 연락 주세요."
 },
@@ -4267,7 +4622,8 @@
 "ipa": "/ɪkˈstɛnʃən/",
 "h": "익스텐션",
 "p": "n.",
-"m": "(기한) 연장",
+"m": "(기한) 연장; 내선 번호; 확장",
+"n": "deadline extension(마감 연장). 전화 내선은 ext.로 줄여 씀",
 "e": "Could we ask for a deadline extension?",
 "k": "마감 연장을 요청드려도 될까요?"
 },
@@ -4279,7 +4635,8 @@
 "ipa": "/pʊʃ bæk/",
 "h": "푸시 백",
 "p": "v.",
-"m": "(일정을) 뒤로 미루다",
+"m": "(일정을) 뒤로 미루다; 반대하다",
+"n": "push back the meeting(회의를 미루다). 의견에 반발하다라는 뜻도 있음",
 "e": "Can we push back the call to 4 p.m.?",
 "k": "통화를 오후 4시로 미룰 수 있을까요?"
 },
@@ -4291,7 +4648,8 @@
 "ipa": "/muv ʌp/",
 "h": "무브 업",
 "p": "v.",
-"m": "(일정을) 앞당기다",
+"m": "(일정을) 앞당기다; 승진하다",
+"n": "move up the meeting(회의를 앞당기다). 영국식 bring forward",
 "e": "Could we move up the meeting to Monday?",
 "k": "회의를 월요일로 앞당길 수 있을까요?"
 },
@@ -4303,7 +4661,8 @@
 "ipa": "/ˌdʌbəl ˈbʊkt/",
 "h": "더블북트",
 "p": "adj.",
-"m": "일정이 겹친",
+"m": "일정이 겹친, 중복 예약된",
+"n": "같은 시간에 약속이 두 개 잡힌 상태",
 "e": "Sorry, I'm double-booked at that time.",
 "k": "죄송해요, 그 시간에 일정이 겹쳐요."
 },
@@ -4315,7 +4674,8 @@
 "ipa": "/fri/",
 "h": "프리",
 "p": "adj.",
-"m": "(시간이) 비어 있는",
+"m": "(시간이) 비어 있는, 한가한; 무료의; 자유로운",
+"n": "Are you free tomorrow?(내일 시간 돼요?). 무료라는 뜻도 있으니 문맥 주의",
 "e": "Are you free for lunch tomorrow?",
 "k": "내일 점심 시간 되세요?"
 },
@@ -4327,7 +4687,8 @@
 "ipa": "/əˌveɪləˈbɪləti/",
 "h": "어베일러빌러티",
 "p": "n.",
-"m": "가능한 시간",
+"m": "가능한 시간; 이용 가능성, 재고",
+"n": "언제 시간이 되는지. Please let me know your availability. 객실·재고 여부에도 씀",
 "e": "Please let me know your availability next week.",
 "k": "다음 주에 가능한 시간을 알려주세요."
 },
@@ -4339,7 +4700,8 @@
 "ipa": "/əkˈnɑlɪdʒ/",
 "h": "억날리지",
 "p": "v.",
-"m": "(받았음을) 확인하다",
+"m": "(받았음을) 확인하다; 인정하다",
+"n": "acknowledge receipt(수령을 확인하다). 사실·잘못을 인정하다라는 뜻도",
 "e": "Please acknowledge receipt of this email.",
 "k": "이 메일을 받으셨는지 확인 부탁드립니다."
 },
@@ -4351,7 +4713,8 @@
 "ipa": "/ˈsɪgnətʃər/",
 "h": "시그니처",
 "p": "n.",
-"m": "서명",
+"m": "서명; 특징적인 것",
+"n": "문서에 하는 서명. signature dish(대표 요리). 이메일 하단 서명도 signature",
 "e": "Please return the form with your signature.",
 "k": "양식에 서명해서 회신해 주세요."
 },
@@ -4363,7 +4726,8 @@
 "ipa": "/ɪn ədˈvæns/",
 "h": "인 어드밴스",
 "p": "phr.",
-"m": "미리",
+"m": "미리, 사전에",
+"n": "Thank you in advance(미리 감사드립니다)는 부탁 메일 끝에 자주 씀",
 "e": "Thank you in advance for your help.",
 "k": "도와주셔서 미리 감사드립니다."
 },
@@ -4376,6 +4740,7 @@
 "h": "팔로우업 이메일",
 "p": "n.",
 "m": "후속 이메일",
+"n": "회의·미팅 후 내용을 정리하거나 진행 상황을 묻는 메일",
 "e": "I'll send a follow-up email with the details.",
 "k": "자세한 내용은 후속 메일로 보내드릴게요."
 },
@@ -4387,7 +4752,8 @@
 "ipa": "/dɪr/",
 "h": "디어",
 "p": "phr.",
-"m": "(이메일 첫인사) ~께",
+"m": "(이메일·편지 첫인사) ~께, ~님께",
+"n": "Dear Mr. Smith, 처럼 이름 앞에 씀. 이름을 모르면 Dear Sir or Madam",
 "e": "Dear Mr. Smith,",
 "k": "스미스 님께,"
 },
@@ -4399,7 +4765,8 @@
 "ipa": "/dʒɑb ˈtaɪtəl/",
 "h": "잡 타이틀",
 "p": "n.",
-"m": "직함",
+"m": "직함, 직책명",
+"n": "Manager, Director 같은 직위 이름. position 과 비슷",
 "e": "What's your job title?",
 "k": "직함이 어떻게 되세요?"
 },
@@ -4411,7 +4778,8 @@
 "ipa": "/dɪˈpɑrtmənt/",
 "h": "디파트먼트",
 "p": "n.",
-"m": "부서",
+"m": "부서; (백화점의) 매장",
+"n": "회사의 부서. sales department(영업부), HR department(인사부)",
 "e": "Which department do you work in?",
 "k": "어느 부서에서 일하세요?"
 },
@@ -4423,7 +4791,8 @@
 "ipa": "/səbˈsɪdiˌɛri/",
 "h": "섭시디에리",
 "p": "n.",
-"m": "자회사",
+"m": "자회사; 보조의",
+"n": "다른 회사가 지분을 가진 회사. 모회사는 parent company",
 "e": "We're a subsidiary of a larger group.",
 "k": "저희는 큰 그룹의 자회사입니다."
 },
@@ -4435,7 +4804,8 @@
 "ipa": "/ˈklaɪənt/",
 "h": "클라이언트",
 "p": "n.",
-"m": "고객, 거래처",
+"m": "고객, 거래처, 의뢰인",
+"n": "서비스를 받는 고객(변호사·컨설팅 등). 상점 손님은 customer",
 "e": "She's one of our biggest clients.",
 "k": "그분은 저희 최대 고객 중 한 분이에요."
 },
@@ -4447,7 +4817,8 @@
 "ipa": "/ˈpɑrtnər/",
 "h": "파트너",
 "p": "n.",
-"m": "협력사, 파트너",
+"m": "협력사, 파트너; 동업자; 배우자",
+"n": "함께 사업하는 회사·사람. business partner",
 "e": "We've been partners for ten years.",
 "k": "저희는 10년째 협력하고 있어요."
 },
@@ -4460,6 +4831,7 @@
 "h": "스몰 토크",
 "p": "n.",
 "m": "가벼운 대화, 잡담",
+"n": "날씨·여행 같은 부담 없는 대화. 미팅 시작 전 분위기를 풀 때 중요함",
 "e": "Small talk helps you build rapport.",
 "k": "가벼운 대화는 친밀감을 쌓는 데 도움이 돼요."
 },
@@ -4472,6 +4844,7 @@
 "h": "브레이크 디 아이스",
 "p": "phr.",
 "m": "어색한 분위기를 깨다",
+"n": "처음 만난 자리의 어색함을 풀다. icebreaker(분위기를 푸는 말·활동)",
 "e": "He told a joke to break the ice.",
 "k": "그는 분위기를 풀려고 농담을 했어요."
 },
@@ -4484,6 +4857,7 @@
 "h": "인 타운",
 "p": "phr.",
 "m": "이 도시에 와 있는",
+"n": "How long are you in town?(여기 얼마나 계세요?) 출장 온 사람에게 자주 묻는 말",
 "e": "How long are you in town for?",
 "k": "이곳에 얼마나 계세요?"
 },
@@ -4496,6 +4870,7 @@
 "h": "홈타운",
 "p": "n.",
 "m": "고향",
+"n": "태어나거나 자란 도시. 스몰토크 단골 주제",
 "e": "Where is your hometown?",
 "k": "고향이 어디세요?"
 },
@@ -4508,6 +4883,7 @@
 "h": "하비",
 "p": "n.",
 "m": "취미",
+"n": "여가에 즐기는 활동. 회화에서는 What do you do in your free time? 으로 묻는 경우가 더 많음",
 "e": "Golf is a popular hobby among our clients.",
 "k": "골프는 저희 고객들 사이에서 인기 있는 취미예요."
 },
@@ -4520,6 +4896,7 @@
 "h": "위켄드",
 "p": "n.",
 "m": "주말",
+"n": "토·일요일. Have a nice weekend(주말 잘 보내세요)는 금요일 인사",
 "e": "Any plans for the weekend?",
 "k": "주말에 계획 있으세요?"
 },
@@ -4532,6 +4909,7 @@
 "h": "젯래그드",
 "p": "adj.",
 "m": "시차로 피곤한",
+"n": "시차 때문에 몸이 힘든 상태. 명사는 jet lag",
 "e": "You must be jet-lagged.",
 "k": "시차 때문에 피곤하시겠어요."
 },
@@ -4543,7 +4921,8 @@
 "ipa": "/ˌrɛkəmənˈdeɪʃən/",
 "h": "레커멘데이션",
 "p": "n.",
-"m": "추천",
+"m": "추천; 권고, 권장 사항",
+"n": "식당·제품 추천이나 공식적인 권고. letter of recommendation(추천서)",
 "e": "Thanks for the restaurant recommendation.",
 "k": "식당 추천해 주셔서 감사해요."
 },
@@ -4555,7 +4934,8 @@
 "ipa": "/ˈmjutʃuəl frɛnd/",
 "h": "뮤추얼 프렌드",
 "p": "n.",
-"m": "공통 지인",
+"m": "공통 지인, 서로 아는 친구",
+"n": "두 사람이 함께 아는 사람. mutual 은 '서로의, 공통의'",
 "e": "We were introduced by a mutual friend.",
 "k": "공통 지인 소개로 알게 됐어요."
 },
@@ -4567,7 +4947,8 @@
 "ipa": "/ritʃ aʊt/",
 "h": "리치 아웃",
 "p": "v.",
-"m": "연락하다",
+"m": "연락하다; 손을 뻗다",
+"n": "contact 보다 부드러운 비즈니스 표현. Feel free to reach out(편하게 연락 주세요)",
 "e": "Please reach out if you need anything.",
 "k": "필요한 게 있으면 연락 주세요."
 },
@@ -4579,7 +4960,8 @@
 "ipa": "/wɜrk wɪð/",
 "h": "워크 위드",
 "p": "phr.",
-"m": "함께 일하다",
+"m": "함께 일하다, 협력하다",
+"n": "I look forward to working with you(함께 일하길 기대합니다)",
 "e": "I look forward to working with you.",
 "k": "함께 일하게 되어 기대됩니다."
 },
@@ -4591,7 +4973,8 @@
 "ipa": "/ɪmˈprɛsɪv/",
 "h": "임프레시브",
 "p": "adj.",
-"m": "인상적인",
+"m": "인상적인, 감명 깊은",
+"n": "칭찬할 때 쓰는 말. 동사 impress, 명사 impression(인상)",
 "e": "Your presentation was very impressive.",
 "k": "발표가 정말 인상적이었어요."
 },
@@ -4604,6 +4987,7 @@
 "h": "컨그래출레이션즈",
 "p": "interj.",
 "m": "축하합니다",
+"n": "항상 복수형(-s). Congratulations on~(~를 축하해요). 줄여서 Congrats",
 "e": "Congratulations on your promotion!",
 "k": "승진 축하드려요!"
 },
@@ -4615,7 +4999,8 @@
 "ipa": "/ɪkˈskjuz mi/",
 "h": "익스큐즈 미",
 "p": "phr.",
-"m": "실례합니다",
+"m": "실례합니다; 뭐라고요?",
+"n": "말을 걸거나 지나갈 때. 상대 말을 못 들었을 때 (끝을 올려) Excuse me? 라고 되물음",
 "e": "Excuse me, are you Mr. Lee?",
 "k": "실례합니다, 이 선생님이신가요?"
 },
@@ -4627,7 +5012,8 @@
 "ipa": "/prəˈnaʊns/",
 "h": "프러나운스",
 "p": "v.",
-"m": "발음하다",
+"m": "발음하다; 선언하다",
+"n": "How do you pronounce your name?(성함을 어떻게 발음하나요?) 명사 pronunciation",
 "e": "How do you pronounce your name?",
 "k": "성함을 어떻게 발음하나요?"
 },
@@ -4640,6 +5026,7 @@
 "h": "페이 인 캐시",
 "p": "phr.",
 "m": "현금으로 내다",
+"n": "카드는 pay by card. 현금만 받는 곳은 cash only",
 "e": "Can I pay in cash?",
 "k": "현금으로 내도 되나요?"
 },
@@ -4651,7 +5038,8 @@
 "ipa": "/pɪn/",
 "h": "핀",
 "p": "n.",
-"m": "(카드) 비밀번호",
+"m": "(카드) 비밀번호, 개인 식별 번호",
+"n": "personal identification number. enter your PIN(비밀번호를 누르세요)",
 "e": "Please enter your PIN.",
 "k": "비밀번호를 입력해 주세요."
 },
@@ -4663,7 +5051,8 @@
 "ipa": "/swaɪp/",
 "h": "스와이프",
 "p": "v.",
-"m": "(카드를) 긁다",
+"m": "(카드를) 긁다; 화면을 쓸어 넘기다",
+"n": "카드를 단말기에 긁다. 휴대폰 화면을 넘기는 동작도 swipe",
 "e": "Please swipe your card here.",
 "k": "여기에 카드를 긁어 주세요."
 },
@@ -4675,7 +5064,8 @@
 "ipa": "/tæp/",
 "h": "탭",
 "p": "v.",
-"m": "(카드를) 갖다 대다",
+"m": "(카드를) 갖다 대다; 가볍게 두드리다; 수도꼭지",
+"n": "비접촉 결제. tap water(수돗물)의 tap 은 '수도꼭지'",
 "e": "You can just tap your card.",
 "k": "카드를 그냥 갖다 대시면 돼요."
 },
@@ -4687,7 +5077,8 @@
 "ipa": "/tʃeɪndʒ/",
 "h": "체인지",
 "p": "n.",
-"m": "거스름돈",
+"m": "거스름돈; 잔돈; 바꾸다",
+"n": "Keep the change(거스름돈은 가지세요). small change(잔돈, 동전)",
 "e": "Keep the change.",
 "k": "거스름돈은 가지세요."
 },
@@ -4700,6 +5091,7 @@
 "h": "스몰 빌즈",
 "p": "n.",
 "m": "작은 단위 지폐",
+"n": "고액권이 아닌 지폐. 팁·택시비 낼 때 유용. bill 은 여기서 '지폐'(영국식 note)",
 "e": "Do you have any small bills?",
 "k": "작은 단위 지폐 있으세요?"
 },
@@ -4712,6 +5104,7 @@
 "h": "코인",
 "p": "n.",
 "m": "동전",
+"n": "금속 돈. 자판기·주차 요금에 필요할 때가 있음",
 "e": "I need coins for the vending machine.",
 "k": "자판기에 쓸 동전이 필요해요."
 },
@@ -4723,7 +5116,8 @@
 "ipa": "/ˈtoʊtəl/",
 "h": "토털",
 "p": "n.",
-"m": "합계",
+"m": "합계, 총액; 전체의",
+"n": "What's the total?(전부 얼마예요?) in total(통틀어)",
 "e": "What's the total?",
 "k": "합계가 얼마예요?"
 },
@@ -4735,7 +5129,8 @@
 "ipa": "/kɑst ˈɛstəmət/",
 "h": "코스트 에스티밋",
 "p": "n.",
-"m": "비용 견적",
+"m": "비용 견적, 예상 비용",
+"n": "어떤 일에 들 비용을 미리 계산한 것. quote 와 비슷",
 "e": "Please send a cost estimate for the trip.",
 "k": "출장 비용 견적을 보내주세요."
 },
@@ -4748,6 +5143,7 @@
 "h": "포린 트랜잭션 피",
 "p": "n.",
 "m": "해외 결제 수수료",
+"n": "해외에서 카드를 쓸 때 붙는 수수료(보통 결제액의 1~3%)",
 "e": "My card charges a foreign transaction fee.",
 "k": "제 카드는 해외 결제 수수료가 붙어요."
 },
@@ -4760,6 +5156,7 @@
 "h": "위딘 버짓",
 "p": "phr.",
 "m": "예산 범위 내에서",
+"n": "정해진 예산을 넘지 않게. 반대: over budget",
 "e": "We need to keep the trip within budget.",
 "k": "출장을 예산 범위 안에서 해야 해요."
 },
@@ -4771,7 +5168,8 @@
 "ipa": "/pruf əv ˈpeɪmənt/",
 "h": "프루프 오브 페이먼트",
 "p": "n.",
-"m": "결제 증빙",
+"m": "결제 증빙, 지불 증명",
+"n": "영수증·카드 명세처럼 돈을 냈다는 증거. 경비 정산에 필요",
 "e": "Keep proof of payment for every expense.",
 "k": "모든 비용의 결제 증빙을 보관하세요."
 },
@@ -4784,6 +5182,7 @@
 "h": "리임버스먼트",
 "p": "n.",
 "m": "(경비) 환급, 정산",
+"n": "먼저 쓴 비용을 돌려받는 것. 동사 reimburse",
 "e": "How long does reimbursement take?",
 "k": "경비 환급은 얼마나 걸리나요?"
 },
@@ -4795,7 +5194,8 @@
 "ipa": "/kæʃ ədˈvæns/",
 "h": "캐시 어드밴스",
 "p": "n.",
-"m": "선지급금, 가불",
+"m": "선지급금, 가불; 현금 서비스",
+"n": "출장 전 미리 받는 경비. 신용카드의 '현금 서비스'라는 뜻도 있음",
 "e": "I received a cash advance for the trip.",
 "k": "출장 경비를 미리 받았어요."
 },
@@ -4807,7 +5207,8 @@
 "ipa": "/əˈkaʊntɪŋ dɪˈpɑrtmənt/",
 "h": "어카운팅 디파트먼트",
 "p": "n.",
-"m": "회계팀",
+"m": "회계팀, 경리부",
+"n": "돈의 입출금과 경비 정산을 담당하는 부서. finance department 와 비슷",
 "e": "Send your receipts to the accounting department.",
 "k": "영수증은 회계팀으로 보내세요."
 },
@@ -4819,7 +5220,8 @@
 "ipa": "/ˌaʊtˈstændɪŋ ˈbæləns/",
 "h": "아웃스탠딩 밸런스",
 "p": "n.",
-"m": "미지급 잔액",
+"m": "미지급 잔액, 미결제 금액",
+"n": "아직 내지 않은 돈. outstanding 은 '미지불의'(뛰어난이라는 뜻도 있음)",
 "e": "There's an outstanding balance on your account.",
 "k": "미지급 잔액이 남아 있습니다."
 },
@@ -4831,7 +5233,8 @@
 "ipa": "/əˈfɔrdəbəl/",
 "h": "어포더블",
 "p": "adj.",
-"m": "(가격이) 적당한",
+"m": "(가격이) 적당한, 감당할 수 있는",
+"n": "비싸지 않아 살 만한. cheap 보다 긍정적인 느낌",
 "e": "Is there a more affordable option?",
 "k": "좀 더 저렴한 선택지가 있나요?"
 },
@@ -4844,6 +5247,7 @@
 "h": "익스펜시브",
 "p": "adj.",
 "m": "비싼",
+"n": "값이 많이 나가는. pricey(좀 비싼), overpriced(바가지인)",
 "e": "Business hotels downtown are expensive.",
 "k": "시내 비즈니스 호텔은 비싸요."
 },
@@ -4855,7 +5259,8 @@
 "ipa": "/wɜrθ/",
 "h": "워스",
 "p": "adj.",
-"m": "~할 가치가 있는",
+"m": "~할 가치가 있는; 가치",
+"n": "be worth -ing(~할 가치가 있다). It's worth it(그럴 만한 가치가 있어요)",
 "e": "It's worth paying extra for a direct flight.",
 "k": "직항편이라면 돈을 더 낼 가치가 있어요."
 },
@@ -4868,6 +5273,7 @@
 "h": "스플릿 페이먼트",
 "p": "n.",
 "m": "분할 결제",
+"n": "여러 카드나 결제 수단으로 나눠 내는 것",
 "e": "Can I do a split payment with two cards?",
 "k": "카드 두 장으로 나눠 결제할 수 있나요?"
 },
@@ -4880,6 +5286,7 @@
 "h": "펄리스 스테이션",
 "p": "n.",
 "m": "경찰서",
+"n": "도난·분실 신고를 하는 곳. police report(경찰 신고서)는 보험 청구에 필요할 수 있음",
 "e": "Where is the nearest police station?",
 "k": "가장 가까운 경찰서가 어디인가요?"
 },
@@ -4892,6 +5299,7 @@
 "h": "하스피털",
 "p": "n.",
 "m": "병원",
+"n": "입원·응급 진료가 가능한 큰 병원. 작은 의원은 clinic",
 "e": "I need to go to the hospital.",
 "k": "병원에 가야 해요."
 },
@@ -4904,6 +5312,7 @@
 "h": "클리닉",
 "p": "n.",
 "m": "의원, 진료소",
+"n": "간단한 진료를 하는 작은 병원. walk-in clinic(예약 없이 가는 진료소)",
 "e": "Is there an English-speaking clinic nearby?",
 "k": "근처에 영어가 되는 의원이 있나요?"
 },
@@ -4915,7 +5324,8 @@
 "ipa": "/ˈfivər/",
 "h": "피버",
 "p": "n.",
-"m": "열",
+"m": "열, 발열",
+"n": "체온이 높은 상태. have a fever(열이 나다), run a fever",
 "e": "I have a high fever.",
 "k": "열이 많이 나요."
 },
@@ -4928,6 +5338,7 @@
 "h": "헤드에이크",
 "p": "n.",
 "m": "두통",
+"n": "머리가 아픈 것. 비유적으로 '골칫거리'라는 뜻도 있음",
 "e": "Do you have something for a headache?",
 "k": "두통약 있나요?"
 },
@@ -4939,7 +5350,8 @@
 "ipa": "/ˈstʌməkˌeɪk/",
 "h": "스터머케이크",
 "p": "n.",
-"m": "복통",
+"m": "복통, 배앓이",
+"n": "배가 아픈 것. 발음은 '스터머케이크'(ch 를 k 로 읽음)",
 "e": "I've had a stomachache since last night.",
 "k": "어젯밤부터 배가 아파요."
 },
@@ -4952,6 +5364,7 @@
 "h": "페인킬러",
 "p": "n.",
 "m": "진통제",
+"n": "통증을 줄이는 약. pain reliever 라고도 함. 대표적으로 ibuprofen, acetaminophen",
 "e": "Can I buy painkillers without a prescription?",
 "k": "처방전 없이 진통제를 살 수 있나요?"
 },
@@ -4963,7 +5376,8 @@
 "ipa": "/ˈɪndʒərd/",
 "h": "인저드",
 "p": "adj.",
-"m": "다친",
+"m": "다친, 부상당한",
+"n": "사고로 다친. injury(부상). 일부러 해친 경우는 hurt/wounded 로 표현하기도 함",
 "e": "Is anyone injured?",
 "k": "다친 사람 있나요?"
 },
@@ -4976,6 +5390,7 @@
 "h": "픽파킷",
 "p": "n.",
 "m": "소매치기",
+"n": "남의 주머니·가방에서 몰래 훔치는 사람. 관광지·지하철에서 주의",
 "e": "Watch out for pickpockets in the station.",
 "k": "역에서는 소매치기를 조심하세요."
 },
@@ -4987,7 +5402,8 @@
 "ipa": "/lɑk aʊt/",
 "h": "락 아웃",
 "p": "v.",
-"m": "(문이 잠겨) 못 들어가게 되다",
+"m": "(문이 잠겨) 못 들어가게 되다; 직장 폐쇄",
+"n": "lock oneself out(열쇠를 두고 나와 못 들어가다)",
 "e": "I locked myself out of my room.",
 "k": "문이 잠겨서 방에 못 들어가요."
 },
@@ -5000,6 +5416,7 @@
 "h": "파워 아웃티지",
 "p": "n.",
 "m": "정전",
+"n": "전기가 끊기는 것. blackout 이라고도 함",
 "e": "There's a power outage in the building.",
 "k": "건물에 정전이 났어요."
 },
@@ -5012,6 +5429,7 @@
 "h": "아웃 오브 배터리",
 "p": "phr.",
 "m": "배터리가 다 된",
+"n": "My phone is dead(폰이 꺼졌어요)라고도 자주 말함",
 "e": "My phone is out of battery.",
 "k": "휴대폰 배터리가 다 됐어요."
 },
@@ -5023,7 +5441,8 @@
 "ipa": "/lɔst/",
 "h": "로스트",
 "p": "adj.",
-"m": "길을 잃은",
+"m": "길을 잃은; 잃어버린",
+"n": "I'm lost(길을 잃었어요). lost luggage(분실 수하물)",
 "e": "I think we're lost.",
 "k": "길을 잃은 것 같아요."
 },
@@ -5035,7 +5454,8 @@
 "ipa": "/ˈɜrdʒənt kɛr/",
 "h": "어전트 케어",
 "p": "n.",
-"m": "응급 진료소",
+"m": "응급 진료소, 긴급 진료",
+"n": "응급실(ER)보다 가벼운 증상을 예약 없이 보는 곳(미국)",
 "e": "Is there an urgent care center nearby?",
 "k": "근처에 응급 진료소가 있나요?"
 },
@@ -5047,7 +5467,8 @@
 "ipa": "/mɪst/",
 "h": "미스트",
 "p": "adj.",
-"m": "놓친",
+"m": "놓친; 그리워한",
+"n": "miss a flight/train(비행기·기차를 놓치다). missed call(부재중 전화)",
 "e": "I missed my train. What should I do?",
 "k": "기차를 놓쳤어요. 어떻게 해야 하죠?"
 },
@@ -5059,7 +5480,8 @@
 "ipa": "/rɪˈpleɪsmənt/",
 "h": "리플레이스먼트",
 "p": "n.",
-"m": "재발급, 교체품",
+"m": "재발급, 교체(품); 후임자",
+"n": "잃어버린 물건을 새로 받는 것. replacement card(재발급 카드)",
 "e": "How can I get a replacement passport?",
 "k": "여권을 어떻게 재발급받을 수 있나요?"
 },
@@ -5071,7 +5493,8 @@
 "ipa": "/ˈkænsəl maɪ kɑrd/",
 "h": "캔슬 마이 카드",
 "p": "phr.",
-"m": "카드를 정지하다",
+"m": "카드를 정지하다, 카드를 해지하다",
+"n": "분실·도난 시 카드 사용을 막는 것. block/freeze my card 라고도 함",
 "e": "I need to cancel my credit card right away.",
 "k": "신용카드를 당장 정지해야 해요."
 },
@@ -5083,7 +5506,8 @@
 "ipa": "/straɪk/",
 "h": "스트라이크",
 "p": "n.",
-"m": "파업",
+"m": "파업; 치다, 때리다",
+"n": "노동자들의 파업. go on strike(파업하다). 교통 파업은 출장 일정에 큰 영향",
 "e": "The train strike affected our schedule.",
 "k": "기차 파업 때문에 일정에 차질이 생겼어요."
 },
@@ -5095,7 +5519,8 @@
 "ipa": "/ˈwɛðər kənˈdɪʃənz/",
 "h": "웨더 컨디션즈",
 "p": "n.",
-"m": "기상 상황",
+"m": "기상 상황, 날씨 조건",
+"n": "비행기 지연·결항 안내에 자주 나오는 말. due to weather conditions",
 "e": "The flight was delayed due to weather conditions.",
 "k": "기상 상황 때문에 비행편이 지연됐어요."
 },
@@ -5107,7 +5532,8 @@
 "ipa": "/ˈkɑnˌtækt ˈnʌmbər/",
 "h": "칸택트 넘버",
 "p": "n.",
-"m": "연락처",
+"m": "연락처, 연락받을 번호",
+"n": "전화번호. emergency contact(비상 연락처)",
 "e": "Can I have an emergency contact number?",
 "k": "비상 연락처를 알 수 있을까요?"
 },
@@ -5120,6 +5546,7 @@
 "h": "게잇 체인지",
 "p": "n.",
 "m": "게이트 변경",
+"n": "탑승구가 바뀌는 것. 공항 안내판과 방송을 수시로 확인해야 함",
 "e": "There's been a gate change for our flight.",
 "k": "저희 비행편 게이트가 변경됐어요."
 },
@@ -5132,6 +5559,7 @@
 "h": "프라이오러티 보딩",
 "p": "n.",
 "m": "우선 탑승",
+"n": "비즈니스석·회원·노약자가 먼저 타는 것",
 "e": "Business class passengers have priority boarding.",
 "k": "비즈니스석 승객은 우선 탑승합니다."
 },
@@ -5144,6 +5572,7 @@
 "h": "씻 어사인먼트",
 "p": "n.",
 "m": "좌석 배정",
+"n": "비행기 좌석을 정해 받는 것. seat selection(좌석 선택)",
 "e": "I haven't received my seat assignment yet.",
 "k": "아직 좌석 배정을 못 받았어요."
 },
@@ -5155,7 +5584,8 @@
 "ipa": "/ˈfaɪnəl kɔl/",
 "h": "파이널 콜",
 "p": "n.",
-"m": "마지막 탑승 안내",
+"m": "마지막 탑승 안내, 최종 호출",
+"n": "곧 탑승구가 닫힌다는 마지막 방송. last call 이라고도 함",
 "e": "This is the final call for flight KE017.",
 "k": "KE017편 마지막 탑승 안내입니다."
 },
@@ -5167,7 +5597,8 @@
 "ipa": "/dʒɛt brɪdʒ/",
 "h": "젯 브리지",
 "p": "n.",
-"m": "탑승교",
+"m": "탑승교, 보딩 브리지",
+"n": "터미널과 비행기 문을 잇는 통로. air bridge, boarding bridge",
 "e": "We'll board through the jet bridge at gate 5.",
 "k": "5번 게이트 탑승교로 탑승합니다."
 },
@@ -5180,6 +5611,7 @@
 "h": "트레이 테이블",
 "p": "n.",
 "m": "(좌석) 접이식 테이블",
+"n": "앞좌석 뒤의 접이식 선반. 이착륙 때는 접어야 함(stow your tray table)",
 "e": "Please put your tray table up for landing.",
 "k": "착륙을 위해 테이블을 접어 주세요."
 },
@@ -5192,6 +5624,7 @@
 "h": "랜딩 카드",
 "p": "n.",
 "m": "입국 신고서",
+"n": "입국 시 작성하는 카드. arrival card, immigration form 이라고도 함",
 "e": "Please fill out this landing card before arrival.",
 "k": "도착 전에 입국 신고서를 작성해 주세요."
 },
@@ -5203,7 +5636,8 @@
 "ipa": "/ˈtrænzɪt/",
 "h": "트랜짓",
 "p": "n.",
-"m": "환승, 통과",
+"m": "환승, 통과; 대중교통",
+"n": "비행기 환승(transit passenger). public transit(대중교통)",
 "e": "Do I need a visa for transit?",
 "k": "환승할 때도 비자가 필요한가요?"
 },
@@ -5216,6 +5650,7 @@
 "h": "배기지 얼라우언스",
 "p": "n.",
 "m": "수하물 허용량",
+"n": "무료로 부칠 수 있는 짐의 무게·개수",
 "e": "What's the baggage allowance for economy?",
 "k": "이코노미석 수하물 허용량이 어떻게 되나요?"
 },
@@ -5228,6 +5663,7 @@
 "h": "어라이벌 타임",
 "p": "n.",
 "m": "도착 시간",
+"n": "비행기·기차가 도착하는 시각. 출발 시간은 departure time",
 "e": "Our arrival time is 7:40 in the morning.",
 "k": "도착 시간은 오전 7시 40분이에요."
 },
@@ -5240,6 +5676,7 @@
 "h": "패스포트 컨트롤",
 "p": "n.",
 "m": "여권 심사대",
+"n": "출입국 심사하는 곳. immigration 과 같은 뜻",
 "e": "Follow the signs to passport control.",
 "k": "여권 심사대 표지판을 따라가세요."
 },
@@ -5251,7 +5688,8 @@
 "ipa": "/ˈkʌstəmz ˌdɛkləˈreɪʃən/",
 "h": "커스텀즈 데클러레이션",
 "p": "n.",
-"m": "세관 신고서",
+"m": "세관 신고서; 세관 신고",
+"n": "입국 시 반입 물품을 적는 서류",
 "e": "Do I need to fill out a customs declaration?",
 "k": "세관 신고서를 써야 하나요?"
 },
@@ -5263,7 +5701,8 @@
 "ipa": "/ˈbɔrdɪŋ geɪt/",
 "h": "보딩 게잇",
 "p": "n.",
-"m": "탑승구",
+"m": "탑승구, 탑승 게이트",
+"n": "비행기에 타러 가는 문. gate 만 써도 됨",
 "e": "Please proceed to boarding gate 23.",
 "k": "23번 탑승구로 가 주세요."
 },
@@ -5276,6 +5715,7 @@
 "h": "에어라인",
 "p": "n.",
 "m": "항공사",
+"n": "비행기를 운항하는 회사. airliner 는 '여객기'",
 "e": "Which airline are you flying with?",
 "k": "어느 항공사 타세요?"
 },
@@ -5288,6 +5728,7 @@
 "h": "플라이트 어텐던트",
 "p": "n.",
 "m": "승무원",
+"n": "비행기 객실 승무원. 예전 말 stewardess 대신 성별 구분 없이 씀",
 "e": "I asked the flight attendant for a blanket.",
 "k": "승무원에게 담요를 달라고 했어요."
 },
@@ -5300,6 +5741,7 @@
 "h": "엑싯 로우",
 "p": "n.",
 "m": "비상구 좌석 열",
+"n": "비상구 옆 좌석 줄. 다리 공간이 넓지만 비상시 도울 수 있어야 앉을 수 있음",
 "e": "Seats in the exit row have more legroom.",
 "k": "비상구 좌석은 다리 공간이 더 넓어요."
 },
@@ -5312,6 +5754,7 @@
 "h": "커넥팅 게잇",
 "p": "n.",
 "m": "환승 게이트",
+"n": "갈아탈 비행기의 탑승구",
 "e": "How do I get to my connecting gate?",
 "k": "환승 게이트까지 어떻게 가나요?"
 },
@@ -5324,6 +5767,7 @@
 "h": "에어포트 셔틀",
 "p": "n.",
 "m": "공항 셔틀",
+"n": "공항과 호텔·시내를 오가는 버스",
 "e": "The airport shuttle leaves every 20 minutes.",
 "k": "공항 셔틀은 20분마다 출발해요."
 },
@@ -5336,6 +5780,7 @@
 "h": "디파처즈 보드",
 "p": "n.",
 "m": "출발 안내판",
+"n": "공항의 출발편 정보 화면. 도착은 arrivals board",
 "e": "Check the departures board for your gate.",
 "k": "출발 안내판에서 게이트를 확인하세요."
 },
@@ -5348,6 +5793,7 @@
 "h": "타임 디퍼런스",
 "p": "n.",
 "m": "시차",
+"n": "두 지역 사이의 시간 차이. time zone(시간대)과 구분",
 "e": "The time difference between Seoul and London is eight hours.",
 "k": "서울과 런던의 시차는 8시간이에요."
 },
@@ -5360,6 +5806,7 @@
 "h": "턴다운 서비스",
 "p": "n.",
 "m": "저녁 객실 정리 서비스",
+"n": "저녁에 침대를 정리하고 커튼을 쳐 주는 고급 호텔 서비스",
 "e": "Turndown service is offered every evening.",
 "k": "매일 저녁 객실 정리 서비스가 있어요."
 },
@@ -5372,6 +5819,7 @@
 "h": "트윈 룸",
 "p": "n.",
 "m": "트윈룸 (침대 두 개)",
+"n": "1인용 침대 두 개가 있는 방. double room 은 큰 침대 하나",
 "e": "We booked a twin room for two colleagues.",
 "k": "동료 두 명을 위해 트윈룸을 예약했어요."
 },
@@ -5384,6 +5832,7 @@
 "h": "킹사이즈 베드",
 "p": "n.",
 "m": "킹사이즈 침대",
+"n": "가장 큰 크기의 침대. queen-size 는 그보다 조금 작음",
 "e": "I'd like a room with a king-size bed.",
 "k": "킹사이즈 침대 방으로 주세요."
 },
@@ -5395,7 +5844,8 @@
 "ipa": "/spɛr ki/",
 "h": "스페어 키",
 "p": "n.",
-"m": "여분 열쇠",
+"m": "여분 열쇠, 보조 키",
+"n": "추가로 받는 열쇠·카드키",
 "e": "Could I get a spare key for my room?",
 "k": "방 여분 키를 받을 수 있을까요?"
 },
@@ -5408,6 +5858,7 @@
 "h": "헤어 드라이어",
 "p": "n.",
 "m": "헤어드라이어",
+"n": "머리 말리는 기계. blow dryer 라고도 함",
 "e": "Is there a hair dryer in the room?",
 "k": "방에 헤어드라이어가 있나요?"
 },
@@ -5420,6 +5871,7 @@
 "h": "블랙아웃 커튼즈",
 "p": "n.",
 "m": "암막 커튼",
+"n": "빛을 완전히 막는 커튼. 시차 적응에 도움이 됨",
 "e": "The blackout curtains helped me sleep.",
 "k": "암막 커튼 덕분에 잘 잤어요."
 },
@@ -5432,6 +5884,7 @@
 "h": "콰이엇 룸",
 "p": "n.",
 "m": "조용한 방",
+"n": "엘리베이터·도로에서 먼 방. 체크인 때 요청할 수 있음",
 "e": "Could I have a quiet room away from the elevator?",
 "k": "엘리베이터에서 먼 조용한 방으로 주실 수 있나요?"
 },
@@ -5444,6 +5897,7 @@
 "h": "룸 넘버",
 "p": "n.",
 "m": "방 번호",
+"n": "charge it to my room(방으로 달아 주세요) 할 때 방 번호를 말함",
 "e": "Please charge it to my room number.",
 "k": "제 방 번호로 청구해 주세요."
 },
@@ -5456,6 +5910,7 @@
 "h": "필로우",
 "p": "n.",
 "m": "베개",
+"n": "extra pillow(여분 베개). pillow menu(베개 종류 선택)가 있는 호텔도 있음",
 "e": "Could I get an extra pillow?",
 "k": "베개 하나 더 받을 수 있을까요?"
 },
@@ -5468,6 +5923,7 @@
 "h": "체크아웃 타임",
 "p": "n.",
 "m": "체크아웃 시간",
+"n": "방을 비워야 하는 시각(보통 오전 11시~정오)",
 "e": "What's the check-out time?",
 "k": "체크아웃 시간이 언제예요?"
 },
@@ -5480,6 +5936,7 @@
 "h": "부킹 레퍼런스",
 "p": "n.",
 "m": "예약 번호",
+"n": "예약을 확인하는 코드. confirmation number 와 같은 뜻",
 "e": "Can I have your booking reference?",
 "k": "예약 번호를 알려주시겠어요?"
 },
@@ -5492,6 +5949,7 @@
 "h": "스모킹 에리어",
 "p": "n.",
 "m": "흡연 구역",
+"n": "담배를 피울 수 있는 지정 장소. designated smoking area",
 "e": "Is there a smoking area outside?",
 "k": "밖에 흡연 구역이 있나요?"
 },
@@ -5504,6 +5962,7 @@
 "h": "엘러베이터",
 "p": "n.",
 "m": "엘리베이터",
+"n": "미국식. 영국식은 lift",
 "e": "The elevator is on your left.",
 "k": "엘리베이터는 왼쪽에 있어요."
 },
@@ -5516,6 +5975,7 @@
 "h": "아이스 머신",
 "p": "n.",
 "m": "제빙기",
+"n": "호텔 복도에 있는 얼음 기계",
 "e": "Is there an ice machine on this floor?",
 "k": "이 층에 제빙기가 있나요?"
 },
@@ -5528,6 +5988,7 @@
 "h": "브렉퍼스트 인클루디드",
 "p": "phr.",
 "m": "조식 포함",
+"n": "숙박 요금에 아침 식사가 포함된. room only 는 조식 불포함",
 "e": "Is breakfast included in the price?",
 "k": "가격에 조식이 포함되어 있나요?"
 },
@@ -5540,6 +6001,7 @@
 "h": "룸 업그레이드",
 "p": "n.",
 "m": "객실 업그레이드",
+"n": "더 좋은 등급의 방으로 바꿔 주는 것",
 "e": "Is a room upgrade available tonight?",
 "k": "오늘 밤 객실 업그레이드 가능한가요?"
 },
@@ -5551,7 +6013,8 @@
 "ipa": "/nɔɪz kəmˈpleɪnt/",
 "h": "노이즈 컴플레인트",
 "p": "n.",
-"m": "소음 항의",
+"m": "소음 항의, 소음 민원",
+"n": "시끄럽다고 항의하는 것. make a noise complaint",
 "e": "I'd like to make a noise complaint.",
 "k": "소음 때문에 항의하고 싶어요."
 },
@@ -5563,7 +6026,8 @@
 "ipa": "/ɛr kənˈdɪʃənɪŋ/",
 "h": "에어 컨디셔닝",
 "p": "n.",
-"m": "에어컨",
+"m": "에어컨, 냉방",
+"n": "줄여서 AC, A/C. 기계 자체는 air conditioner",
 "e": "How do I turn on the air conditioning?",
 "k": "에어컨은 어떻게 켜나요?"
 },
@@ -5575,7 +6039,8 @@
 "ipa": "/ˈsɑkət/",
 "h": "사킷",
 "p": "n.",
-"m": "콘센트",
+"m": "콘센트; 소켓",
+"n": "전기 꽂는 곳. outlet(미국식), power point(호주)라고도 함",
 "e": "Where's the socket near the desk?",
 "k": "책상 근처 콘센트가 어디 있나요?"
 },
@@ -5588,6 +6053,7 @@
 "h": "폴리오",
 "p": "n.",
 "m": "숙박 명세서",
+"n": "호텔 투숙 중 발생한 요금 내역서. 경비 정산 때 영수증 대신 제출하기도 함",
 "e": "Could you email me the folio?",
 "k": "숙박 명세서를 이메일로 보내주시겠어요?"
 },
@@ -5600,6 +6066,7 @@
 "h": "버스 스탑",
 "p": "n.",
 "m": "버스 정류장",
+"n": "버스가 서는 곳. 종점·터미널은 bus terminal/station",
 "e": "Where's the nearest bus stop?",
 "k": "가장 가까운 버스 정류장이 어디예요?"
 },
@@ -5612,6 +6079,7 @@
 "h": "트레인 스테이션",
 "p": "n.",
 "m": "기차역",
+"n": "기차를 타는 역. 지하철역은 subway station",
 "e": "How far is the train station from here?",
 "k": "여기서 기차역까지 얼마나 먼가요?"
 },
@@ -5624,6 +6092,7 @@
 "h": "티킷 머신",
 "p": "n.",
 "m": "발권기",
+"n": "표를 사는 자동 판매기. ticket vending machine",
 "e": "You can buy a ticket from the ticket machine.",
 "k": "발권기에서 표를 살 수 있어요."
 },
@@ -5636,6 +6105,7 @@
 "h": "트랜짓 카드",
 "p": "n.",
 "m": "교통카드",
+"n": "대중교통용 충전식 카드. travel card, metro card 등 도시마다 이름이 다름",
 "e": "Where can I buy a transit card?",
 "k": "교통카드는 어디서 사나요?"
 },
@@ -5647,7 +6117,8 @@
 "ipa": "/tɑp ʌp/",
 "h": "탑 업",
 "p": "v.",
-"m": "(카드를) 충전하다",
+"m": "(카드를) 충전하다; (잔을) 채우다",
+"n": "교통카드·선불폰 잔액을 채우다. 미국에서는 reload/add value 라고도 함",
 "e": "I need to top up my transit card.",
 "k": "교통카드를 충전해야 해요."
 },
@@ -5660,6 +6131,7 @@
 "h": "넥스트 스탑",
 "p": "n.",
 "m": "다음 정류장",
+"n": "버스·지하철 안내 방송의 단골 표현",
 "e": "The next stop is City Hall.",
 "k": "다음 정류장은 시청입니다."
 },
@@ -5672,6 +6144,7 @@
 "h": "테이크 어 캡",
 "p": "phr.",
 "m": "택시를 타다",
+"n": "cab 은 taxi 와 같은 말(미국 구어)",
 "e": "Let's take a cab to save time.",
 "k": "시간 아끼게 택시 타요."
 },
@@ -5684,6 +6157,7 @@
 "h": "헤일 어 택시",
 "p": "phr.",
 "m": "택시를 잡다",
+"n": "길에서 손을 들어 택시를 세우다. flag down a taxi 라고도 함",
 "e": "It's hard to hail a taxi in the rain.",
 "k": "비 올 때는 택시 잡기가 어려워요."
 },
@@ -5695,7 +6169,8 @@
 "ipa": "/streɪt əˈhɛd/",
 "h": "스트레잇 어헤드",
 "p": "phr.",
-"m": "곧장 앞으로",
+"m": "곧장 앞으로, 똑바로",
+"n": "길 안내 기본 표현. go straight ahead",
 "e": "Go straight ahead for two blocks.",
 "k": "두 블록 곧장 가세요."
 },
@@ -5708,6 +6183,7 @@
 "h": "턴 라이트",
 "p": "phr.",
 "m": "우회전하다",
+"n": "길 안내 기본 표현. 좌회전은 turn left",
 "e": "Turn right at the traffic light.",
 "k": "신호등에서 우회전하세요."
 }

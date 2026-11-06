@@ -10,7 +10,7 @@ WORDS = ROOT / "words.json"   # 앱이 받아가는 공개 단어 목록 (순서
 QUEUE = ROOT / "queue.json"   # 아직 공개 안 한 대기 단어 (매주 50개씩 words.json 으로 이동)
 
 POS = {"n.", "v.", "adj.", "adv.", "prep.", "phr.", "interj."}
-FIELDS = ("c", "w", "p", "m", "e", "k", "h")
+FIELDS = ("c", "w", "p", "m", "e", "k", "h")  # + 선택: "n"(뜻 설명), "ipa"
 
 
 def load(path):
@@ -27,7 +27,7 @@ def categories(words):
 
 def clean(entry, cats, taken):
     """형식이 맞으면 정리된 항목, 아니면 (None, 이유)"""
-    e = {k: str(entry.get(k, "")).strip() for k in FIELDS + ("ipa",)}
+    e = {k: str(entry.get(k, "")).strip() for k in FIELDS + ("ipa", "n")}
     w = e["w"]
     if not w or len(w) > 40 or not re.fullmatch(r"[A-Za-z][A-Za-z '&\-]*", w):
         return None, "단어 형식"
@@ -49,5 +49,8 @@ def clean(entry, cats, taken):
         ipa = e["ipa"].strip("/ ")
     if not ipa:
         return None, "발음기호 없음 (ipa 칸을 채워 주세요)"
-    return {"c": e["c"], "w": w, "ipa": f"/{ipa}/", "h": e["h"], "p": e["p"],
-            "m": e["m"], "e": e["e"], "k": e["k"]}, None
+    item = {"c": e["c"], "w": w, "ipa": f"/{ipa}/", "h": e["h"], "p": e["p"], "m": e["m"]}
+    if e["n"]:
+        item["n"] = e["n"]
+    item.update({"e": e["e"], "k": e["k"]})
+    return item, None
